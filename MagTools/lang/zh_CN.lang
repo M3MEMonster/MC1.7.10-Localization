@@ -1,0 +1,55 @@
+//English language file for Magnanimous Tools
+
+//Items
+item.MagnanimousSword.name=恕炼之剑
+item.MagnanimousPick.name=恕炼之镐
+item.MagnanimousAxe.name=恕炼之斧
+item.MagnanimousHatchet.name=恕炼手斧
+item.MagnanimousHammer.name=恕炼之锤
+item.MagnanimousShovel.name=恕炼之铲
+item.MagnanimousEarthMover.name=恕炼开掘铲
+item.MagnanimousSapling.name=恕炼树苗
+item.MagnanimousGem.name=恕炼能晶
+item.HardenedHandle.name=强化手柄
+
+item.MagSwordBlade.name=恕炼剑刃
+item.MagPickHead.name=恕炼镐头
+item.MagHammerHead.name=恕炼锤头
+item.MagShovelHead.name=恕炼铲头
+item.MagAxeHead.name=恕炼斧刃
+item.MagHatchetHead.name=恕炼手斧头
+item.MagHoeHead.name=恕炼锄头
+item.MagEarthMoverHead.name=恕炼开掘铲头
+item.MagStick.name=恕炼木棍
+
+//Blocks
+tile.MagLog.name=恕炼原木
+tile.MagLeaves.name=恕炼叶
+tile.MagPlank.name=恕炼木板
+tile.MagStairs.name=恕炼楼梯
+tile.MagSlab.name=恕炼台阶
+
+//Phrases
+
+//Context - "Does 10 Experience Damage"
+phrase.magtools.does=加成
+phrase.magtools.xpdamage=经验性伤害
+
+//ToolInfo
+phrase.magtools.hammerinfo=挖掘 3x3 区域
+phrase.magtools.earthmoverinfo=挖掘 3x3 区域
+
+
+//ToolHead Info
+phrase.magtools.handleinfo=勤加练习，方可驾驭
+phrase.magtools.handleinfo2=在铁砧中将其和工具头结合在一起
+phrase.magtools.hammerheadinfo=恕炼之锤的锤头
+phrase.magtools.axeheadinfo=恕炼之斧的斧刃
+phrase.magtools.shovelheadinfo=恕炼之铲的铲头
+phrase.magtools.earthmoverheadinfo=恕炼开掘铲的铲头
+phrase.magtools.swordbladeinfo=恕炼之剑的剑刃
+phrase.magtools.pickheadinfo=恕炼之镐的镐头
+phrase.magtools.geminfo=天地灵念，万类霜天；千锤百炼，法力无边
+phrase.magtools.magstickinfo=不鸣则已，一鸣惊人
+
+phrase.holdshift=按住Shift

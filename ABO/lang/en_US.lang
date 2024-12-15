@@ -1,0 +1,64 @@
+# Master language file
+
+additional-buildcraft-objects.boardRobot.stoner=Stoner
+additional-buildcraft-objects.boardRobot.stoner.desc=Mines Stone
+additional-buildcraft-objects.boardRobot.woody=Woody
+additional-buildcraft-objects.boardRobot.woody.desc=Cuts Planks
+
+item.PipeFluidsValve.name=Valve Pipe
+item.PipeFluidsGoldenIron.name=Golden Iron Fluid Pipe
+item.PipeFluidsReinforcedGoldenIron.name=Reinforced Golden Iron Fluid Pipe
+item.PipeFluidsReinforcedGolden.name=Reinforced Golden Fluid Pipe
+item.PipeFluidsBalance.name=Balancing Fluid Pipe
+item.PipeFluidsDrain.name=Drain Pipe
+item.PipeFluidsInsertion.name=Insertion Fluid Pipe
+item.PipeItemsRoundRobin.name=Round-Robin Transport Pipe
+item.PipeItemsInsertion.name=Insertion Pipe
+item.PipeItemsDivide.name=Division Transport Pipe
+item.PipeItemsExtraction.name=Extraction Transport Pipe
+item.PipeItemsCrossover.name=Crossover Transport Pipe
+item.PipeItemsCompactor.name=Compactor Transport Pipe
+item.PipeItemsBounce.name=Bounce Transport Pipe
+item.PipePowerSwitch.name=Kinesis Switch Pipe
+item.PipePowerDirected.name=Diode Kinesis Pipe
+item.PipeItemsEnderExtraction.name=Ender Extraction Pipe
+item.waterwheelItem.name=Waterwheel
+tile.windmillBlock.name=Windmill
+tile.waterwheelBlock.name=Waterwheel
+tile.blockAccelerator.name=Accelerator
+
+# da3dsoul, might eventually be moved
+
+tile.largebuttonstone.name=Large Stone Button
+tile.largebuttonwood.name=Large Wooden Button
+tile.brickNoCrossing.name=§oThe Line§r
+
+
+tile.sandStone.name=Sandstone
+tile.sandStone.bricks.name=Sandstone Bricks
+tile.sandStone.cracked_bricks.name=Cracked Sandstone Bricks
+tile.sandStone.mossy_bricks.name=Mossy Sandstone Bricks
+tile.sandStone.smooth.name=Smooth Sandstone
+tile.sandStone.cracked_smooth.name=Cracked Smooth Sandstone
+tile.sandStone.mossy_smooth.name=Mossy Smooth Sandstone
+
+
+item.MobBottleFull.name=Mob Bottle (Full)
+item.MobBottleEmpty.name=Mob Bottle
+item.MobBottleNoEntityName0.name=The entity does not have a localized name.
+item.MobBottleNoEntityName1.name=Contact the mod developer and they 'might' fix it.
+item.MobBottleNoEntityName2.name=The entity's unlocalized name is:
+item.MobBottlePressShift.name=Press shift for more details.
+item.GoldenStaff.name=Yellow Dye on a Stick
+
+item.thermalImplication.name=Thermal Implication
+item.autocompressor.name=Auto Compressor
+
+tile.blockLiquidXP.name=Liquid Experience
+
+generator.scaryGen=ScaryGen
+generator.scaryGenBOP=ScaryGen (BOP)
+# Because it pissed me off...
+generator.CandyCraft=Candy Craft
+
+death.attack.experience=%1$s十分な経験を持っていない。たぶん、彼奴が学んでいる？

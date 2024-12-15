@@ -1,0 +1,40 @@
+itemGroup.Pistronics2=Pistronics 2
+
+Mechanic Piston.name=活塞体
+Mechanic Rotator.name=换向器
+Creative Machine.name=创造用活塞换向一体器
+Partblock.name=连接部分
+Rod Folder.name=连杆储存器
+Rod Block.name=连杆
+Rod Part Block.name=连杆部件
+Extension Block.name=活塞头
+Extension Part Block.name=活塞头部件
+Motion Block.name=运动屏障
+Block of Camou.name=迷彩方块
+Slimeblock.slime.name=粘液块
+Slimeblock.glue.name=胶块
+Slimeblock.superglue.name=超级无敌胶黏块
+Statue.name=雕像
+Stopper.Stopper.name=停止器
+Mechanic Sensor.name=感应器
+
+Extension.name=活塞头
+Rod.name=连杆
+Extension Part.name=活塞头部件
+Rod Part.name=连杆部件
+Sail Part.name=帆布部件
+Gear.name=齿轮 (WIP)
+Glue.name=胶液
+Super Glue.name=超级胶液
+Camou Paste.name=迷彩
+Pile of Redstone.name=小撮红石
+The Tool.name=扳手
+Saw.name=锯子
+Spade.name=刮刀
+Redioactive Glue.name=能敏性胶液
+Redioactive Super Glue.name=能敏性超级胶液
+Petrify Extract.name=石化药剂
+Petrify Arrow.name=石化箭
+Book of Gears.name=齿轮之书
+Chisel.name=凿子
+

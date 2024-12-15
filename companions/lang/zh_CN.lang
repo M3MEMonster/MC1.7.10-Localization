@@ -1,0 +1,12 @@
+//items
+item.companions:titleItem.name=小宠卷轴
+
+//titles
+companions.title_navi=小精灵
+companions.title_enchanter=附魔之力
+companions.title_dragon=小龙
+companions.title_bat=小蝙蝠
+companions.title_butterfly=迷幻蝶
+
+//tooltips
+companions.tooltip_titleItem=（会施加特殊渲染效果）

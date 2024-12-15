@@ -1,0 +1,25 @@
+entity.DragonMount.air.name=天境龙
+entity.DragonMount.end.name=末影龙
+entity.DragonMount.fire.name=赤焰龙
+entity.DragonMount.ghost.name=幽冥龙
+entity.DragonMount.ice.name=寒冰龙
+entity.DragonMount.name=末影龙
+entity.DragonMount.nether.name=地狱龙
+entity.DragonMount.water.name=水龙
+entity.DragonMount.forest.name=森林龙
+
+commands.dragon.nodragons=这附近没有龙
+commands.dragon.canttame=你还不能够驯服龙
+
+dragon.lifeStage.egg=蛋
+dragon.lifeStage.hatchling=孵化中
+dragon.lifeStage.juvenile=幼年
+dragon.lifeStage.adult=成年
+dragon.owned=这只龙不听从你的指令。
+dragon.mountNotice=通过%s和%s控制上升和下降
+
+key.categories.dragonmount=Dragon Controls
+key.dragon.flyUp=上升
+key.dragon.flyDown=下降
+
+attribute.name.generic.movementSpeedAir=速度(飞行)

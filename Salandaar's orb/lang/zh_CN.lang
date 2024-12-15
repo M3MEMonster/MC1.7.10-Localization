@@ -1,0 +1,16 @@
+###### Bread ######
+
+#blocks
+tile.sgs_salandaars_orb_salandaarsOrb.name=Salandaar之眼
+
+# item names
+
+# item-block names
+
+#itemGroup
+itemGroup.salandaars_orb_tab=Salandaar之眼
+
+#entity names
+
+#tool tips
+tooltip.sgs_salandaars_orb_salandaarsOrb="目光所及之处，万物皆无所遁形"

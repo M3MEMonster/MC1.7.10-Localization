@@ -1,0 +1,4 @@
+commands.timescale.invalid=时间缩放比例无效
+commands.timescale.get=时间缩放比例为%s
+commands.timescale.set=时间缩放比例设置为%s
+commands.timescale.usage=/timescale [set <scale>]

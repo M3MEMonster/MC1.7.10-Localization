@@ -1,0 +1,164 @@
+
+itemGroup.ICBM=ICBM
+
+potion.toxin=毒素
+potion.virus=病毒
+potion.frostBite=霜冻
+potion.radiation=辐射
+
+## Items
+item.icbm:sulfur.name=硫磺
+item.icbm:poisonPowder.name=毒素粉末
+item.icbm:antidote.name=解毒剂
+item.icbm:radarGun.name=雷达枪
+item.icbm:remoteDetonator.name=遥控器
+item.icbm:defuser.name=拆弹器
+item.icbm:laserDesignator.name=激光指示器
+item.icbm:tracker.name=追踪器
+item.icbm:signalDisrupter.name=信号干扰器
+
+item.icbm:bullet.0.name=普通子弹
+item.icbm:bullet.1.name=反物质子弹
+item.icbm:rocketLauncher.name=手持导弹发射器
+
+## ICBM Machines
+icbm.machine.0.name=发射台 T1
+icbm.machine.1.name=发射台 T2
+icbm.machine.2.name=发射台 T3
+icbm.machine.3.name=导弹控制器 T1
+icbm.machine.4.name=导弹控制器 T2
+icbm.machine.5.name=导弹控制器 T3
+icbm.machine.6.name=导弹支撑架 T1
+icbm.machine.7.name=导弹支撑架 T2
+icbm.machine.8.name=导弹支撑架 T3
+icbm.machine.9.name=雷达
+icbm.machine.10.name=电磁脉冲塔
+icbm.machine.11.name=巡航发射器
+icbm.machine.12.name=导弹轨道计算器
+
+## ICBM Explosives
+
+## Block Form
+icbm.explosive.condensed.name=浓缩炸药
+icbm.explosive.shrapnel.name=弹片炸药
+icbm.explosive.incendiary.name=烈焰炸药
+icbm.explosive.debilitation.name=虚弱炸药
+icbm.explosive.chemical.name=化学炸药
+icbm.explosive.anvil.name=铁砧炸药
+icbm.explosive.repulsive.name=排斥炸药
+icbm.explosive.attractive.name=吸引炸药
+
+icbm.explosive.fragmentation.name=破片炸药
+icbm.explosive.contagious.name=瘟疫炸药
+icbm.explosive.sonic.name=声波炸药
+icbm.explosive.breaching.name=毁灭炸药
+icbm.explosive.rejuvenation.name=再生炸药
+icbm.explosive.thermobaric.name=温压炸药
+
+icbm.explosive.nuclear.name=核弹
+icbm.explosive.emp.name=电磁脉冲炸药
+icbm.explosive.exothermic.name=放热炸药
+icbm.explosive.endothermic.name=吸热炸药
+icbm.explosive.antiGravitational.name=反重力炸药
+icbm.explosive.ender.name=末影炸药
+icbm.explosive.hypersonic.name=超音速炸药
+
+icbm.explosive.antimatter.name=反物质炸药
+icbm.explosive.redMatter.name=红物质炸药
+
+icbm.explosive.sMine.name=钻地炸药
+
+## Missile Form
+icbm.missile.condensed.name=浓缩导弹
+icbm.missile.shrapnel.name=弹片导弹
+icbm.missile.incendiary.name=烈焰导弹
+icbm.missile.debilitation.name=虚弱导弹
+icbm.missile.chemical.name=化学导弹
+icbm.missile.anvil.name=铁砧导弹
+icbm.missile.repulsive.name=排斥导弹
+icbm.missile.attractive.name=吸引导弹
+
+icbm.missile.fragmentation.name=破片导弹
+icbm.missile.contagious.name=瘟疫导弹
+icbm.missile.sonic.name=声波导弹
+icbm.missile.breaching.name=毁灭导弹
+icbm.missile.rejuvenation.name=再生导弹
+icbm.missile.thermobaric.name=温压导弹
+
+icbm.missile.nuclear.name=核导弹
+icbm.missile.emp.name=电磁脉冲导弹
+icbm.missile.exothermic.name=放热导弹
+icbm.missile.endothermic.name=吸热导弹
+icbm.missile.antiGravitational.name=反重力导弹
+icbm.missile.ender.name=末影导弹
+icbm.missile.hypersonic.name=超音速导弹
+
+icbm.missile.antimatter.name=反物质导弹
+icbm.missile.redMatter.name=红物质导弹
+## Special Missiles
+icbm.missile.missileModule.name=导弹组件
+icbm.missile.antiBallistic.name=反轨道导弹
+icbm.missile.cluster.name=集束导弹
+icbm.missile.nuclearCluster.name=核集束导弹
+icbm.missile.homing.name=跟踪导弹
+
+## Grenades
+icbm.grenade.condensed.name=浓缩手榴弹
+icbm.grenade.shrapnel.name=弹片手榴弹
+icbm.grenade.incendiary.name=烈焰手榴弹
+icbm.grenade.debilitation.name=虚弱手榴弹
+icbm.grenade.chemical.name=化学手榴弹
+icbm.grenade.anvil.name=铁砧手榴弹
+icbm.grenade.repulsive.name=排斥手榴弹
+icbm.grenade.attractive.name=吸引手榴弹
+## Explosive Minecarts
+icbm.minecart.condensed.name=普通炸药矿车
+icbm.minecart.shrapnel.name=弹片炸药矿车
+icbm.minecart.incendiary.name=烈焰炸药矿车
+icbm.minecart.debilitation.name=虚弱炸药矿车
+icbm.minecart.chemical.name=化学炸药矿车
+icbm.minecart.anvil.name=铁砧炸药矿车
+icbm.minecart.repulsive.name=排斥炸药矿车
+icbm.minecart.attractive.name=吸引炸药矿车
+
+icbm.minecart.fragmentation.name=破片炸药矿车
+icbm.minecart.contagious.name=瘟疫炸药矿车
+icbm.minecart.sonic.name=声波炸药矿车
+icbm.minecart.breaching.name=毁灭炸药矿车
+icbm.minecart.rejuvenation.name=再生炸药矿车
+icbm.minecart.thermobaric.name=温压炸药矿车
+
+## ICBM Misc Blocks
+tile.icbm:oreSulfur.name=硫磺矿石
+tile.icbm:concrete.name=混凝土
+tile.icbm:concreteCompact.name=超级混凝土
+tile.icbm:concreteReinforced.name=强化混凝土
+tile.icbm:glassReinforced.name=钢化玻璃
+tile.icbm:glassPressurePlate.name=钢化玻璃压力板
+tile.icbm:glassButton.name=钢化玻璃按钮
+tile.icbm:camouflage.name=伪装方块
+tile.icbm:proximityDetector.name=感应器
+tile.icbm:spikes.0.name=地刺
+tile.icbm:spikes.1.name=毒性地刺
+tile.icbm:spikes.2.name=烈焰地刺
+
+## ICBM Sentry
+## Translated by Calclavia
+tile.icbm:turret.0.name=炮塔
+tile.icbm:turret.1.name=电磁炮
+tile.icbm:turret.2.name=防空炮塔
+tile.icbm:turret.3.name=激光炮塔
+tile.icbm:turretPlatform.name=炮塔平台
+
+item.icbm:bulletShell.name=弹壳
+item.icbm:bullet.name=普通子弹
+item.icbm:bulletRailgun.name=电磁炮子弹
+item.icbm:bulletAntimatter.name=反物质子弹
+item.icbm:bulletInfinite.name=无限子弹
+
+item.icbm:targetCard.name=范围升级
+item.icbm:shellCollector.name=防御升级
+
+## Deaths
+death.attack.bullet=%1$s 被射成了奶酪
+death.attack.laser=%1$s 在一瞬间被激光气化

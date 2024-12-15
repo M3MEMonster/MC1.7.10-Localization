@@ -1,0 +1,56 @@
+item.cartlivery:cutter.name=车贴钳
+item.cartlivery:sticker.name=车贴
+tile.cartlivery:autoCutter.name=批量车贴生产器
+cartlivery.builtin=内置: %s
+cartlivery.respack=资源包: %s
+
+cartlivery.stripe1.name=标准条纹
+cartlivery.stripe2.name=双条纹
+cartlivery.arrowup.name=向上箭头
+cartlivery.dblarrow.name=双箭头
+cartlivery.corners1.name=对角
+cartlivery.bottom.name=双色
+cartlivery.thissideup.name=此面朝上
+cartlivery.love.name=爱心
+cartlivery.db.name=德国铁路
+cartlivery.railtech.name=Rail-Tech
+cartlivery.fragile.name=易碎
+cartlivery.electrical_hazard.name=小心触电
+cartlivery.fallout.name=辐射4
+cartlivery.radioactive.name=放射性
+cartlivery.railroad.name=小心铁道
+cartlivery.warning.name=警示标志
+cartlivery.flammable.name=易燃物品
+cartlivery.biohazard.name=生化警示
+cartlivery.diagonal.name=斜条纹
+cartlivery.thick_diagonal.name=厚斜条纹
+
+color.0.name=黑色
+color.1.name=红色
+color.2.name=绿色
+color.3.name=棕色
+color.4.name=蓝色
+color.5.name=紫色
+color.6.name=青色
+color.7.name=浅灰
+color.8.name=晦涩
+color.9.name=粉色
+color.10.name=青绿
+color.11.name=黄色
+color.12.name=浅蓝
+color.13.name=品红
+color.14.name=橙色
+color.15.name=白色
+
+option.cartlivery.showPattern=图案
+option.cartlivery.showResPack=资源包
+option.cartlivery.showColors=颜色
+option.cartlivery.showEmblem=徽标
+
+message.cartlivery.overwriteModel=正在覆写矿车模型
+message.cartlivery.overwriteModelMinecraftFail=覆写原版矿车模型失败，使用默认材质显示
+message.cartlivery.overwriteModelRailcraftFail=覆写Railcraft矿车模型失败，使用默认材质显示
+message.cartlivery.registerBuiltIn=从 %s 获取默认车贴 %d
+message.cartlivery.invalidExclusion= %s 试图对一个不存在的class %s 注册class exclusion
+message.cartlivery.invalidLiveryRequest=来自 %s 的无效请求
+message.cartlivery.invalidLiveryUpdate=车贴更换失败
