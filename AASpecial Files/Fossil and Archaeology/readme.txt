@@ -1,0 +1,1 @@
+将文件夹放入assets\fossil\dinopedia中

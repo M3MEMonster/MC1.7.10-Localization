@@ -1,0 +1,1 @@
+将其放入assets\tinker\manuals\zh_CN中
