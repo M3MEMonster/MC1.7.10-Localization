@@ -57,13 +57,13 @@ item.warp_amulet.name=扭曲意志护符
 item.aspect_ring.name=世界亲和之戒
 #blocks
 tile.runeStone.name=符文方块
-tile.etheriumSprinkler.name=魔力弥散器
-tile.voidCatcher.name=魔力捕手
-tile.etheriumOscillator.name=魔力调谐器
-tile.etheriumCondenser.name=魔力压缩机
-tile.etheriumExtractor.name=魔力能化炉
-tile.etheriumOvercharger.name=魔力过充器
-tile.etheriumBattery.name=魔力电池
+tile.etheriumSprinkler.name=灵能弥散器
+tile.voidCatcher.name=灵能凝聚装置
+tile.etheriumOscillator.name=灵能谐振器
+tile.etheriumCondenser.name=灵能冷凝器
+tile.etheriumExtractor.name=灵能萃取器
+tile.etheriumOvercharger.name=灵能过充装置
+tile.etheriumBattery.name=灵能电池
 #key bindings
 key.categories.am2pg=AM2 PlayGround
 key.am2pg.nextLine=法术书：下一书签
@@ -139,7 +139,7 @@ am2pg.inventory.recursion_ring=递归之戒
 #attribute
 attribute.name.am2pg.fireDamage=火焰伤害
 #enchantments
-enchantment.level.-42=自然的牺牲
+enchantment.level.-42=自然献祭
 #entity
 entity.am2pg.SpellMissile.name=导弹
 entity.am2pg.DummySpellEffect.name=啥?
