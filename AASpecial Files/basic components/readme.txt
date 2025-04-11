@@ -1,1 +1,0 @@
-将其放入assets\basiccomponents\languages中
