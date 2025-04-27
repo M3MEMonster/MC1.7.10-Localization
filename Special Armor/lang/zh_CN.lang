@@ -11,11 +11,11 @@ item.magicsubstance.name=魔力物质
 item.hoverboots.name=悬空靴子
 item.obsidianplate.name=黑曜石胸甲
 item.chain.name=锁链
-item.slimehelmet.name粘液头盔
+item.slimehelmet.name=粘液头盔
 item.tntplate.name=TNT胸甲
 item.jetpack.name=喷气背包
 item.rocket.name=火箭
-item.jetpackmiddle.name=中型喷气背包
+item.jetpackmiddle.name=喷气背包（合成用）
 item.porkhelmet.name=猪肉头盔
 item.porkplate.name=猪肉胸甲
 item.porklegs.name=猪肉护腿

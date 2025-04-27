@@ -59,14 +59,14 @@ item.veg_cree.name=库里尔萝卜
 item.veg_mimett.name=米梅特葫芦
 item.veg_reagan.name=里根圆椒
 item.veg_sylkis.name=希尔奇斯菜蓟
-item.nut_pipio.name=Pipio Nut
-item.nut_luchile.name=Luchile Nut
-item.nut_saraha.name=Saraha Bean
-item.nut_lasan.name=Lasan Nut
-item.nut_porov.name=Porov Bean
-item.nut_param.name=Param Nut
-item.nut_carob.name=Carob Nut
-item.nut_zeio.name=Zeio Nut
+item.nut_pipio.name=皮皮欧浆果
+item.nut_luchile.name=路奇尔坚果
+item.nut_saraha.name=萨拉哈红豆
+item.nut_lasan.name=拉赞橡果
+item.nut_porov.name=珀洛扁豆
+item.nut_param.name=帕拉姆袋果
+item.nut_carob.name=卡洛柏角豆
+item.nut_zeio.name=泽奥泥豆
 
 # Spawn Eggs
 eggdisplay.chococraft.chocobo.yellow.name=§e黄色§e陆行鸟§r

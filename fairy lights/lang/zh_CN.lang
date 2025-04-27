@@ -1,3 +1,34 @@
-item.fairy_lights.name=圣诞彩灯
-item.fairy_lights.colors=颜色:
+itemGroup.fairylights=圣诞彩灯
+
+tile.fairy_lights.name=Connection Fastener
+
+item.fairy_lights.name=挂灯
+item.garland.name=葡萄藤花环
+item.tinsel.name=金属丝花环
+
+item.fairy_lights.pattern=形状:
 item.fairy_lights.tight=绷直
+item.fairy_lights.colored_light=%1$s %2$s
+
+item.tinsel.colored=%1$s %2$s
+
+item.light.fairy.name=小灯
+item.light.paper.name=纸灯笼
+item.light.orb.name=球形灯笼
+item.light.flower.name=花灯
+item.light.ornate.name=华灯
+item.light.oil.name=油灯
+item.light.luxo_ball.name=Luxo Ball
+item.light.jack_o_lantern.name=南瓜灯
+item.light.skull.name=头颅灯
+item.light.ghost.name=幽灵灯
+item.light.spider.name=蜘蛛灯
+item.light.witch.name=女巫帽灯
+item.light.weedwood_lantern.name=杂草木灯笼
+item.light.snowflake.name=雪花灯
+item.light.icicle.name=冰凌灯
+item.light.meteor.name=流星灯
+
+item.light.weedwood_lantern.line.0=来自晦暗幽深之地...
+item.light.weedwood_lantern.line.1=有关交错次元的信息可从此处查询:
+item.light.weedwood_lantern.line.2=http://bit.ly/TheBetweenlands

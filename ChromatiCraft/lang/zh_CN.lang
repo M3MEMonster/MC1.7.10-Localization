@@ -167,6 +167,11 @@ chroma.rfpod=RF豆荚
 chroma.encrusted=流明镀层水晶
 chroma.injectorfocus=铸件台输入中继器
 chroma.hoverpadaux=物理悬浮灯
+chroma.dyevine=藤蔓
+chroma.dyevinefertile=茂沃藤蔓
+chroma.voidcave=生命涌泉
+chroma.panelswitch=水晶开关
+chroma.lightpanel=指示灯
 chroma.mud=蕴魔淤泥
 
 chroma.bucket=桶
@@ -576,7 +581,7 @@ tc.aspect.perplexus=谜团
 tc.aspect.signum=信号，传输，广播
 tc.aspect.principia=先驱
 
-dragonapi.allele.Multiply=Multiply
+dragonapi.allele.Multiply=倍增
 dragonapi.allele.Accelerated=迅捷
 dragonapi.allele.Naturalistic=自然主义
 dragonapi.allele.Exploratory=探索
