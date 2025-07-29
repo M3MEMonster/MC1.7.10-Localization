@@ -1,1 +1,0 @@
-将文件夹放入Reika\ChromatiCraft\Resources中，直接放入即可，不要自作聪明替换！
