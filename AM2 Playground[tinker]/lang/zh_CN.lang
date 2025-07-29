@@ -1,0 +1,9 @@
+﻿#tinkers construct
+
+#items
+item.fluid_buckets.sunstonealloy.name=熔融太阳合金桶
+#metarial
+material.sunstone_alloy=太阳合金
+material.sunstone_alloy.ability=§4红日
+tile.fluid.molten.sunstonealloy.name=熔融太阳合金
+fluid.sunstonealloy.molten=熔融太阳合金

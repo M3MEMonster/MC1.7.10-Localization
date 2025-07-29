@@ -1,0 +1,70 @@
+# Creative Tab
+itemGroup.notenoughpets=更多宠物
+
+# Entities
+entity.notenoughpets.Ocelot_NEP.name=豹猫
+entity.notenoughpets.Wolf_NEP.name=狼
+entity.notenoughpets.Mooshroom_NEP.name=哞菇
+entity.notenoughpets.Parrot_NEP.name=鹦鹉
+
+# Spawn Eggs
+eggdisplay.notenoughpets.cat.ocelot.name=豹猫 (NEP)
+eggdisplay.notenoughpets.cat.tuxedo.name=奶牛猫
+eggdisplay.notenoughpets.cat.redtabby.name=橘猫
+eggdisplay.notenoughpets.cat.siamese.name=暹罗猫
+eggdisplay.notenoughpets.cat.britishshorthair.name=英短
+eggdisplay.notenoughpets.cat.calico.name=三花猫
+eggdisplay.notenoughpets.cat.persian.name=波斯猫
+eggdisplay.notenoughpets.cat.ragdoll.name=布偶猫
+eggdisplay.notenoughpets.cat.white.name=白猫
+eggdisplay.notenoughpets.cat.jellie.name=Jellie猫
+eggdisplay.notenoughpets.cat.black.name=黑猫
+eggdisplay.notenoughpets.cat.black_named.name=已命名的黑猫
+eggdisplay.notenoughpets.cat.browntabby.name=棕虎斑猫
+eggdisplay.notenoughpets.cat.graytabby.name=灰虎斑猫
+eggdisplay.notenoughpets.cat.juno.name=Juno
+eggdisplay.notenoughpets.cat.willie.name=威利
+eggdisplay.notenoughpets.cat.lily.name=灵猫(Lily cat)
+eggdisplay.notenoughpets.cat.boo.name=Boo Cat
+eggdisplay.notenoughpets.cat.winslow.name=Winslow Cat（我的世界故事模式中凯西·罗丝的猫）
+eggdisplay.notenoughpets.cat.blitzkrieg.name=Blitzkrieg Cat
+eggdisplay.notenoughpets.cat.princess.name=Princess Cat
+eggdisplay.notenoughpets.cat.cocoa.name=Cocoa Cat（索尼克漫画出场人物）
+
+eggdisplay.notenoughpets.wolf.wolf_pale.name=苍狼
+eggdisplay.notenoughpets.wolf.wolf_ashen.name=灰狼
+eggdisplay.notenoughpets.wolf.wolf_black.name=黑狼
+eggdisplay.notenoughpets.wolf.wolf_chestnut.name=栗色狼
+eggdisplay.notenoughpets.wolf.wolf_rusty.name=赭红狼
+eggdisplay.notenoughpets.wolf.wolf_snowy.name=雪狼
+eggdisplay.notenoughpets.wolf.wolf_spotted.name=斑点狼
+eggdisplay.notenoughpets.wolf.wolf_striped.name=条纹狼
+eggdisplay.notenoughpets.wolf.wolf_woods.name=森林狼
+eggdisplay.notenoughpets.dog.blocco.name=Blocco Dog
+eggdisplay.notenoughpets.dog.white_terrier.name=西高地白㹴
+eggdisplay.notenoughpets.dog.red_shiba_inu.name=柴犬
+eggdisplay.notenoughpets.dog.beagle.name=比格犬
+eggdisplay.notenoughpets.dog.pug.name=巴哥犬
+eggdisplay.notenoughpets.dog.border_collie.name=边境牧羊犬
+eggdisplay.notenoughpets.dog.boston_terrier.name=波士顿犬
+eggdisplay.notenoughpets.dog.st_bernard.name=圣伯纳犬
+eggdisplay.notenoughpets.dog.golden_retriever.name=金毛犬
+eggdisplay.notenoughpets.dog.siberian_husky.name=西伯利亚雪橇犬
+eggdisplay.notenoughpets.dog.black_mountain_feist.name=黑色伯尔尼兹山地犬
+
+eggdisplay.notenoughpets.mooshroom.red.name=哞菇 (NEP)
+eggdisplay.notenoughpets.mooshroom.brown.name=棕哞菇
+
+eggdisplay.notenoughpets.parrot.red.name=绯红金刚鹦鹉
+eggdisplay.notenoughpets.parrot.blue.name=紫蓝金刚鹦鹉
+eggdisplay.notenoughpets.parrot.green.name=大绿金刚鹦鹉
+eggdisplay.notenoughpets.parrot.cyan.name=蓝黄金刚鹦鹉
+eggdisplay.notenoughpets.parrot.gray.name=玄凤鹦鹉
+eggdisplay.notenoughpets.parrot.golden.name=金黄锥尾鹦鹉
+eggdisplay.notenoughpets.parrot.white.name=白凤头鹦鹉
+eggdisplay.notenoughpets.parrot.black.name=非洲黑鹦鹉
+eggdisplay.notenoughpets.parrot.rosy_faced.name=红脸牡丹鹦鹉
+eggdisplay.notenoughpets.parrot.dusky.name=暗色鹦鹉
+eggdisplay.notenoughpets.parrot.african_grey.name=非洲灰鹦鹉
+eggdisplay.notenoughpets.parrot.galah.name=粉红凤头鹦鹉
+eggdisplay.notenoughpets.parrot.rainbow.name=彩虹吸蜜鹦鹉

@@ -1,0 +1,44 @@
+# Group
+itemGroup.Pistons=更多活塞
+
+# Gravitational Piston
+tile.morepistons:gravitationalpistonbase.name=活塞 GK
+tile.morepistons:gravitationalstickypistonbase.name=粘性活塞 GK
+
+# Normal Pistons
+tile.morepistons:doublepistonbase.name=活塞 NK 2
+tile.morepistons:triplepistonbase.name=活塞 NK 3
+tile.morepistons:quadruplepistonbase.name=活塞 NK 4
+tile.morepistons:quintuplepistonbase.name=活塞 NK 5
+tile.morepistons:sextuplepistonbase.name=活塞 NK 6
+tile.morepistons:septuplepistonbase.name=活塞 NK 7
+tile.morepistons:octuplepistonbase.name=活塞 NK 8
+
+# Normal Sticky Pistons
+tile.morepistons:doublestickypistonbase.name=粘性活塞 NK 2
+tile.morepistons:triplestickypistonbase.name=粘性活塞 NK 3
+tile.morepistons:quadruplestickypistonbase.name=粘性活塞 NK 4
+tile.morepistons:quintuplestickypistonbase.name=粘性活塞 NK 5
+tile.morepistons:sextuplestickypistonbase.name=粘性活塞 NK 6
+tile.morepistons:septuplestickypistonbase.name=粘性活塞 NK 7
+tile.morepistons:octuplestickypistonbase.name=粘性活塞 NK 8
+
+# Super Pistons
+tile.morepistons:superpistonbase.name=活塞 SK 1
+tile.morepistons:superdoublepistonbase.name=活塞 SK 2
+tile.morepistons:supertriplepistonbase.name=活塞 SK 3
+tile.morepistons:superquadruplepistonbase.name=活塞 SK 4
+tile.morepistons:superquintuplepistonbase.name=活塞 SK 5
+tile.morepistons:supersextuplepistonbase.name=活塞 SK 6
+tile.morepistons:superseptuplepistonbase.name=活塞 SK 7
+tile.morepistons:superoctuplepistonbase.name=活塞 SK 8
+
+# Super Sticky Pistons
+tile.morepistons:superstickypistonbase.name=粘性活塞 SK 1
+tile.morepistons:superdoublestickypistonbase.name=粘性活塞 SK 2
+tile.morepistons:supertriplestickypistonbase.name=粘性活塞 SK 3
+tile.morepistons:superquadruplestickypistonbase.name=粘性活塞 SK 4
+tile.morepistons:superquintuplestickypistonbase.name=粘性活塞 SK 5
+tile.morepistons:supersextuplestickypistonbase.name=粘性活塞 SK 6
+tile.morepistons:superseptuplestickypistonbase.name=粘性活塞 SK 7
+tile.morepistons:superoctuplestickypistonbase.name=粘性活塞 SK 8

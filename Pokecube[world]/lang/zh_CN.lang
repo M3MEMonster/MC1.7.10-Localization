@@ -1,0 +1,86 @@
+# Thut's Concrete Language Properties
+# @author Thutmose and Vexatos
+
+# Blocks
+tile.concrete.name=混凝土
+tile.concreteLiquid.name=水泥
+tile.asphalt.name=沥青
+tile.asphaltLiquid.name=熔融沥青
+tile.Lava0.name=基性岩浆
+tile.Lava1.name=中性岩浆
+tile.Lava2.name=酸性岩浆
+tile.Lava3.name=陨石熔岩
+tile.solidLava0.name=玄武岩
+tile.solidLava1.name=安山岩
+tile.solidLava2.name=流纹岩
+tile.solidLava3.name=凝固岩浆
+tile.dust.name=火山灰
+tile.REconcrete.name=钢筋混凝土
+tile.REconcreteLiquid.name=液态钢筋混凝土
+tile.blockLimekiln.name=Lime Kiln [WIP]
+tile.blockMixer.name=Mixer [WIP]
+tile.volcano.name=火山生成器
+tile.meteorite.name=陨石
+tile.rebar.name=钢筋
+tile.liftRail.name=电梯轨道
+tile.platformRail.name=Platform Rail [WIP]
+
+tile.chalk.name=白垩石
+tile.trass.name=粗面凝灰岩
+tile.limestone.name=石灰岩
+
+tile.liftSpawner.name=电梯
+tile.liftController.name=电梯控制器
+tile.display.name=Display [WIP]
+tile.seismicSensor.name=Remote Sensor [WIP]
+
+# Items
+item.dustTrass.name=凝灰
+item.dustCaO.name=石灰
+item.dust.name=粉尘
+item.dustCement.name=水泥粉
+item.dustCaCO3.name=碳酸钙
+item.dustSulfur.name=硫磺
+
+item.paintBrush0.name=黑色刷子
+item.paintBrush1.name=红色刷子
+item.paintBrush2.name=绿色刷子
+item.paintBrush3.name=棕色刷子
+item.paintBrush4.name=蓝色刷子
+item.paintBrush5.name=紫色刷子
+item.paintBrush6.name=青色刷子
+item.paintBrush7.name=淡灰色刷子
+item.paintBrush8.name=灰色刷子
+item.paintBrush9.name=粉红色刷子
+item.paintBrush10.name=黄绿色刷子
+item.paintBrush11.name=黄色刷子
+item.paintBrush12.name=淡蓝色刷子
+item.paintBrush13.name=品红色刷子
+item.paintBrush14.name=橙色刷子
+item.paintBrush15.name=白色刷子
+item.paintBrush16.name=刷子
+
+item.wallstamper.name=印章
+item.smoother.name=抛光机
+item.bucketOconcrete.name=水泥桶
+
+item.deviceLinker.name=连接设备
+
+item.tank.name=Tank [WIP]
+item.spout.name=Spout [WIP]
+
+# Chat Messages
+msg.noRails.name=未找到完整轨道
+msg.noBase.name=未找到完整基座
+
+msg.liftSet.name=电梯设置
+
+msg.floorSet.name=将这一层设置为第%s层
+msg.floorError.name=第%s层已存在
+msg.particlesLeft.name=粒子效果持续中
+
+
+# Misc
+itemGroup.tabConcrete=Thut's Concrete
+
+entity.thuttech.thuttechlift.name=电梯

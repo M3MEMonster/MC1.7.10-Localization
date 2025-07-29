@@ -1,0 +1,10 @@
+container.equipment.satchel=挎包
+container.equipment.pouches=口袋
+item.satchels.satchel.name=挎包
+item.satchels.pouch.name=口袋
+item.satchels.pouch_upgrade.name=口袋升级
+tooltip.satchels.holdCtrl=§8§o<Hold Ctrl>
+tooltip.satchels.pouch.slotCount=%d 物品栏
+tooltip.satchels.pouch.sneakUseHint=潜行以打开升级槽位
+tooltip.satchels.pouchUpgrade=向口袋中增加一格物品栏
+tooltip.satchels.equipHint=在口袋装备界面装备 (或按下 §b%s§7)

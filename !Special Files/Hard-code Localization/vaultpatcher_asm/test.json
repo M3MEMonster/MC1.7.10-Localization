@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Here is name of your module",
+    "desc": "You can describe the module here.",
+    "mods": "And this is the applied mod of your module",
+    "authors": "You can write down your name here",
+    "dynamic": false,
+    "i18n": false
+  }
+]

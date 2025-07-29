@@ -1,0 +1,156 @@
+itemGroup.tabZoocraftdiscoveries=Zoocraft Discoveries Mod
+
+tile.jaekelopterus.name=巨型海蝎雕像
+tile.megatherium.name=大地懒雕像
+tile.carnotaurus.name=食肉牛龙雕像
+
+tile.iron_fence_1.name=铁栅栏 - 条状
+tile.iron_fence_2.name=金属栅栏 - 条状边缘1
+tile.iron_fence_3.name=金属栅栏 - 条状边缘2
+tile.iron_fence_4.name=金属栅栏 - 网状
+tile.iron_fence_5.name=金属栅栏 - 网状带顶
+tile.iron_fence_6.name=金属栅栏 - 网状边缘1
+tile.iron_fence_7.name=金属栅栏 - 网状带顶边缘1
+tile.iron_fence_8.name=金属栅栏 - 网状边缘2 
+tile.iron_fence_9.name=金属栅栏 - 网状带顶边缘2
+
+tile.iron_post_1.name=金属柱 - 无棱角
+tile.iron_post_2.name=金属柱 - 矮版带2棱角 (L形)
+tile.iron_post_3.name=金属柱 - 高版带2棱角 (L形)
+tile.iron_post_4.name=金属柱 - 矮版带4棱角 (+形)
+tile.iron_post_5.name=金属柱 - 高版带4棱角 (+形)
+tile.iron_post_6.name=金属柱 - 矮版带1棱角
+tile.iron_post_7.name=金属柱 - 高版带1棱角
+tile.iron_post_8.name=金属柱 - 矮版带2棱角 (-形)
+tile.iron_post_9.name=金属柱 - 高版带2棱角 (-形)
+tile.iron_post_10.name=金属柱 - 矮版带3棱角 (T形)
+tile.iron_post_11.name=金属柱 - 高版带3棱角 (T形)
+
+tile.crystal_glass.name=水晶玻璃
+tile.grid_glass.name=格状玻璃
+
+tile.cookie_bush.name=曲奇灌木
+tile.omnibush.name=泛光灌木
+tile.clay_pantile_0.name=平铺砖瓦
+tile.clay_pantile_1.name=紧致平铺砖瓦
+tile.clay_pantile_dyed_0.name=白色平铺砖瓦
+tile.clay_pantile_dyed_1.name=橙色平铺砖瓦
+tile.clay_pantile_dyed_2.name=品红平铺砖瓦
+tile.clay_pantile_dyed_3.name=浅蓝平铺砖瓦
+tile.clay_pantile_dyed_4.name=黄色平铺砖瓦
+tile.clay_pantile_dyed_5.name=青绿平铺砖瓦
+tile.clay_pantile_dyed_6.name=粉色平铺砖瓦
+tile.clay_pantile_dyed_7.name=灰色平铺砖瓦
+tile.clay_pantile_dyed_8.name=浅灰平铺砖瓦
+tile.clay_pantile_dyed_9.name=青色平铺砖瓦
+tile.clay_pantile_dyed_10.name=紫色平铺砖瓦
+tile.clay_pantile_dyed_11.name=蓝色平铺砖瓦
+tile.clay_pantile_dyed_12.name=棕色平铺砖瓦
+tile.clay_pantile_dyed_13.name=绿色平铺砖瓦
+tile.clay_pantile_dyed_14.name=红色平铺砖瓦
+tile.clay_pantile_dyed_15.name=黑色平铺砖瓦
+tile.laboratory_mosaic.name=实验室格子砖
+
+tile.roof_thatch_0.name=普通茅葺
+tile.roof_thatch_1.name=褪色茅葺
+tile.roof_thatch_2.name=陈旧茅葺
+tile.roof_thatch_3.name=长苔藓的茅葺
+
+tile.slate_tiles.name=石板砖
+
+tile.particle_block_0.name=粒子方块 [烟雾]
+tile.particle_block_1.name=粒子方块 [旋涡]
+tile.particle_block_2.name=粒子方块 [白星]
+tile.particle_block_3.name=粒子方块 [彩星]
+tile.particle_block_4.name=粒子方块 [爱心]
+tile.particle_block_5.name=粒子方块 [火焰]
+tile.particle_block_6.name=粒子方块 [音符]
+tile.particle_block_7.name=粒子方块 [气泡]
+
+tile.signpost_0.name=橡木路标
+tile.signpost_1.name=云杉路标
+tile.signpost_2.name=白桦路标
+tile.signpost_3.name=丛林木路标
+tile.signpost_4.name=金合欢木路标
+tile.signpost_5.name=深色橡木路标
+
+tile.arcticpine_log.name=白杨原木
+tile.arcticpine_planks.name=白杨木板
+
+item.psittaco_quill.name=鹦鹉嘴龙棘刺
+item.psittaco_dart.name=鹦鹉嘴龙棘刺飞镖
+item.psittaco_spear.name=鹦鹉嘴龙棘刺长矛
+item.psittaco_meat_raw.name=生鹦鹉嘴龙肉
+item.psittaco_meat_cooked.name=熟鹦鹉嘴龙肉
+
+item.giraffe_leather.name=长颈鹿皮
+item.camel_leather.name=骆驼皮
+item.gemsbok_leather.name=南非剑羚皮
+item.anteater_leather.name=食蚁兽皮
+item.rhino_leather.name=犀牛皮
+item.chinchilla_leather.name=毛丝鼠皮
+
+item.herb.mixed.name=混合草药
+item.herb.basil.name=罗勒
+item.herb.oregano.name=牛至
+item.herb.sage.name=洋苏草
+item.herb.coriander.name=香菜
+item.herb.thyme.name=百里香
+item.herb.mint.name=薄荷
+item.herb.rosemary.name=迷迭香
+item.herb.parsley.name=欧芹
+item.herb.dill.name=莳萝
+item.herb.chive.name=韭菜
+item.herb.tarragon.name=龙蒿
+item.herb.saffron.name=番红花
+item.herb.bay.name=月桂叶
+item.herb.lemongrass.name=香茅
+
+item.basil_seed.name=罗勒种子
+item.bay_seed.name=月桂种子
+item.chive_seed.name=韭菜种子
+item.coriander_seed.name=香菜种子
+item.dill_seed.name=莳萝种子
+item.lemongrass_seed.name=香茅种子
+item.mint_seed.name=薄荷种子
+item.oregano_seed.name=牛至种子
+item.parsley_seed.name=欧芹种子
+item.rosemary_seed.name=迷迭香种子
+item.saffron_seed.name=番红花球茎
+item.sage_seed.name=洋苏草种子
+item.tarragon_seed.name=龙蒿种子
+item.thyme_seed.name=百里香种子
+
+item.IUCN_icon.EX.name=IUCN - 绝灭
+item.IUCN_icon.EW.name=IUCN - 野外绝灭
+item.IUCN_icon.CR.name=IUCN - 极危
+item.IUCN_icon.EN.name=IUCN - 濒危
+item.IUCN_icon.VU.name=IUCN - 易危
+item.IUCN_icon.LC.name=IUCN - 无危
+item.IUCN_icon.NE.name=IUCN - 未评估
+item.IUCN_icon.DD.name=IUCN - 数据缺乏
+item.IUCN_icon.NT.name=IUCN - 近危
+
+item.psittaco_egg.name=鹦鹉嘴龙蛋
+
+item.bunny_slippers.name=兔兔拖鞋
+item.clay_tile.name=黏土瓦片
+item.blowpipe.name=吹管
+item.blowpipe_metal.name=铁吹管
+item.frogspawn.name=青蛙卵
+item.grass_bundle.name=草捆
+item.tranquilizer_dart.name=麻醉飞镖
+
+entity.ZoocraftDiscoveries.ZD_Chinchilla.name=毛丝鼠
+entity.ZoocraftDiscoveries.ZD_Gecko.name=壁虎
+entity.ZoocraftDiscoveries.ZD_Gemsbok.name=南非剑羚
+entity.ZoocraftDiscoveries.ZD_Psittacosaurus.name=鹦鹉嘴龙
+entity.ZoocraftDiscoveries.ZD_Hedgehog.name=刺猬
+entity.ZoocraftDiscoveries.ZD_Giraffe.name=长颈鹿
+entity.ZoocraftDiscoveries.ZD_Anteater.name=大食蚁兽
+entity.ZoocraftDiscoveries.ZD_Rhino.name=犀牛
+entity.ZoocraftDiscoveries.ZD_DartFrog.name=箭毒蛙
+entity.ZoocraftDiscoveries.ZD_Camel.name=骆驼
+entity.ZoocraftDiscoveries.ZD_Capybara.name=水豚
+entity.ZoocraftDiscoveries.ZD_Porcupine.name=豪猪
+entity.ZoocraftDiscoveries.ZD_Tapir.name=貘

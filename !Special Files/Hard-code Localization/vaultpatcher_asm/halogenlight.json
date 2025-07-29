@@ -1,0 +1,22 @@
+[
+    {
+        "authors":"Ceroler",
+        "name":"HalogenLight汉化",
+        "desc":"HalogenLight汉化文件",
+        "mods":"HalogenLight",
+        "dynamic":false
+    },
+    {
+        "target_class":["hirosuke.HalogenLight"],
+        "info":{
+            "local":"Vname",
+            "ordinal":26
+        },
+        "pairs":[
+            {
+                "key":"Halogen Light",
+                "value":"日光灯"
+            }
+        ]
+    }
+]

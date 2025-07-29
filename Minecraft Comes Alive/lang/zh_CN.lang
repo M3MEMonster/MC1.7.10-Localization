@@ -1,0 +1,1148 @@
+#X-Generator: crowdin.com
+itemGroup.tabMCA=凡家物语
+itemGroup.tabMCA.gemCutting=MCA - 琢宝石
+
+#######
+# Achievements
+##############################
+achievement.fullGoldHearts=有些进展
+achievement.fullGoldHearts.desc=与一位村民取得5个金心
+achievement.engagement=我愿意!
+achievement.engagement.desc=与一个村民订婚
+achievement.marriage=我们结婚了！
+achievement.marriage.desc=和村民结婚
+achievement.babyBoy=生了个男孩!
+achievement.babyBoy.desc=生下一个男孩
+achievement.babyGirl=喜得千金！
+achievement.babyGirl.desc=生下一个女孩
+achievement.twins=双胞胎！
+achievement.twins.desc=生双胞胎
+achievement.babyToChild=他们长的真快
+achievement.babyToChild.desc=把你的婴儿养育到儿童
+achievement.hunting=神箭手！
+achievement.hunting.desc=让你的孩子去捕猎
+achievement.mining=无限矿工
+achievement.mining.desc=让你的孩子给你采矿
+achievement.woodcutting=伐木能手
+achievement.woodcutting.desc=让你的孩子去砍树
+achievement.farming=耕耘收获
+achievement.farming.desc=让你的孩子去种地
+achievement.childToAdult=成年！
+achievement.childToAdult.desc=把你的儿童养育成年
+achievement.childMarried=独立自主
+achievement.childMarried.desc=你的孩子结婚了
+achievement.childHasChildren=爷爷/奶奶/外公/外婆/老爷/姥姥
+achievement.childHasChildren.desc=见你的孙子/孙女/外孙子/外孙女
+achievement.craftDiamondDust=这个不能吸！
+achievement.craftDiamondDust.desc=把钻石碾成粉
+achievement.craftColoredDiamondDust=加点颜色
+achievement.craftColoredDiamondDust.desc=给钻石粉末加点颜料
+achievement.smeltColoredDiamond=潮流钻石
+achievement.smeltColoredDiamond.desc=烧制彩色钻石
+achievement.craftShapedDiamond=钻石切割者
+achievement.craftShapedDiamond.desc=打磨钻石
+achievement.craftShapedRing=完成品
+achievement.craftShapedRing.desc=合成钻石戒指
+
+#######
+# Items & Blocks
+##############################
+item.WeddingRing.name=结婚戒指
+item.WeddingRingRG.name=玫瑰金结婚戒指
+item.EngagementRing.name=订婚戒指
+item.EngagementRingRG.name=玫瑰金订婚戒指
+item.MatchmakersRing.name=媒人的结婚戒指
+item.BabyBoy.name=男宝宝
+item.BabyGirl.name=女宝宝
+item.EggMale.name=生成男性村民
+item.EggFemale.name=生成女性村民
+item.ItemVillagerBedRed.name=红色的村民床
+item.ItemVillagerBedBlue.name=蓝色的村民床
+item.ItemVillagerBedGreen.name=绿色的村民床
+item.ItemVillagerBedPink.name=粉红色的村民床
+item.ItemVillagerBedPurple.name=紫色的村民床
+item.DivorcePapers.name=离婚协议书
+item.RoseGoldIngot.name=玫瑰金锭
+item.CrystalBall.name=水晶球
+item.NewOutfit.name=新装备
+item.DiamondHeart.name=心形钻石
+item.DiamondTiny.name=小钻石
+item.DiamondOval.name=椭圆钻石
+item.DiamondSquare.name=方形钻石
+item.DiamondTriangle.name=三角形钻石
+item.DiamondStar.name=星形钻石
+item.DiamondDust.name=钻石粉
+item.EngagementRingHeart.name=心形订婚戒指
+item.EngagementRingHeartRG.name=玫瑰金心形订婚戒指
+item.EngagementRingTiny.name=迷你订婚戒指
+item.EngagementRingTinyRG.name=玫瑰金订婚戒指
+item.EngagementRingOval.name=椭圆形订婚戒指
+item.EngagementRingOvalRG.name=椭圆形玫瑰金订婚戒指
+item.EngagementRingSquare.name=正方形订婚戒指
+item.EngagementRingSquareRG.name=正方形玫瑰金订婚戒指
+item.EngagementRingTriangle.name=三角形订婚戒指
+item.EngagementRingTriangleRG.name=三角形玫瑰金订婚戒指
+item.EngagementRingStar.name=星形订婚戒指
+item.EngagementRingStarRG.name=星形玫瑰金订婚戒指
+item.tombstone.name=墓碑
+item.RoseGoldDust.name=玫瑰金粉
+item.GoldDust.name=金粉
+tile.roseGoldOre.name=玫瑰金矿
+tile.roseGoldBlock.name=玫瑰金砖
+item.whistle.name=哨子
+item.villagereditor.name=村民编辑器
+item.GemCutter.name=宝石切割器
+item.HeartMold.name=心形模
+item.TinyMold.name=小型模
+item.OvalMold.name=椭圆形模
+item.SquareMold.name=正方形模
+item.TriangleMold.name=三角形模
+item.StarMold.name=星形模
+item.NeedleAndString.name=针线
+item.Needle.name=针
+item.Cloth.name=布
+item.EggGrimReaper.name=生成 死神
+tile.VillagerSpawner.name=村民生成器
+item.BrokenRing.name=破损的戒指
+item.StaffOfLife.name=生命权杖
+item.ChildsDoll.name=儿童玩偶
+item.ToyTrain.name=玩具火车
+
+#######
+# Item Information
+##############################
+information.villagerbed.line1=把它放在地上然后
+information.villagerbed.line2=附近的村民会
+information.villagerbed.line3=睡在床上。
+
+
+##############
+# Professions
+##############################
+profession.archer=弓箭手
+profession.armorer=装甲师
+profession.butcher=屠夫
+profession.cleric=牧师
+profession.farmer=农夫
+profession.fisherman=渔夫
+profession.fletcher=制箭师
+profession.guard=守卫
+profession.spouse=配偶
+profession.leatherworker=皮革匠
+profession.librarian=图书管理员
+profession.shepherd=牧羊人
+profession.toolsmith=铁匠
+profession.weaponsmith=武器匠
+profession.miner=矿工
+profession.mason=泥瓦匠
+profession.baker=面点师
+profession.child=小孩
+profession.househusband=家庭主夫
+profession.housewife=家庭主妇
+profession.villager=村民
+profession.warrior=武士
+
+################
+# Personalities
+################################
+personality.athletic=矫捷
+personality.confident=笃定
+personality.strong=强势
+personality.friendly=友善
+personality.curious=好奇
+personality.peaceful=安宁
+personality.flirty=轻浮
+personality.witty=伶俐
+personality.sensitive=敏感
+personality.greedy=贪心
+personality.stubborn=固执
+personality.odd=古怪
+
+################
+# Moods
+################################
+mood.depressed=忧愁
+mood.sad=难过
+mood.unhappy=不开心
+mood.passive=被动的
+mood.fine=好
+mood.happy=开心
+mood.overjoyed=大喜
+mood.bored_to_tears=闲得发慌
+mood.bored=无聊
+mood.uninterested=没精打采
+mood.silly=笨
+mood.giggly=傻笑
+mood.entertained=被逗乐
+mood.infuriated=七窍生烟
+mood.angry=生气
+mood.annoyed=被作弄
+mood.interested=有兴趣
+mood.talkative=贫嘴
+mood.pleased=愉快
+
+################
+# Gift Responses
+################################
+gift.cake1=这是什么？ 一个蛋糕？噢......噢，我的天。我......要找我的配偶。
+gift.cake2=一个蛋糕！你太体贴了！我...我说不上来这是什么感觉...
+gift.cake3=终于，我的婚姻也能有进展了......
+gift.cake.refuse1=我暂时不想吃蛋糕，但还是谢谢你。
+gift.cake.refuse2=不，谢谢，我不想要更多的蛋糕了。
+gift.cake.refuse3=噢，不，我不想再要一个孩子了。
+
+################
+# GUIs
+################################
+gui.button.exit=退出
+gui.button.back=返回
+gui.button.adoptbaby=领养婴儿
+gui.button.next=下一条
+gui.button.call=呼叫
+gui.button.callall=呼叫所有
+gui.button.checkhappiness=检查村民幸福指数
+
+################
+# Relations
+################################
+relation.husband=丈夫
+relation.wife=妻子
+relation.daughter=女儿
+relation.son=儿子
+
+################
+# Dialogue
+################################
+title.nonrelative.male=%Profession% %Name%
+title.nonrelative.female=%Profession% %Name%
+title.relative.male=%Name% (%RelationToPlayer%)
+title.relative.female=%Name% (%RelationToPlayer%)
+
+label.sleeping=睡眠中
+label.health=生命值：
+
+behavior.retaliate.begin1=哦，你弄伤我了！
+behavior.retaliate.begin2=当心我的拳头！
+behavior.retaliate.begin3=哎哟！你为什么打我？
+behavior.retaliate.begin4=不要！这很疼！
+behavior.retaliate.begin5=哎！那真的很痛！
+behavior.retaliate.begin6=喂！你在干什么！
+behavior.retaliate.begin7=哎哟！那最好是个意外！
+
+behavior.retaliate.distanced1=你最好快跑！
+behavior.retaliate.distanced2=如果你敢回来，我就叫警察！
+behavior.retaliate.distanced3=像个男人，不要逃避！
+behavior.retaliate.distanced4=如果我再见到你，我保证你吃不了兜着走！
+behavior.retaliate.distanced5=我知道你怕我！
+behavior.retaliate.distanced6=你跑什么？回来我才可以打你！
+behavior.retaliate.distanced7=如果我再见到你，别怪我无情！
+behavior.retaliate.distanced8=我会叫我的朋友来打你！
+
+behavior.retaliate.weapondrawn1=不！不要伤害我！
+behavior.retaliate.weapondrawn2=停下！不！
+behavior.retaliate.weapondrawn3=来人！救救我吧！
+behavior.retaliate.weapondrawn4=他们会杀了我！帮帮我！
+behavior.retaliate.weapondrawn5=你可以拿任何你想要的，请你不要伤害我！
+behavior.retaliate.weapondrawn6=我不想死！远离我！
+behavior.retaliate.weapondrawn7=造物主 Notch，救救我！
+
+behavior.build.fail.tooclose=难道你不觉得我们太接近其他建筑物了？
+
+##################
+# Conversations between villagers
+#####################################
+conversation1.progress1=嘿，今天过得怎么样?
+conversation1.progress2=我很好，你呢？
+conversation1.progress3=我也很好，你今天有什么计划吗?
+conversation1.progress4=没什么计划，你呢?
+conversation1.progress5=我准备钓会儿鱼。
+conversation1.progress6=哦，我不是很喜欢钓鱼。
+conversation1.progress7=为啥？我觉得挺有趣的。
+conversation1.progress8=对我来说那很无聊
+conversation1.progress9=比挖矿还无聊?
+conversation1.progress10=什么？
+conversation1.progress11=你听见了的。
+conversation1.progress12=算了，无所谓。
+
+conversation2.progress1=你在看什么?
+conversation2.progress2=我也不知道。
+conversation2.progress3=额，这可不太礼貌!
+conversation2.progress4=*某人*今天是不是吃错药了
+
+#################
+# AI Messages
+################################
+mining.search.none=附近没有%a1%。
+mining.search.nearby=附近有%a1%...
+mining.search.value=%a2%格远有%a1%。
+
+farming.noseeds=我没有足够的%a1%。我需要至少%a2%来创建一个农场。
+farming.nohoe=我需要锄头来耕田。
+
+hunting.badspot=我无法找到一个很好的狩猎点。
+sleep.nohome=我找不到建家的地方!
+sleep.invalid=我建家的地方不可用!
+
+fishing.norod=我没有鱼竿!
+fishing.nowater=我在附近没有发现任何水体...
+fishing.finished=我已经钓完鱼了。
+
+combat.button.method=招式: 
+combat.meleeandranged=近战&远战
+combat.meleeonly=仅近战
+combat.rangedonly=仅远战
+combat.donotfight=禁止打架
+
+combat.button.trigger=扳机: 
+combat.trigger.always=总是攻击
+combat.trigger.playertakedamage=你受到了伤害
+combat.trigger.playerattacks=你攻击了什么东西
+combat.button.target=目标: 
+combat.target.passive=中立生物
+combat.target.hostile=敌对生物
+combat.target.either=中立和敌对生物
+#################
+# Parser
+################################
+parser.mom=妈妈
+parser.dad=爸爸
+
+#################
+# GUI
+################################
+gui.button.yes=是
+gui.button.no=不
+gui.button.ok=好的
+gui.button.done=完毕
+gui.button.random=随机
+gui.button.interact=互动
+gui.button.follow=跟着我
+gui.button.stay=呆在这
+gui.button.move=自由移动
+gui.button.trade=物物交换
+gui.button.sethome=设置为家
+gui.button.ridehorse=骑马
+gui.button.special=特殊
+gui.button.procreate=与配偶OOXX
+gui.button.pickup=捡起
+gui.button.work=工作
+gui.button.inventory=打开背包
+gui.button.chat=聊天
+gui.button.joke=笑话
+gui.button.gift=礼物
+gui.button.shakehand=挥手
+gui.button.tellstory=讲故事
+gui.button.flirt=调情
+gui.button.hug=拥抱
+gui.button.kiss=亲吻
+gui.button.farming=种地
+gui.button.farming.radius=半径：%a1%
+gui.button.farming.plant=植物：%a1%
+gui.button.woodcutting=伐木
+gui.button.woodcutting.logtype=原木品种：%a1%
+gui.button.woodcutting.replant=重新种植：%a1%
+gui.button.mining=采矿
+gui.button.hunting=狩猎
+gui.button.kill=击杀
+gui.button.tame=驯养
+gui.button.cooking=做饭
+gui.button.fishing=钓鱼
+gui.button.mode=模式： %a1%
+gui.button.start=开始
+gui.button.stop=停止
+gui.button.havebaby=要孩子
+gui.button.divorce=离婚
+gui.button.asktomarry=请求结婚
+gui.button.hire=雇佣
+gui.button.hired=雇用
+gui.button.length=为期：%a1%小时
+gui.button.accept=接受
+gui.button.combat=拒绝
+gui.button.extend=延长
+gui.button.dismiss=解雇
+gui.button.divorcespouse=与配偶离婚
+gui.button.resetbaby=堕胎
+gui.button.setup.gender.false=性别：女
+gui.button.setup.gender.true=性别：男
+gui.button.baron=男爵
+gui.button.baroness=女爵
+gui.button.taxes=要求缴税
+gui.title.namebaby.male=是男婴！
+gui.title.namebaby.female=是女婴！
+gui.title.namebaby=给你的宝宝起名字
+gui.title.tombstone=输入碑文：
+gui.title.editor=编辑村民
+gui.title.whistle=呼唤家庭成员
+
+gui.info.family.married=与%a1%结婚
+gui.info.family.engaged=已与%a1%订婚
+gui.info.family.marriedtoplayer=与你结婚了。
+gui.info.family.engagedtoplayer=已与你订婚
+gui.info.family.notmarried=未婚。
+gui.info.family.mother=母亲：%a1%
+gui.info.family.father=父亲：%a1%
+gui.info.family.mother.you=母亲：你
+gui.info.family.father.you=父亲：你
+
+gui.info.gift.line1=可获得的礼物
+gui.info.gift.line2=（点击领取）
+
+gui.info.mood=心情：%a1%
+gui.info.personality=个性：%a1%
+
+interaction.give.invalid1=我无法使用。
+interaction.give.invalid2=这是什么？我不能用它。
+interaction.give.invalid3=我不知道你要我用它来做什么。
+interaction.give.invalid4=你为什么给我这个？
+interaction.give.invalid5=什么？这是什么东西？
+
+interaction.divorce.priest.success1=很好，你已经离婚了。
+interaction.divorce.priest.success2=如你所愿，愿你在其他地方找到爱。
+interaction.divorce.priest.fail.notmarried=你还没有结过婚
+
+interaction.divorce.notmarried1=我没有和任何人结婚。
+interaction.divorce.notmarried2=我需要离婚协议书来做什么？我还是未婚。
+interaction.divorce.notmarried3=我未婚。为什么你给我这些？
+
+interaction.divorce.fail.notmarriedtoplayer1=什么？！你要我离开我的爱人？你这个混蛋！
+interaction.divorce.fail.notmarriedtoplayer2=不！我不会这样对待我的爱人！我对他是真心的！
+interaction.divorce.fail.notmarriedtoplayer3=你在想什么？我是不会用它的！
+
+interaction.divorce.success1=我以为你是爱我的！滚！
+interaction.divorce.success2=至少这段时间我很开心。再见，祝你好运。
+interaction.divorce.success3=我真不敢相信你居然会这样做！走，立刻，马上！
+interaction.divorce.success4=为什么你要这样对我？我不想再见到你！
+
+interaction.marry.fail.marriedtogiver1=这是一个漂亮的戒指，但我已经嫁给你了，小傻瓜。
+interaction.marry.fail.marriedtogiver2=我们已经结婚了。难道你忘了吗？
+
+interaction.marry.fail.marriedtoother1=抱歉，我已经结婚了。
+interaction.marry.fail.marriedtoother2=噢，我以为你已经知道......知道我已经结婚了。
+interaction.marry.fail.marriedtoother3=什么？！我已经结婚了！
+
+interaction.marry.fail.playermarried1=嗯......我看见你手上戴的戒指。你已经结婚了！
+interaction.marry.fail.playermarried2=你在干什么？你已经结婚了！
+interaction.marry.fail.playermarried3=什么？真的？我以为你已经结婚了，不是吗？
+interaction.marry.fail.playermarried4=这不好吧！你已经有爱人了。
+
+interaction.marry.fail.lowhearts1=什么？不，我不喜欢你
+interaction.marry.fail.lowhearts2=噢，漂亮的戒指！等等...这是给我的？唔...现在...还不是时候。
+interaction.marry.fail.lowhearts3=这是给我的？嗯，再说吧，我对你还不够了解。
+interaction.marry.fail.lowhearts4=虽然我受宠若惊，但咱俩认识吗？
+
+interaction.engage.success1=我愿意！我愿意与你结婚！我爱你！
+interaction.engage.success2=我当然会与你结婚！
+interaction.engage.success3=再等等吧...骗你的！爱你！
+interaction.engage.success4=这...这是真的吗？我是说这一刻，不是说戒指。不过这个戒指是真的，是吧？
+
+interaction.marry.success1=真像一场梦！ 我会永远爱你！
+interaction.marry.success2=我们终于结婚了！现在要做什么？
+interaction.marry.success3=我很高兴与你结婚，%PlayerName%。
+interaction.marry.success4=我很期待我们未来的生活！
+
+interaction.matchmaker.fail.married1=我已经结婚了。
+interaction.matchmaker.fail.married2=我很满意我现在的婚姻，我不要其他配偶。
+interaction.matchmaker.fail.married3=不要啦～人家已经结婚了。
+
+interaction.matchmaker.fail.engaged1=我不能要那戒指，我已经与别人订婚了。
+interaction.matchmaker.fail.engaged2=我已经答应和别人结婚了。
+interaction.matchmaker.fail.engaged3=喔，谢谢...... 但我已经与别人订婚了。
+
+interaction.matchmaker.fail.needtwo1=难道你不需要准备一对戒指来结婚？
+interaction.matchmaker.fail.needtwo2=噢，好吧！不过你需要一对戒指先。
+interaction.matchmaker.fail.needtwo3=我和我的爱人各需要一个戒指，不过你只有一个。
+
+interaction.matchmaker.fail.novillagers1=我没有看到任何人在附近。你要我与谁结婚？
+interaction.matchmaker.fail.novillagers2=我不知道......带我更接近一个你认为最适合我的人。
+interaction.matchmaker.fail.novillagers3=哦，但似乎附近没有人。我应该和谁结婚呢？
+
+interaction.matchmaker.fail.invalid1=但是我不能和%Name%结婚。
+interaction.matchmaker.fail.invalid2=最靠近的村民只有%Name%，不过我不能和他们结婚。
+interaction.matchmaker.fail.invalid3=我不认为我能和%Name%结婚。这可能会有点怪。
+
+interaction.sethome.success1=好了，这里就是我的新家了
+interaction.sethome.success2=我了解，我会在这里留宿。
+interaction.sethome.success3=没问题，%PlayerName%。
+
+interaction.sethome.fail1=这里不太安全，有一些 %a1% 。
+interaction.sethome.fail2=附近还有其他地方吗？这儿有些%a1%。
+interaction.sethome.fail3=我不能在这里建家，这儿有些%a1%。
+
+interaction.mining.fail.toolow1=这个位置建矿井太低了。
+interaction.mining.fail.toolow2=我们得再往高走走。
+interaction.mining.fail.toolow3=我可觉得在这儿建矿井不是啥好主意，得再高点。
+interaction.mining.fail.nopickaxe=我没有镐。怎么能挖矿呢？
+
+interaction.hire.fail.notenoughgold=你需要%a1%个金锭来聘请这位村民。
+interaction.hire.success1=被选中是我的荣幸！我的第一个工作是什么？
+interaction.hire.success2=目前一切正常。您还有什么吩咐吗？
+interaction.hire.success3=老板，我准备好了，随时可以开工！
+
+interaction.ridehorse.fail.notnearby=这附近一匹马都没见过。
+interaction.ridehorse.fail.notrideable=我没法骑那匹马.
+
+interaction.resetbaby.success=很好，你可以等下一胎。下一次小心点！
+interaction.resetbaby.fail=你还没拥有宝宝。
+interaction.tax.happylevel4=整个村庄欣欣向荣，人民各司其职，幸福安康。税款放这儿了啊！
+interaction.tax.happylevel3=大家干活更有劲儿了，也更高兴了。这是我们的税款
+interaction.tax.happylevel2=一切照常。诺，这是税款。
+interaction.tax.happylevel1=这...这可是我攒了几个月的积蓄！哼，看来你跟他们也是一路货色。
+interaction.tax.happylevel0=我们他娘的都开揭不开锅了还收我们的税？呸！去你的吧！
+interaction.tax.notlargeenough1=我觉得我们的村庄还没大到要交税的地步。
+interaction.tax.notlargeenough2=我们就是个小破村，用不着交税。
+interaction.tax.notlargeenough3=得再多点人才够得上交税的线儿
+interaction.tax.notlargeenough4=啥？交税？就咱们这破村还交啥税。
+
+interaction.checkhappiness.success=我的调查显示村民的幸福指数是%a1% %。
+interaction.checkhappiness.fail=我们的村庄人数太少，还不值得我调查。我们还需要%a1%名村民。
+interactionp.marry.sent=你向%a1%求婚。
+interactionp.marry.success=你现在与%a1%结婚。
+interactionp.marry.fail.alreadymarried=你已经结婚或定亲了。
+interactionp.marry.fail.targetalreadymarried=%a1%已经结婚了。
+interactionp.marry.fail.noweddingring=你没有结婚戒指。
+interactionp.marry.prompt=%a1%想与你结婚。
+
+interactionp.havebaby.sent=你问%a1%能不能要个孩子
+interactionp.havebaby.prompt=%a1%同意要个孩子。
+interactionp.havebaby.fail.alreadyexists=你已经有孩子了。
+
+interactionp.divorce.notify=你和%a1%离婚了。
+
+interaction.adoptbaby.success=太好了\!这是 %a1%，你的婴儿\! 要好好对他/她哦。
+
+###################
+# Typed Dialogue
+#
+# Types:
+#   Parent      (an adult human that is the parent of the player)
+#   Relative    (an adult human that is related to the player)
+#   Adult       (an adult human)
+#   Child       (a human that is a child)
+#   Spouse      (married to the player recieving the message   
+#####################################
+
+adult.gift.bad1=这礼物不合适吧...
+adult.gift.bad2=你为什么觉得我会喜欢这种东西?
+adult.gift.bad3=我不要，谢谢。
+adult.gift.bad4=我不要，也不会想要。
+adult.gift.bad5=你给我这干啥?
+adult.gift.bad6=这是礼物吗？抱歉，我不要。
+
+adult.gift.good1=你太体贴了! 谢谢！
+adult.gift.good2=谢谢！
+adult.gift.good3=想得真周到!
+adult.gift.good4=哦，我喜欢这个！
+adult.gift.good5=礼物? 给我的? 你人真好!
+
+adult.gift.better1=嘿，这太酷了!
+adult.gift.better2=谢谢，朋友!
+adult.gift.better3=%PlayerName%，你真是一个好朋友！
+adult.gift.better4=哇哦，我真的很需要这些!
+adult.gift.better5=这礼物太棒了!
+
+adult.gift.best1=我都不知道说什么好了，太谢谢你了, %PlayerName%!
+adult.gift.best2=你是怎么...我是说，这太棒了!
+adult.gift.best3=哇哦，我一直都想要这个!
+adult.gift.best4=哇! 这我可得好好珍惜！
+adult.gift.best5=太谢谢你了！我会一直记得的。
+
+# 5 good chats when talking to an adult:
+adult.chat.good1=伙计，饼干和牛奶听起来多么诱人啊。
+adult.chat.good2=今天天气不错。
+adult.chat.good3=我挺好的！就是起床的时候不小心把脚趾头磕了！
+adult.chat.good4=一天一苹果，僵尸远离我!
+adult.chat.good5=我一直梦想建造属于我自己的村庄，可惜理想很丰满，现实很骨感呐~
+
+# 5 bad chats when talking to an adult:
+adult.chat.bad1=你说啥，你再说一遍？
+adult.chat.bad2=我不相信空穴来风。
+adult.chat.bad3=你其实挺招人烦的你知道吗。
+adult.chat.bad4=哼，炫耀。
+adult.chat.bad5=像你这样的就应该被扔进地牢里去! 
+
+# 5 good jokes when talking to an adult:
+adult.joke.good1=哈哈哈! 活该!
+adult.joke.good2=*大笑* 太荒唐了!
+adult.joke.good3=太好笑了! 你有没有听过关于牛的那个?
+adult.joke.good4=哈哈，为羊默哀一秒钟!
+adult.joke.good5=这是我有史以来听过的最棒的笑话!
+
+# 5 bad jokes when talking to an adult:
+adult.joke.bad1=别这么说我的猪!
+adult.joke.bad2=哈。
+adult.joke.bad3=啊，看来你不是一个有趣的人
+adult.joke.bad4=低俗。
+adult.joke.bad5=你不应该拿这个开玩笑。
+
+# 5 good handshakes when talking to an adult:
+adult.handshake.good1=手劲儿不错!
+adult.handshake.good2=你的握手让我感觉充满了力量!
+adult.handshake.good3=您真有绅士风度!
+adult.handshake.good4=跟高兴见到你!
+adult.handshake.good5=嘿，你好!
+
+# 5 bad handshakes when talking to an adult:
+adult.handshake.bad1=握手？在你刚杀完牛之后？
+adult.handshake.bad2=额，我可以松开了吗？
+adult.handshake.bad3=你这样有点见外了啊
+adult.handshake.bad4=诶呀？这可不像你的风格呀。
+adult.handshake.bad5=走开。
+
+# 5 good stories when talking to an adult:
+adult.tellstory.good1=不敢相信！这都是真的吗？
+adult.tellstory.good2=我希望我也有足够的勇气面对一只苦力怕
+adult.tellstory.good3=这故事真不赖! 是你自己编的吗?
+adult.tellstory.good4=这都是昨天一天发生的? 我不信!
+adult.tellstory.good5=我昨天就在那儿附近，我居然不知道。
+
+# 5 bad stories when talking to an adult:
+adult.tellstory.bad1=（哈欠）你说的不就是我妈吗
+adult.tellstory.bad2=这就是人们议论你的原因
+adult.tellstory.bad3=我听不懂...
+adult.tellstory.bad4=你个冷血动物! 苦力怕也是有感情的!
+adult.tellstory.bad5=你怎么忍心杀掉那只可怜的羊!
+
+# 5 good flirts when talking to an adult:
+adult.flirt.good1=你真勇敢!
+adult.flirt.good2=哦~你真是太可爱了~
+adult.flirt.good3=*脸红* 真的吗？
+adult.flirt.good4=噢...
+adult.flirt.good5=从见到你的那一刻起，我就已经被你折服了。
+
+# 5 bad flirts when talking to an adult:
+adult.flirt.bad1=如果你是认真的，那就证明给我看。
+adult.flirt.bad2=哇...等等，你跟那个面点师也是这么说的!
+adult.flirt.bad3=亿年以后再说吧
+adult.flirt.bad4=你要不听听你在说什么?
+adult.flirt.bad5=僵尸都比你更有机会！
+
+# 5 good hugs when talking to an adult:
+adult.hug.good1=好久不见!
+adult.hug.good2=...谢谢
+adult.hug.good3=这是我今天唯一高兴的事
+adult.hug.good4=你的拥抱真舒服...
+
+# 5 bad hugs when talking to an adult:
+adult.hug.bad1=身上脏兮兮的还抱人呢! 
+adult.hug.bad2=不用了，谢谢。
+adult.hug.bad3=额，为什么？
+adult.hug.bad4=在你上个星期骂我是恐龙之后？不必了。
+adult.hug.bad5=说实话，你做的事情让你不值得被拥抱。
+
+# 5 good kisses when talking to an adult:
+adult.kiss.good1=我真希望这一刻能够永远持续下去
+adult.kiss.good2=我想...我爱你
+adult.kiss.good3=嗯...尝起来像南瓜派一样香甜!
+
+# 5 bad kisses when talking to an adult:
+adult.kiss.bad1=没眼看
+adult.kiss.bad2=你管这叫亲吻?
+adult.kiss.bad3=小智亲的都比你好！
+adult.kiss.bad4=三个字... 薄荷糖!
+adult.kiss.bad5=谢谢...?
+
+adult.greeting1=你好!
+adult.greeting2=嘿！最近怎么样?
+adult.greeting3=很高兴见到你!
+adult.greeting4=今儿个要去干啥呀?
+adult.greeting5=今天过得怎么样?
+
+##############################################################################################
+
+# 5 good chats when talking to a parent:
+parent.chat.good1=我很好，你呢？
+parent.chat.good2=我有没有告诉过你，你有多像你失散的大伯父？
+parent.chat.good3=我真为你感到骄傲!
+parent.chat.good4=哦我的小甜心! 你以前可从来没这么体贴过! *轻笑*
+parent.chat.good5=想起你小的时候的事儿了
+
+# 5 bad chats when talking to a parent:
+parent.chat.bad1=打屁股永远不嫌老，小坏蛋。
+parent.chat.bad2=嘴巴放干净点！我是这么教你的吗？
+parent.chat.bad3=这就是为啥我更喜欢你姐姐
+parent.chat.bad4=以为我说不过你是吧
+parent.chat.bad5=我本来想给你一把钻石剑的，不好意思，现在没有了。
+
+
+# 5 good jokes when talking to a parent:
+parent.joke.good1=你小子很有我当年的风范啊!*大笑*
+parent.joke.good2=你说的这个能让我笑一天!
+parent.joke.good3=好久没有笑得这么开心了!
+parent.joke.good4=你很有成为喜剧演员的潜力!
+parent.joke.good5=贝瑞姑妈会很喜欢听的!
+
+# 5 bad jokes when talking to a parent:
+parent.joke.bad1=哈...
+parent.joke.bad2=孩子，这并不是那么的...好笑。
+parent.joke.bad3=你就像我第一次约会时那么尬。
+parent.joke.bad4=拿这个开玩笑可不太好。
+parent.joke.bad5=嗯，你在这方面确实没啥天赋。
+
+# 5 good handshakes when talking to a parent:
+parent.handshake.good1=咱孩子真有礼貌!
+parent.handshake.good2=多有风度! 看来我们教育的成果不错！
+parent.handshake.good3=很高兴再见到你!
+parent.handshake.good4=最近过得怎么样?
+parent.handshake.good5=真是充满力量的握手！
+
+# 5 bad handshakes when talking to a parent:
+parent.handshake.bad1=如果你在家庭聚会上也这么有礼貌就好了。
+parent.handshake.bad2=为什么这么正式? 
+parent.handshake.bad3=握个手就行了?你也不抱抱我？
+parent.handshake.bad4=你是不好意思被人看见和我在一起还是怎么的？
+parent.handshake.bad5=咋回事？没吃饭呐？
+
+# 5 good stories when talking to a parent:
+parent.tellstory.good1=之后，你把尿布脱下来，扔到了牧师身上!
+parent.tellstory.good2=你最后跟他/她约会了吗?
+parent.tellstory.good3=听起来不错！所以你打算什么时候让我抱孙子啊？
+parent.tellstory.good4=对，我还记得呢！你的表哥吃饼干把自己都撑坏了。
+parent.tellstory.good5=房子建好了吗？
+
+# 5 bad stories when talking to a parent:
+parent.tellstory.bad1=我真希望能回到你小时候，你的故事令人伤心。
+parent.tellstory.bad2=狼可不是玩具！
+parent.tellstory.bad3=是你偷了我的戒指？！ 
+parent.tellstory.bad4=我就知道你不可能成为一名出色的矿工
+parent.tellstory.bad5=在咱们家你可算不上聪明...
+# 5 good hugs when talking to a parent:
+parent.hug.good1=你长大了!
+parent.hug.good2=我还记得小时候你每晚上床之前都要抱一下我
+parent.hug.good3=我的好孩子! 
+parent.hug.good4=你从来没让我失望过! 
+parent.hug.good5=你是天底下最好的孩子!
+
+# 5 bad hugs when talking to a parent:
+parent.hug.bad1=我没有生气，我只是有点失望。
+parent.hug.bad2=想讨好我？没门！
+parent.hug.bad3=为什么我们不多抱一抱呢？你是觉得尴尬吗？
+parent.hug.bad4=等你洗完澡了再说吧。
+parent.hug.bad5=在那件事之后？没门！
+
+
+##############################################################################################
+
+# 5 good chats when talking to a relative:
+relative.chat.good1=你和你妈妈小时候一模一样!
+relative.chat.good2=我很高兴你能来看我!
+relative.chat.good3=我们有时间该聚一聚了。
+relative.chat.good4=你是咱们家最棒的!
+relative.chat.good5=别跟别人说啊，我其实最喜欢你了！
+
+# 5 bad chats when talking to a relative:
+relative.chat.bad1=你知道你在跟谁说话吗？
+relative.chat.bad2=你敢用这种口气跟我说话？！
+relative.chat.bad3=你走吧，我这儿不欢迎你。
+relative.chat.bad4=你再不走我就叫警察了！
+relative.chat.bad5=你太无礼了！
+
+# 5 good jokes when talking to a relative:
+relative.joke.good1=是不是你爷爷告诉你的，嗯？哈哈哈！
+relative.joke.good2=这可是咱们家的祖传笑话了!
+relative.joke.good3=然后，那头牛跳过了峡谷！*笑*
+
+# 5 bad jokes when talking to a relative:
+relative.joke.bad1=你不应该用这种方式开玩笑。
+relative.joke.bad2=幽默感这玩意还是让你叔叔来吧。
+
+# 5 good handshakes when talking to a relative:
+relative.handshake.good1=握个手吧!
+relative.handshake.good2=*握住* 好久不见!
+relative.handshake.good3=下次我希望你能带来一些钻石！哈哈哈！
+
+# 5 bad handshakes when talking to a relative:
+relative.handshake.bad1=都是一家人，这么客气干啥。
+relative.handshake.bad2=肖恩警告过我...
+relative.handshake.bad3=这是某种笑话吗？
+
+# 5 good stories when talking to a relative:
+relative.tellstory.good1=诶呦，你妈妈小时候可是个小机灵鬼!
+relative.tellstory.good2=这让我想起了杰伊爷爷!他曾经把人扔到过湖里!
+relative.tellstory.good3=你奶奶小时候也锯过鸡翅膀。
+relative.tellstory.good4=嗯~你妈妈当年做的炖牛肉可好吃了。
+relative.tellstory.good5=我们应该多聚一聚!
+
+# 5 bad stories when talking to a relative:
+relative.tellstory.bad1=从那时起，家里人就散了...
+relative.tellstory.bad2=你的眼光，总是那么“独到”
+relative.tellstory.bad3=别老想着显摆了。
+relative.tellstory.bad4=你父母教你的可比这强多了！
+relative.tellstory.bad5=我们没有你这个孩子。
+
+# 5 good hugs when talking to a relative:
+relative.hug.good1=遇见你真高兴!
+relative.hug.good2=下次你应该去看看你的吉米叔叔!
+relative.hug.good3=我真希望我还能给你别的东西！
+relative.hug.good4=记得常来!
+relative.hug.good5=我期待着你的下次拥抱！
+
+
+# 5 bad hugs when talking to a relative:
+relative.hug.bad1=恐怕，下次见面就是明年了吧...
+relative.hug.bad2=你该走了吧。
+relative.hug.bad3=*叹气* 又要和你说再见了...
+relative.hug.bad4=能不能多待一会儿...
+relative.hug.bad5=诶呦，好了好了。你汗味儿有点重。
+
+##############################################################################################
+
+# 5 good chats when talking to a child:
+child.chat.good1=我听说过你的故事！你是大英雄吗？
+child.chat.good2=嘿，我想试试上房顶！
+child.chat.good3=想不想来点刺激的？
+child.chat.good4=我要像你一样成为一名猎人，打很多动物回来！
+child.chat.good5=嗨！你要去干什么？我要去游泳！
+
+# 5 bad chats when talking to a child:
+child.chat.bad1=如果你不给我饼干，我就说你是坏人！
+child.chat.bad2=爸爸妈妈说不要跟你说话，你是坏人。
+child.chat.bad3=*嘲笑* 真邋遢!
+child.chat.bad4=哦是吗？那我要往你家扔鸡蛋了！
+child.chat.bad5=啦啦啦，听不见听不见！啦啦啦。
+
+# 5 good jokes when talking to a child:
+child.joke.good1=你比我爸爸要有趣！
+child.joke.good2=再给我讲一个！
+child.joke.good3=你是世界上最有趣的人！
+child.joke.good4=哈哈哈我要把它分享给我的妈妈!
+child.joke.good5=它应该吃树叶！
+
+# 5 bad jokes when talking to a child:
+child.joke.bad1=没听懂。
+child.joke.bad2=真的，你不是很有趣。
+child.joke.bad3=别说了，我不想听...
+child.joke.bad4=但是，谁是苹果？
+child.joke.bad5=你好没礼貌！
+
+# 5 good handshakes when talking to a child:
+child.handshake.good1=嘿！我认识的人里边有人喜欢你！
+child.handshake.good2=爸爸说这是有礼貌的表现。
+child.handshake.good3=击个掌吧! 低一点... 太低了!
+child.handshake.good4=你好!
+child.handshake.good5=*咯咯笑* 我刚刚用这只手清理了家里的牛嘿嘿嘿
+
+# 5 bad handshakes when talking to a child:
+child.handshake.bad1=陌生人，危险...
+child.handshake.bad2=妈妈，爸爸！这个人想绑架我！
+child.handshake.bad3=别碰我！我可是大人物！
+child.handshake.bad4=噫，你的手上有脏东西！
+child.handshake.bad5=除非你给我一颗钻石，否则我不和你握手。
+
+# 5 good stories when talking to a child:
+child.tellstory.good1=哇！你就像野兽一样勇猛！
+child.tellstory.good2=我长大了想和你一样。嘘，别告诉我爸爸。
+child.tellstory.good3=你还缺孩子吗？
+child.tellstory.good4=我去钓鱼时差点儿就淹死了。
+child.tellstory.good5=这是不是说我可以拿任何我想要的东西？我的意思是，“借”？
+
+# 5 bad stories when talking to a child:
+child.tellstory.bad1=你真是个小气鬼！
+child.tellstory.bad2=我要告诉妈妈你说她坏话！
+child.tellstory.bad3=我觉得你口中的那个人是我爷爷......
+child.tellstory.bad4=你是个胆小鬼，就像爸爸说的一样！
+child.tellstory.bad5=你怎么忍心去杀一只那么可怜的鸡呢?
+
+child.greeting1=嗨，你是谁?
+child.greeting2=我的名字是%Name%。你呢？
+child.greeting3=啊！怪物！
+
+##############################################################################################
+
+# 5 good chats when talking to a child WHO IS YOUR OWN:
+childp.chat.good1=哦，我待会儿想去探险。
+childp.chat.good2=我们能去露营吗？求你了。
+childp.chat.good3=嘿，你能给我做个蛋糕吗？
+childp.chat.good4=我能有一个离家远一点的，自己的房子吗？我觉得这样很酷！
+childp.chat.good5=让我们去洞穴里住吧！那一定很有趣！
+
+# 5 bad chats when talking to an playerchild:
+childp.chat.bad1=%ParentOpposite% 说过很多次了...
+childp.chat.bad2=我认为%ParentOpposite%不会喜欢的。
+childp.chat.bad3=这就是%ParentOpposite%一直在念叨的“离婚”吗？
+childp.chat.bad4=我想换个爸爸。
+childp.chat.bad5=我不想看孩子。
+
+# 5 good jokes when talking to an playerchild:
+childp.joke.good1=*大笑* 再讲一遍!
+childp.joke.good2=我要把这个告诉我的朋友们!
+childp.joke.good3=那个苦力怕是怎么爆炸的?
+childp.joke.good4=*大笑*为什么他们不再是三个人了？
+childp.joke.good5=哈哈哈哈哈...哈哈哈...哈哈哈哈
+
+# 5 bad jokes when talking to an playerchild:
+childp.joke.bad1=%ParentOpposite%说你很有趣，我咋没看出来...
+childp.joke.bad2=我更喜欢“敲敲门”那个笑话
+childp.joke.bad3=我觉得这个笑话很无聊。
+childp.joke.bad4=*哈欠* 我朋友的爸爸比你有趣多了。
+childp.joke.bad5=我还是更喜欢蛋糕。
+
+# 5 good handshakes when talking to an playerchild:
+childp.handshake.good1=为啥我要学这些东西? 
+childp.handshake.good2=%ParentOpposite%说这是一种礼节。
+childp.handshake.good3=我长大了也要像你一样!
+childp.handshake.good4=我们现在能吃蛋糕了吗?
+childp.handshake.good5=我不理解，但好吧!。
+
+# 5 bad handshakes when talking to an playerchild:
+childp.handshake.bad1=我在手上涂了口水。
+childp.handshake.bad2=你太古板了。
+childp.handshake.bad3=输家才会握手。
+childp.handshake.bad4=你给我蛋糕我才会握你的手。
+childp.handshake.bad5=不要，你会打我。
+
+# 5 good stories when talking to an playerchild:
+childp.tellstory.good1=%ParentOpposite%干了这些?!那他们的衣服呢?
+childp.tellstory.good2=我也想探索洞穴! 我们走吧!
+childp.tellstory.good3=总有一天我会比你杀死更多的苦力怕!
+childp.tellstory.good4=哦，哦，哦！我们也去爬树吧！怎么样怎么样！
+childp.tellstory.good5=岩浆烫不烫? 
+
+# 5 bad stories when talking to an playerchild:
+childp.tellstory.bad1=我不想听奶奶的事。
+childp.tellstory.bad2=你老是这么说，我不就是想养个宠物嘛。
+childp.tellstory.bad3=%ParentOpposite%对你也撒了谎。
+childp.tellstory.bad4=你还说蛋糕和饼干不是你吃的...
+childp.tellstory.bad5=有人总说你是个坏人，现在我信了！
+
+# 5 good hugs when talking to an playerchild:
+childp.hug.good1=*亲一口* 你是最棒的!
+childp.hug.good2=我总有一天会和你一样强壮!
+childp.hug.good3=为什么%ParentOpposite%不抱我了？
+childp.hug.good4=我喜欢抱抱! 你又软又暖和!
+childp.hug.good5=你也应该抱抱%ParentOpposite%!
+
+# 5 bad hugs when talking to an playerchild:
+childp.hug.bad1=我都多大了!
+childp.hug.bad2=停下! 我不想让别人看见我这样!
+childp.hug.bad3=走开，你很烦诶!
+childp.hug.bad4=别打扰我或者给我一些饼干!
+childp.hug.bad5=我宁愿去抱骷髅。
+
+childp.greeting1=嘿!
+childp.greeting2=嘿，怎么了?
+childp.greeting3=你在干什么?
+childp.greeting4=你要去哪儿?
+
+##############################################################################################
+
+# 5 good chats when talking to an spouse:
+spouse.chat.good1=我把屋子都打扫干净了。今天怎么样，累吗?
+spouse.chat.good2=亲爱的，有时间我们去露营吧。看起来挺有趣的。
+spouse.chat.good3=今天我遇见蜘蛛了！那么大个！吓得我赶紧溜了。
+spouse.chat.good4=我们应该一起建一座新房子了!
+spouse.chat.good5=我差点就掉进岩浆池里边了!真险！
+
+# 5 bad chats when talking to an spouse:
+spouse.chat.bad1=我知道比我们条件差的家庭有的是，但是...
+spouse.chat.bad2=我喜欢和你待在一起，但是我也需要一些自己的空间。
+spouse.chat.bad3=有时候我也想有一个“洞穴”，能够暂时远离你们所有人。
+spouse.chat.bad4=走开，我没心情。
+spouse.chat.bad5=你去哪儿了？你是不是背着我跟别人约会了？
+
+# 5 good jokes when talking to an spouse:
+spouse.joke.good1=*大笑* 我就是因为你的幽默嫁给你的!
+spouse.joke.good2=下次你应该朝他的脸上扔鸡蛋!
+spouse.joke.good3=狼爱上了羊。
+spouse.joke.good4=经典永流传!
+spouse.joke.good5=我也有一个笑话——苦力怕炸飞了多少只鸡？
+
+# 5 bad jokes when talking to an spouse:
+spouse.joke.bad1=太逊了......
+spouse.joke.bad2=亲爱的，你一点儿也不好笑。
+spouse.joke.bad3=哈，哈，哈。不好笑。
+spouse.joke.bad4=快把这东西从你的脑子里忘掉。
+spouse.joke.bad5=好...吧...
+
+# 5 good handshakes when talking to an spouse:
+spouse.handshake.good1=你的手好柔软！
+spouse.handshake.good2=我们的手近乎完美地结合在一起。
+spouse.handshake.good3=也许有一天人们会忘记握手。
+spouse.handshake.good4=我们的孩子也应当懂这些礼节。
+spouse.handshake.good5=*持续握手* 啥时候停告诉我一声!
+
+# 5 bad handshakes when talking to an spouse:
+spouse.handshake.bad1=握手? 用亲吻代替怎么样？
+spouse.handshake.bad2=*使劲捏*
+spouse.handshake.bad3=你的手太脏了，不握
+spouse.handshake.bad4=你手上有细菌。
+spouse.handshake.bad5=你有握手的时间还不如抓紧找一份体面的工作。
+
+# 5 good stories when talking to an spouse:
+spouse.tellstory.good1=这个还是别告诉孩子了...
+spouse.tellstory.good2=你太有反叛精神了！我喜欢！
+spouse.tellstory.good3=你告诉你的父母是你弄丢他们的戒指了没？
+spouse.tellstory.good4=就是那个时候我爱上了你！
+spouse.tellstory.good5=哇！你是最棒的猎手！
+
+# 5 bad stories when talking to an spouse:
+spouse.tellstory.bad1=等你杀点有意思的东西了再告诉我。
+spouse.tellstory.bad2=不要做一些那么鲁莽的事！
+spouse.tellstory.bad3=一家子都指着你呢!
+spouse.tellstory.bad4=...如果你喜欢他/她，为什么嫁给了我？
+spouse.tellstory.bad5=你为什么穿着一条粉色蓬松的内裤？它们是谁的？
+
+# 5 good flirts when talking to an spouse:
+spouse.flirt.good1=*脸红* 那么，我们要不要做那东西？
+spouse.flirt.good2=噢，你在我们第一次见面时就这么说......
+spouse.flirt.good3=宝贝，你太可爱了！
+spouse.flirt.good4=你说了算!
+spouse.flirt.good5=*眨眼* 明白!
+
+# 5 bad flirts when talking to an spouse:
+spouse.flirt.bad1=*叹气*
+spouse.flirt.bad2=这开始显得有些老套了...就像你一样。
+spouse.flirt.bad3=我们已经结婚了，不需要再做这个了。
+spouse.flirt.bad4=你跟树聊吧，它可能还更感兴趣呢。
+spouse.flirt.bad5=对，对...... 你刚才说啥？
+
+# 5 good hugs when talking to an spouse:
+spouse.hug.good1=我喜欢你的臂弯!
+spouse.hug.good2=等一下，不要走...... 你好温暖。
+spouse.hug.good3=你是想在抱一会，还是来一个吻？
+spouse.hug.good4=*亲吻* 
+spouse.hug.good5=就这样待下去吧，直到永远...
+
+# 5 bad hugs when talking to an spouse:
+spouse.hug.bad1=去，抱你的外遇去！
+spouse.hug.bad2=不，谢谢。
+spouse.hug.bad3=哦，你有点臭。
+spouse.hug.bad4=你想干啥?
+spouse.hug.bad5=抱别人去。
+
+# 5 good kisses when talking to an spouse:
+spouse.kiss.good1=当我们的嘴唇相遇，我又找回了那种热恋的感觉!
+spouse.kiss.good2=当我和你在一起时，时间好像停止了。
+spouse.kiss.good3=像蛋糕一样甜！
+spouse.kiss.good4=我爱你，宝贝！
+spouse.kiss.good5=我不会把你跟任何人交換！ 
+
+# 5 bad kisses when talking to an spouse:
+spouse.kiss.bad1=在这里有人可以看到我们...
+spouse.kiss.bad2=如果你不想的话，我们不需要这样。
+spouse.kiss.bad3=你的口气闻起来像泔水。
+spouse.kiss.bad4=去湖那里喝一口水。
+spouse.kiss.bad5=现在我们结婚了，我可以告诉你你接吻技术有多差了。
+
+spouse.greeting1=嗨亲爱的，你去哪儿了?
+spouse.greeting2=今天过得怎么样，亲爱的?
+spouse.greeting3=哦，%PlayerName%\!你看起来很累！
+spouse.greeting4=嘿，%PlayerName%\! 你看起来有点饿了，需要我给你做点儿吃的吗？
+spouse.greeting5=%PlayerName%, 你回来了! 我想你了！
+
+spouse.lowhearts.greeting1=你在这儿，你去哪儿了? 你也不告诉我。
+spouse.lowhearts.greeting2=这次你要跟我说“你好”吗?
+spouse.lowhearts.greeting3=嗯，你好！我在！
+spouse.lowhearts.greeting4=%PlayerName%，你是不是故意不理我了？
+spouse.lowhearts.greeting5=我觉得你根本就不关心我。
+
+spouse.endmarriage1=我受够了。你一点儿也不关心我。我要离婚！
+spouse.endmarriage2=我要离开，去一个你永远也找不到的地方！
+spouse.endmarriage3=抱歉，我觉得我们还是不合适。再见。
+spouse.endmarriage4=%PlayerName%，我们缘分已尽，就这样吧。再见。
+notify.spouseendedmarriage=%Name%结束了这段婚姻。
+
+relative.gift.bad1=你其实不用这样的……我真的不喜欢这份礼物。
+relative.gift.bad2=额，你还是自己留着吧。
+relative.gift.bad3=噫，这是你从垃圾堆里翻出来的吧
+relative.gift.bad4=我可不想碰那玩意。
+
+relative.gift.good1=哦，谢谢你！
+relative.gift.good2=谢谢你想着我，%PlayerName%.
+relative.gift.good3=你想的真周到！
+relative.gift.good4=你怎么知道我喜欢这些东西？
+relative.gift.good5=你人真好。
+
+relative.gift.better1=我刚好需要这个！
+relative.gift.better2=非常感谢，%PlayerName%.
+relative.gift.better3=这真可爱！
+relative.gift.better4=你还能记得我我真是受宠若惊。
+relative.gift.better5=我会好好珍惜的。
+
+relative.gift.best1=我想要这个很久了！
+relative.gift.best2=这是我收到过的最棒的礼物，%PlayerName%！
+relative.gift.best3=你的礼物总是最棒的, %PlayerName%！
+relative.gift.best4=我简直不敢相信，你真是太贴心了，谢谢你！
+relative.gift.best5=你就像我肚子里的蛔虫！
+
+parent.gift.bad1=哦，额，谢谢...但是我不需要。
+parent.gift.bad2=抱歉，这个还是你留着吧。
+parent.gift.bad3=你就不能带点儿好东西？
+parent.gift.bad4=哎呀，你真是太客气了，但这份礼物可能不太适合我。
+
+parent.gift.good1=我的孩子真体贴!
+parent.gift.good2=谢谢!
+parent.gift.good3=真是我的好孩子！
+
+parent.gift.better1=你什么时候买的？这礼物太棒了!
+parent.gift.better2=你其实不用特地给我买这个，谢谢！
+parent.gift.better3=我们对你的爱是不求回报的，但还是谢谢啦！
+
+parent.gift.best1=我就知道总有一天我会找回这个的！太谢谢你了！
+parent.gift.best2=这不是我几年前丢的吗？太棒了！
+parent.gift.best3=这是你小时候玩的，我不敢相信你居然找到它了！
+
+child.gift.bad1=呕，我不喜欢这个！
+child.gift.bad2=呕，我不想要这个！
+child.gift.bad3=你为什么给我这个？这很蠢！
+child.gift.bad4=我不知道这是什么！
+
+child.gift.good1=这...... 这是给我的吗？
+child.gift.good2=这真的是给我的吗？
+child.gift.good3=这太酷了！
+
+child.gift.better1=真棒！我要给我的朋友看看。
+child.gift.better2=你找到了！我几分钟前刚刚把它丢了。
+child.gift.better3=我的朋友偷走了这个。你有没有帮我教训他们？
+
+child.gift.best1=%PlayerName%，你给的礼物是最棒的！
+child.gift.best2=终于！我要让我的朋友惊掉下巴。
+child.gift.best3=哇！你在哪里得到的？
+child.gift.best4=我爸爸有一个。现在我也有一个了！
+
+spouse.gift.bad1=哦，亲爱的......这真是太糟糕了。
+spouse.gift.bad2=呃，这算是我的礼物？
+spouse.gift.bad3=自己的垃圾自己扔！噢，这是给我的礼物？......对不起。
+spouse.gift.bad4=我以为你很了解我。我不喜欢这些。
+
+spouse.gift.good1=%PlayerName% ，你真善良。
+spouse.gift.good2=啊！你对我太好了。
+spouse.gift.good3=我没料到你会给我这个，谢谢你，亲爱的！
+spouse.gift.good4=噢，你人真好。
+spouse.gift.good5=谢谢你，亲爱的！
+
+spouse.gift.better1=哇哦，这真的不错！
+spouse.gift.better2=我超喜欢它！谢谢！
+spouse.gift.better3=亲爱的，这太超乎我预料了！
+spouse.gift.better4=你专门给我做的？ 哦，这太浪漫了！
+spouse.gift.better5=哦，谢谢，%PlayerName%！
+
+spouse.gift.best1=噢，%PlayerName%，我爱死你了！
+spouse.gift.best2=你对我太好了！
+spouse.gift.best3=这一定非常珍贵！谢谢！
+spouse.gift.best4=我......不敢相信你想得这么周到！
+
+childp.gift.bad1=%ParentTitle%，这礼物非常糟糕。
+childp.gift.bad2=呕，%ParentOpposite% 给的礼物更好！
+childp.gift.bad3=你去年不是给了我这个吗？
+childp.gift.bad4=不用了，%ParentTitle%，我自己也很容易弄到。
+
+childp.gift.good1=哦，酷！谢谢%ParentTitle%。
+childp.gift.good2=%ParentOpposite% 说这些很“性感”。 那是什么意思？
+childp.gift.good3=这比我之前得到的礼物好多了！
+childp.gift.good4=太好了！都是我的，都是我的！
+childp.gift.good5=我...我能吃吗？
+
+childp.gift.better1=给我的? 免费的？
+childp.gift.better2=噢！亮闪闪的！
+childp.gift.better3=%ParentTitle%，我真的很喜欢这个！
+childp.gift.better4=现在我的朋友会妒忌我了！
+childp.gift.better5=%ParentTitle%，这很棒！
+
+childp.gift.best1=这一定很贵！
+childp.gift.best2=%ParentTitle%，我就知道你会给我这个。我就知道！
+childp.gift.best3=好极了！我拥有世界上最好的%ParentTitle%！
+childp.gift.best4=这太不可思议了！我不敢相信这是我的！
+childp.gift.best5=太谢谢你了，你是世界上最好的%ParentTitle%！
+
+
+

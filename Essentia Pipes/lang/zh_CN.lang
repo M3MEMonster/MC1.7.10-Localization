@@ -1,0 +1,26 @@
+tile.essentiapipes:pipe_segment.name=普通源质管线
+tile.essentiapipes:pipe_segment_thaumium.name=神秘源质管线
+tile.essentiapipes:pipe_segment_voidmetal.name=虚空源质管线
+
+itemGroup.essentiapipes=源质管线
+
+tc.research_category.essentiapipes:essentia_pipes=进阶源质管理
+
+tc.research_name.essentiapipes:PIPES_BASIC=源质管线
+tc.research_text.essentiapipes:PIPES_BASIC=本应如此
+tc.research_page.essentiapipes:PIPES_BASIC.1=源质管道因其出了名的难用而饱受诟病。客观地说，“吸力”机制的存在提供了一种自然的优先级设定，但是这套机制在使用上的难度大大超过了自动优先级带来的便利。<BR>为了解决以上问题，经过潜心研发，你总结出了如下方法：
+tc.research_page.essentiapipes:PIPES_BASIC.2=几点金属，强化内腔，摆脱对吸力的依赖；<BR>一把虚空，瓦解空间法则，任源质穿行，互不干涉；<BR>两滴运动，令穿越管道犹如瞬移，免受阻塞困扰；<BR>一束感知，画龙点睛，启其灵智，使管身之色同于容纳之物，易于识辨。<BR>至此，源质管线，得以铸成。
+tc.research_page.essentiapipes:PIPES_BASIC.3=在使用时，源质管线和源质管道有下列需要加以注意的区别<BR>§l首先§r, 源质管线的连接朝向不能手动更改，这可能是感知源质的问题或者与什么信息储存有关，具体原因尚不明晰。 ¯\_(ツ)_/¯
+tc.research_page.essentiapipes:PIPES_BASIC.4=§l第二§r,用法杖轻敲源质管线外侧就能切换管道的共鸣模式，总共有八种模式：六种初始要素分别六种，魔法要素一种以及无共鸣。正常轻敲以上文描述顺序正向循环，潜行轻敲反向循环。<BR>共鸣模式并不会限制源质在管道内的通行，而是一种标记——只有相同共鸣模式的管道才能连接在一起。<BR>潜行对着一个放置好的管线放置源质管线会使得后放置的管线自动调整为与先前放置的管线相同的共鸣模式。
+tc.research_page.essentiapipes:PIPES_BASIC.5=§l第三§r，源质管线自身§l并不§r产生任何吸力，但管线仍然会对吸力产生反应。<BR>管线的内压比管道高，所以源质只能从管线输向管道，而不能从管道输向管线。<BR>也就意味着对于其他源质容器，如源质罐子和缓存器等，管线只会从与其直接连接的容器中抽取源质。<BR>相对的，如果管道和容器存在有效吸力，那么管线将会很顺畅的将源质输入过去。
+tc.research_page.essentiapipes:PIPES_BASIC.6=§l第四§r, 源质管线的运输仍然会受到吸力和距离影响。若你想将源质通过x格管线从吸力为m的容器A抽取到吸力为n的容器B，n必须大于等于m+x。<BR>举个例子，没有风箱的源质缓存器的吸力（吸力为1）无论如何也无法获取源质。<BR>类似地，一个被贴上标签的源质罐子的吸力为64，而一个没有标签的源质罐子最少会提供32吸力。<BR>如果想将没有标签的源质罐子中的源质抽取到有标签的罐子中，最多只能铺设32格管线。
+tc.research_page.essentiapipes:PIPES_BASIC.7=§l最后§r，为了维持管线内压，源质管线对于向非管线方块的源质运输频率有内生限制。<BR>例如，用管线连接装满的源质罐子和神秘炼金塔，它们之间每秒只会进行一次传输。<BR>这听起来很慢，但管线一次会运输大量源质，而且这种限制是各自独立的——比如多个源质罐子可以从同一根管线同时吸取来自不同源头的源质。 
+
+tc.research_name.essentiapipes:PIPES_THAUMIUM=神秘源质管线
+tc.research_text.essentiapipes:PIPES_THAUMIUM=这才对嘛
+tc.research_page.essentiapipes:PIPES_THAUMIUM.1=你偶然发现，通过注魔能够进一步提升源质管线的性能<BR>通过神秘锭增强的管线拥有比普通管线更大的内部空间，能够传输更多的源质。<BR>同时，管线的内压进一步升高了，这使得神秘源质管线不能和普通管线连接，同时对于源质运输频率的内生限制也进一步增加了。
+
+tc.research_name.essentiapipes:PIPES_VOIDMETAL=虚空源质管线
+tc.research_text.essentiapipes:PIPES_VOIDMETAL=逼近极限
+tc.research_page.essentiapipes:PIPES_VOIDMETAL.1=禁忌的金属将管线的性能推向极限···虚空源质管线的内部空间比神秘源质管道更大，内压更高，频率限制更加严格。<BR>尽管带有一丢丢的邪术属性，但它确实好用啊！
+tc.research_page.essentiapipes:PIPES_VOIDMETAL.2=不久之后，重复的噩梦开始袭扰我入眠的每一个夜晚。我在实验室里检查设备，然而，一个走神让我不小心站的离虚空源质管线太近了，然后，它开启了。我本能地想尖叫，但巨大的吸力甚至抽走了我肺中残存的空气，我发不出任何声音，只能眼睁睁的任凭自己掉入深不见底的黑暗，活生生被压成黏糊糊的肉面条，咕噜咕噜地，粘稠地流入无尽的虚空之中······如果幸运的话，我会在掉入管道的一瞬间惊醒。<BR>可幸运并不总是眷顾我。

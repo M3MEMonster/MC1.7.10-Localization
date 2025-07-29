@@ -1,0 +1,50 @@
+﻿#Pokecube Adventures translation
+
+item.pokemobTarget.name=目标选择器
+item.warplinker.name=位置链接器
+item.biomeSetter.name=亚生物群系设定器
+item.tm0.name=空白招式学习器
+item.Exp. Share.name=学习装置
+item.trainerSpawner.name=训练家编辑器
+item.leaderSpawner.name=馆主编辑器
+item.traderSpawner.name=交易编辑器
+item.candy.name=Bad Candy
+item.emerald_shard.name=绿宝石碎片
+item.pokecubebag.name=背包
+
+tile.oranLog.name=橙橙树原木
+tile.oranWood.name=橙橙树木板
+tile.oranLeaves.name=橙橙树叶
+tile.sitrusLog.name=文柚树原木
+tile.sitrusWood.name=文柚树木板
+tile.sitrusLeaves.name=文柚树叶
+tile.pechaLog.name=桃桃树原木
+tile.pechaWood.name=桃桃树木板
+tile.pechaLeaves.name=桃桃树叶
+tile.nanabLog.name=蕉香树原木
+tile.nanabWood.name=蕉香树木板
+tile.nanabLeaves.name=蕉香树叶
+tile.leppaLog.name=苹野树原木
+tile.leppaWood.name=苹野树木板
+tile.leppaLeaves.name=苹野树叶
+tile.enigmaLog.name=谜芝树原木
+tile.enigmaWood.name=谜芝树木板
+tile.enigmaLeaves.name=谜芝树叶
+tile.warppad.name=传送器
+tile.cloner.name=基因编辑器
+
+tile.tradingtable.name=交换机
+tile.tradingtable.trade=交换
+tile.tradingtable.apply=应用
+tile.tradingtable.mode=模式
+tile.pc.base.name=PC主机
+tile.pc.top.name=PC屏幕
+tile.pc.next=下一页
+tile.pc.previous=上一页
+tile.pc.autoon=Auto On
+tile.pc.autooff=Auto Off
+tile.pc.rename=重命名
+
+gui.trainer.stationary=Trainer Wanders
+gui.trainer.saved=Saved Trainer
+

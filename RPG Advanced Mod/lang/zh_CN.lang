@@ -1,0 +1,31 @@
+﻿
+tile.pole.0.name=铁柱
+tile.pole.1.name=石柱
+tile.pole.2.name=木板柱
+tile.pole.3.name=原木柱
+tile.pole.4.name=碧藤金柱 
+tile.pole.5.name=坚黑铁柱
+tile.pole.6.name=幻魔彩柱
+tile.waysign.name=指路牌
+
+item.polesign.0.name=木牌 (乡村风情)
+item.polesign.1.name=木牌 (悬挂式)
+item.polesign.2.name=木牌 (精致)
+item.polesign.3.name=齿轮指路牌
+item.polesign.4.name=金属花边指路牌
+item.polesign.5.name=石质指路牌
+item.polesign.6.name=蝴蝶指路牌
+item.waysign.0.name=铁指路牌
+item.waysign.1.name=生锈的铁指路牌
+item.waysign.2.name=Boulder WaySign
+item.glowcrumb.name=荧光碎屑
+item.glowcrumblinked.name=荧光碎屑 - 已绑定
+
+itemGroup.RPGAdvMod=RPG Advanced Mod
+
+text.ram.no_room=柱子上没有足够的空间了，请换个位置
+text.ram.path_selected=去向 §9%s§r 的路径被选中
+text.ram.path_deselected=去向 §9%s§r 的路径被取消选中
+text.ram.path_cleared=去向 §9%s§r 的路径被清除
+text.ram.path_create_start=开始清除去向 §9%s§r 的路径
+text.ram.path_create_finish=去向 §9%s§r 的路径已被创建

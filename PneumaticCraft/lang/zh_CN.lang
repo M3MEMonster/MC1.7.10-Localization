@@ -1,0 +1,1005 @@
+#方块s
+tile.pressureTube.name=压力管道
+tile.airCompressor.name=空气压缩机
+tile.advancedAirCompressor.name=先进空气压缩机
+tile.airCannon.name=空气炮
+tile.pressureWall.wall.name=压力室墙壁
+tile.pressureWall.window.name=压力室窗口
+tile.pressureChamberValve.name=压力室阀门
+tile.slimePlant.name=史莱姆草
+tile.creeperPlant.name=苦力怕草
+tile.squidPlant.name=鱿鱼草
+tile.fireFlower.name=火焰花
+tile.rainPlant.name=雨草
+tile.enderPlant.name=末地草
+tile.lightningPlant.name=闪电草
+tile.burstPlant.name=爆发草
+tile.potionPlant.name=药水草
+tile.heliumPlant.name=氦草
+tile.propulsionPlant.name=推进草
+tile.repulsionPlant.name=反斥草
+tile.flyingFlower.name=飞行花
+tile.chopperPlant.name=直升机草
+tile.chargingStation.name=充能站
+tile.elevatorBase.name=电梯基座
+tile.elevatorFrame.name=电梯框架
+tile.pressureChamberInterface.name=压力室界面
+tile.vacuumPump.name=真空泵
+tile.pneumaticDoorBase.name=气动门基座
+tile.pneumaticDoor.name=气动门
+tile.assemblyIOUnit.name=装备机输入输出设备
+tile.assemblyPlatform.name=装配平台
+tile.assemblyDrill.name=装配钻头
+tile.assemblyLaser.name=装配激光
+tile.assemblyController.name=装配控制器
+tile.advancedPressureTube.name=高级压力管道
+tile.compressedIronBlock.name=压缩铁块
+tile.uvLightBox.name=UV照明方块
+tile.securityStation.name=安全站
+tile.universalSensor.name=万能传感器
+tile.pneumaticGenerator.name=气动发电机
+tile.electricCompressor.name=电力压缩机
+tile.aerialInterface.name=空中界面
+tile.electrostaticCompressor.name=静电压缩机
+tile.aphorismTile.name=格言方块
+tile.omnidirectionalHopper.name=全向漏斗
+tile.liquidHopper.name=液体漏斗
+tile.elevatorCaller.name=电梯呼叫器
+tile.programmer.name=编程器
+tile.droneInterface.name=无人机界面
+tile.creativeCompressor.name=创造模式压缩机
+tile.wheatHarvester.plasticPlants.name=塑料植物采集机
+tile.fluxCompressor.name=通量压缩机
+tile.pneumaticDynamo.name=气动能源炉
+tile.plasticMixer.name=塑料混合机
+tile.liquidCompressor.name=液体压缩机
+tile.advancedLiquidCompressor.name=先进液体压缩机
+tile.heatSink.name=散热片
+tile.vortexTube.name=涡流管
+tile.etchingAcid.name=刻蚀酸
+tile.programmableController.name=可编程控制器
+tile.gasLift.name=气举
+tile.refinery.name=精炼厂
+tile.thermopneumaticProcessingPlant.name=热气动加工机
+tile.fuel.name=汽油
+tile.lpg.name=液化石油气
+tile.kerosene.name=煤油
+tile.diesel.name=煤油
+tile.oil.name=石油
+tile.lubricant.name=润滑油
+tile.keroseneLamp.name=煤油灯
+tile.sentryTurret.name=哨塔
+
+tile.monsterStoneEgg.name=蠹虫
+
+# Items
+item.gpsTool.name=定位工具
+item.machineUpgrade.name=设备升级
+item.ingotIronCompressed.name=压缩铁锭
+item.pressureGauge.name=压力表
+item.stoneBase.name=石头基座
+item.cannonBarrel.name=炮管
+item.turbineBlade.name=涡轮扇叶
+item.plasticPlant.name=塑料植物
+item.airCanister.name=空气罐
+item.vortexCannon.name=漩涡炮
+item.pneumaticCilinder.name=气动圆筒
+item.pneumaticHelmet.name=气动头盔
+item.manometer.name=压力计
+item.turbineRotor.name=涡轮转子
+item.assemblyProgram.name=组装程序
+item.emptyPCB.name=空印刷电路板
+item.unassembledPCB.name=未组装的印刷电路板
+item.pcbBlueprint.name=印刷电路板蓝图
+item.etchingAcidBucket.name=蚀刻酸桶
+item.transistor.name=晶体管
+item.capacitor.name=电容
+item.printedCircuitBoard.name=印刷电路板
+item.failedPCB.name=失效的印刷电路板
+item.networkComponent.name=网络元件
+item.stopWorm.name=停！-蠕虫
+item.nukeVirus.name=核病毒
+item.compressedIronGear.name=压缩铁齿轮
+item.pneumaticWrench.name=气动扳手
+item.drone.name=无人机
+item.advancedPCB.name=高级印刷电路板
+item.remote.name=遥控器
+item.seismicSensor.name=地震传感器
+item.lpgBucket.name=液化石油气桶
+item.fuelBucket.name=汽油桶
+item.keroseneBucket.name=煤油桶
+item.dieselBucket.name=柴油桶
+item.oilBucket.name=石油桶
+item.lubricantBucket.name=润滑剂桶
+item.plasticBucket.name=塑料桶
+item.logisticsConfigurator.name=物流配置器
+item.logisticFrameRequester.name=物流请求框架
+item.logisticFramePassiveProvider.name=物流被动给予框架
+item.logisticFrameActiveProvider.name=物流主动给予框架
+item.logisticFrameStorage.name=物流储存框架
+item.logisticFrameDefaultStorage.name=物流默认储存框架
+item.logistic无人机.name=物流运输无人机
+item.gunAmmo.name=枪械弹药
+item.amadronTablet.name=平板电脑
+item.heatFrame.name=热量框架
+item.minigun.name=迷你枪
+
+item.programmingPuzzle.black.name=黑色编程拼图
+item.programmingPuzzle.red.name=红色编程拼图
+item.programmingPuzzle.green.name=绿色编程拼图
+item.programmingPuzzle.brown.name=棕色编程拼图
+item.programmingPuzzle.blue.name=蓝色编程拼图
+item.programmingPuzzle.purple.name=紫色编程拼图
+item.programmingPuzzle.cyan.name=青色编程拼图
+item.programmingPuzzle.silver.name=银色编程拼图
+item.programmingPuzzle.gray.name=灰色编程拼图
+item.programmingPuzzle.pink.name=粉色编程拼图
+item.programmingPuzzle.lime.name=黄绿色编程拼图
+item.programmingPuzzle.yellow.name=黄色编程拼图
+item.programmingPuzzle.lightBlue.name=淡蓝色编程拼图
+item.programmingPuzzle.magenta.name=品红色编程拼图
+item.programmingPuzzle.orange.name=橙色编程拼图
+item.programmingPuzzle.white.name=白色编程拼图
+
+item.plastic.black.name=黑色塑料
+item.plastic.red.name=红色塑料
+item.plastic.green.name=绿色塑料
+item.plastic.brown.name=棕色塑料
+item.plastic.blue.name=蓝色塑料
+item.plastic.purple.name=紫色塑料
+item.plastic.cyan.name=青色塑料
+item.plastic.silver.name=银色塑料
+item.plastic.gray.name=灰色塑料
+item.plastic.pink.name=粉色塑料
+item.plastic.lime.name=黄绿色塑料
+item.plastic.yellow.name=黄色塑料
+item.plastic.lightBlue.name=淡蓝色塑料
+item.plastic.magenta.name=品红色塑料
+item.plastic.orange.name=橙色塑料
+item.plastic.white.name=白色塑料
+
+item.plasticPlant0.name=鱿鱼草种子
+item.plasticPlant1.name=火焰花种子
+item.plasticPlant2.name=苦力怕草种子
+item.plasticPlant3.name=史莱姆草种子
+item.plasticPlant4.name=雨草种子
+item.plasticPlant5.name=末地草种子
+item.plasticPlant6.name=闪电草种子
+item.plasticPlant7.name=肾上腺素草种子
+item.plasticPlant8.name=爆发草种子
+item.plasticPlant9.name=药水草种子
+item.plasticPlant10.name=反斥草种子
+item.plasticPlant11.name=氦草种子
+item.plasticPlant12.name=直升机草种子
+item.plasticPlant13.name=音乐草种子
+item.plasticPlant14.name=推进草种子
+item.plasticPlant15.name=飞行花种子
+
+item.plasticElectronTube0.name=鱿鱼草电子管
+item.plasticElectronTube1.name=火焰花电子管
+item.plasticElectronTube2.name=苦力怕草电子管
+item.plasticElectronTube3.name=史莱姆草电子管
+item.plasticElectronTube4.name=雨草电子管
+item.plasticElectronTube5.name=末地草电子管
+item.plasticElectronTube6.name=闪电草电子管
+item.plasticElectronTube7.name=肾上腺素草电子管
+item.plasticElectronTube8.name=爆发草电子管
+item.plasticElectronTube9.name=药水草电子管
+item.plasticElectronTube10.name=反斥草电子管
+item.plasticElectronTube11.name=氦草电子管
+item.plasticElectronTube12.name=直升机草电子管
+item.plasticElectronTube13.name=音乐草电子管
+item.plasticElectronTube14.name=推进草电子管
+item.plasticElectronTube15.name=飞行花电子管
+
+for.circuit.plasticPlant0=鱿鱼草农场
+for.circuit.plasticPlant1=火焰花农场
+for.circuit.plasticPlant2=苦力怕草农场
+for.circuit.plasticPlant3=史莱姆草农场
+for.circuit.plasticPlant4=雨草农场
+for.circuit.plasticPlant5=末地草农场
+for.circuit.plasticPlant6=闪电草农场
+for.circuit.plasticPlant7=肾上腺素草农场
+for.circuit.plasticPlant8=爆发草农场
+for.circuit.plasticPlant9=药水草农场
+for.circuit.plasticPlant10=反斥草农场
+for.circuit.plasticPlant11=氦草农场
+for.circuit.plasticPlant12=直升机草农场
+for.circuit.plasticPlant13=音乐草农场
+for.circuit.plasticPlant14=推进草农场
+for.circuit.plasticPlant15=飞行花农场
+
+item.machineUpgrade0.name=设备升级:容量
+item.machineUpgrade1.name=设备升级:发射器
+item.machineUpgrade2.name=设备升级:物品
+item.machineUpgrade3.name=设备升级:实体跟踪
+item.machineUpgrade4.name=设备升级:方块跟踪
+item.machineUpgrade5.name=设备升级:速度
+item.machineUpgrade6.name=设备升级:物品搜索
+item.machineUpgrade7.name=设备升级:坐标跟踪
+item.machineUpgrade8.name=设备升级:距离
+item.machineUpgrade9.name=设备升级:安全
+item.machineUpgrade10.name=神秘时代升级
+
+item.assemblyProgram0.name=组装程序:钻头
+item.assemblyProgram1.name=组装程序:激光
+item.assemblyProgram2.name=组装程序:钻头和激光
+
+item.networkComponent0.name=诊断子程序
+item.networkComponent1.name=网络API
+item.networkComponent2.name=网络数据存储
+item.networkComponent3.name=网络输入输出端口
+item.networkComponent4.name=网络注册表
+item.networkComponent5.name=网络节点
+
+# Fluid
+fluid.plastic=液体塑料
+fluid.etchacid=刻蚀酸
+fluid.lpg=液化石油气
+fluid.fuel=汽油
+fluid.kerosene=煤油
+fluid.diesel=柴油
+fluid.oil=石油
+fluid.lubricant=润滑剂
+
+# Tube Modules
+item.safetyTubeModule.name=安全管道模块
+item.pressureGaugeModule.name=压力表管道模块
+item.flowDetectorModule.name=流量检测管道模块
+item.airGrateModule.name=空气栅管道模块
+item.regulatorTubeModule.name=调节器管道模块
+item.chargingModule.name=充能模块
+item.logisticsModule.name=物流模块
+
+# Programming Puzzles
+programmingPuzzle.comment.name=评价
+rogrammingPuzzle.start.name=开始
+programmingPuzzle.entityAttack.name=攻击实体
+programmingPuzzle.area.name=区域
+programmingPuzzle.text.name=文本
+programmingPuzzle.itemFilter.name=物品填充
+programmingPuzzle.dig.name=挖掘区域
+programmingPuzzle.pickupItem.name=捡起物品
+programmingPuzzle.inventoryExport.name=输出物品到容器
+programmingPuzzle.inventoryImport.name=从容器中取得物品
+programmingPuzzle.goto.name=去某位置
+programmingPuzzle.teleport.name=传送到某位
+programmingPuzzle.place.name=放置
+programmingPuzzle.entityRightClick.name=右键实体
+programmingPuzzle.blockRightClick.name=右键方块
+programmingPuzzle.computerCraft.name=电脑控制
+programmingPuzzle.dropItem.name=放置物品
+programmingPuzzle.emitRedstone.name=放置红石
+programmingPuzzle.liquidExport.name=导出液体
+programmingPuzzle.liquidImport.name=导入液体
+programmingPuzzle.entityExport.name=导出实体
+programmingPuzzle.entityImport.name=导入实体
+programmingPuzzle.label.name=标签
+programmingPuzzle.jump.name=跳
+programmingPuzzle.wait.name=等待
+programmingPuzzle.rename.name=重命名无人机
+programmingPuzzle.suicide.name=自毁
+programmingPuzzle.externalProgram.namme=外部程序
+programmingPuzzle.crafting.name=制造
+programmingPuzzle.standby.name=待机
+programmingPuzzle.coordinate.name=坐标
+programmingPuzzle.coordinateOperator.name=坐标运算器
+programmingPuzzle.itemAssign.name=物品分配
+programmingPuzzle.logistics.name=物流
+programmingPuzzle.forEachCoordinate.name=对每一位坐标
+programmingPuzzle.forEachItem.name=对每一个物品
+programmingPuzzle.editSign.name=编辑物流
+programmingPuzzle.conditionItem.name=状态:物品筛选
+programmingPuzzle.conditionCoordinate.name=状态:坐标
+programmingPuzzle.conditionRedstone.name=状态:红石
+programmingPuzzle.conditionItemInventory.name=状态:物品
+programmingPuzzle.conditionBlock.name=Condition:方块
+programmingPuzzle.conditionLiquidInventory.name=状态:液体
+programmingPuzzle.conditionEntity.name=Condition:实体
+programmingPuzzle.conditionPressure.name=状态:加压
+programmingPuzzle.conditionLight.name=状态:亮度等级
+programmingPuzzle.droneConditionItem.name=无人机状态:物品
+programmingPuzzle.droneConditionLiquid.name=无人机状态:液体
+programmingPuzzle.droneConditionEntity.name=无人机状态:实体
+programmingPuzzle.droneConditionPressure.name=无人机状态:加压
+programmingPuzzle.liquidFilter.name=液体分配
+programmingPuzzle.rfImport.name=导入射频
+programmingPuzzle.rfExport.name=导出射频
+programmingPuzzle.conditionRF.name=状态:射频
+programmingPuzzle.droneConditionRF.name=无人机 状态:射频
+
+#Remote elements
+gui.remote.noEditRights=§c一个位于%s, %s, %s的安全站正在阻止您编辑遥控器.
+gui.remote.boundSecurityStation=位于%s, %s, %s的安全站已经被绑定到此遥控器。只有有权访问此站的玩家才能修改。
+gui.remote.cantBindSecurityStation=§c您不可以将此遥控器绑定到此站:您没有权限.
+gui.remote.tooltip.boundToSecurityStation=在%s维度,坐标为(%s, %s, %s)的地方绑定到安全站。
+gui.remote.tooltip.rightClickToBind=右键一个安全站来将遥控器绑定到它.只有拥有该安全站权限的玩家才能编辑遥控器.
+gui.remote.tooltip.sneakRightClickToEdit=§a潜行时按右键来编辑。
+gui.remote.differentSecuritySettings=§c您无法从具有不同安全站绑定的遥控器导入遥控器布局
+gui.remote.text=文本:
+gui.remote.button.settingValue=设置值:
+gui.remote.button.width=宽:
+gui.remote.button.height=高:
+gui.remote.button.importRemoteButton=从其他遥控器中导入遥控器布局
+gui.remote.button.pastebinButton=从/向Pastebin导入/导出布局.
+gui.remote.tooltip=工具提示:
+remote.checkbox.name=复选框
+remote.label.name=标签
+remote.button.name=按钮
+remote.dropdown.name=下拉列表
+remote.dropdown.tooltip=用户可以从中进行选择的一组文本元素。分配的变量将设置为选定的索引.
+gui.remote.label.tooltip=使用此宽度显示的文本.
+gui.remote.variable.tooltip=此部件修改的变量.
+gui.remote.button.value.tooltip=按下此按钮时，变量将设置为此坐标.
+gui.remote.enable=可用变量:
+gui.remote.enable.tooltip=指定变量时，仅当变量等于指定值时，此部件才可见并工作.
+gui.remote.enableValue=当变量等价是使能:
+gui.remote.enableValue.tooltip=为启用部件，变量所需的值.
+gui.remote.dropdown.dropDownElements=下拉元素:
+gui.remote.dropdown.dropDownElements.tooltip=指定下拉元素。每个元素都需要用","分隔。
+
+# entities
+entity.PneumaticCraft.Drone.name=无人机
+entity.PneumaticCraft.logisticDrone.name=物流无人机
+
+# Helmet hacking
+pneumaticHelmet.hacking.hacking=正在入侵...
+
+pneumaticHelmet.hacking.result.disarm=解除武装
+pneumaticHelmet.hacking.result.neutralize=无害化
+pneumaticHelmet.hacking.result.explode=爆破
+pneumaticHelmet.hacking.result.dispense=分配
+pneumaticHelmet.hacking.result.open=打开
+pneumaticHelmet.hacking.result.close=关闭
+pneumaticHelmet.hacking.result.activate=激活
+pneumaticHelmet.hacking.result.deactivate=取消激活
+pneumaticHelmet.hacking.result.silence=沉默化
+pneumaticHelmet.hacking.result.makeSound=使发声
+pneumaticHelmet.hacking.result.access=获得进入许可
+pneumaticHelmet.hacking.result.tame=驯服
+pneumaticHelmet.hacking.result.fungiInfuse=加入蘑菇基因
+pneumaticHelmet.hacking.result.disable=使其停止活动
+pneumaticHelmet.hacking.result.stopTeleport=防止传送
+pneumaticHelmet.hacking.result.callBack=召回
+pneumaticHelmet.hacking.result.resumeTasks=恢复任务
+pneumaticHelmet.hacking.result.kill=消灭
+
+pneumaticHelmet.hacking.finished.disarmed=已解除武装
+pneumaticHelmet.hacking.finished.neutralized=已无害化
+pneumaticHelmet.hacking.finished.exploded=已爆炸
+pneumaticHelmet.hacking.finished.dispensed=已分配
+pneumaticHelmet.hacking.finished.opened=已打开
+pneumaticHelmet.hacking.finished.closed=已关闭
+pneumaticHelmet.hacking.finished.activated=已激活
+pneumaticHelmet.hacking.finished.deactivated=已取消激活
+pneumaticHelmet.hacking.finished.silenced=已沉默
+pneumaticHelmet.hacking.finished.makingSound=叮咚叮咚
+pneumaticHelmet.hacking.finished.accessed=已获得进入许可
+pneumaticHelmet.hacking.finished.tamed=已驯服
+pneumaticHelmet.hacking.finished.fungiInfusion=已加入蘑菇基因
+pneumaticHelmet.hacking.finished.disabled=已停止活动
+pneumaticHelmet.hacking.finished.stopTeleporting=防止传送
+pneumaticHelmet.hacking.finished.calledBack=已召回
+pneumaticHelmet.hacking.finished.resumedTasks=已恢复任务191-5
+pneumaticHelmet.hacking.finished.killed=已消灭
+
+########## GUI tabs
+
+# Info
+gui.tab.info=信息
+gui.tab.info.assistIGW=若要获得更多信息, 下载In-Game Wiki模组.
+
+gui.tab.info.tubeModule=§0在这个界面，你可以准确定义依赖于红石信号，一个模块应该如何运作.你可以定义一个函数.
+gui.tab.info.heat=这个机械需要或生产热量.放置一个生成热量的方块在这个机械旁边可以使热量被应用. 如涡流管(快速，但需要能量), 岩浆(缓慢提供)和火把(十分缓慢).若要冷却机器, 移除热源并且/或者放置冰来加速过程.
+gui.tab.info.items=在底部插槽中添加塑料。在这个插槽中，当它冷却时，添加的塑料也会被放入。在顶部插槽中加入染料。请注意，当将染料与塑料混合时， 染料的效果比混合另一种颜色的塑料效果要低得多
+gui.tab.info.heat.title=热量
+gui.tab.info.ghostSlotInteraction=交互: \n添加单份:右键 \n消除单份:左键 \n双份:潜行加右键 \n半份: 潜行加左键 \n清空: 中键
+gui.tab.info.ghostSlotInteraction.title=交互插槽
+gui.tab.liquidCompressor.fuel=可用燃料
+
+gui.tab.info.tile.aerialInterface=§0通过使用一种将物品压缩到原子的先进科技, 这台机器可以将玩家的库存用作自己的库存. 这意味着你可以通过漏斗将物品放入或者放出, 它们将被放入或移除出放置方块的玩家的库存. 可以使用更智能的插入方法，例如(mod)移位器，以保持玩家的库存供应64个火炬。
+gui.tab.info.tile.airCannon=§0这台机器可用于在空中运输物品。要使用它，您必须制作一个 GPS 工具。制作完成后，用它右键单击您希望物品运送到的方块，然后将 GPS 工具插入 GPS 插槽。
+gui.tab.info.aerialInterface.liquidXp.info.title=经验接口
+gui.tab.info.aerialInterface.liquidXp.info=§0当您在空中界面安装了分配器升级后，您可以将经验液体泵入或泵出空中界面。当有多个选项时，您可以通过泵入一点您想要的液体来了解要泵出哪个界面。可用受支持液体包括：
+gui.tab.info.aerialInterface.interfacingRF.info.title=射频接口
+gui.tab.info.aerialInterface.interfacingRF.info=空中接口能够接收射频。其内部缓冲区中存储的射频（100,000RF）可用于为玩家物品栏（和装甲槽）中的任何可充电射频物品充电。
+
+gui.tab.info.tile.pressureTube=§0此块用于输送空气。它支持 ForgeMultipart，并且可以在其上放置管道模块以提供附加功能。
+gui.tab.info.tile.advancedPressureTube=§0该物品用来运输空气.是压力管道的高级版本.支持 ForgeMultipart，管道模型可以放在上面来提供额外功能
+gui.tab.info.tile.pressureChamberWall.wall=§0该方块用来建造压力室. 建造一个空心的3x3x3结构， 用一个指向空气方块的压力室阀门连接内部空气方块. 压力室墙和压力室窗户可以被使用，并且不能被替换.
+gui.tab.info.tile.pressureChamberWall.window=§0该方块用来建造压力室. 建造一个空心的3x3x3结构， 用一个指向空气方块的压力室阀门连接内部空气方块. 压力室墙和压力室窗户可以被使用，并且不能被替换.
+gui.tab.info.tile.pressureChamberValve=§0这个多方块结构可以用来储存空气.但主要功能是通过加压把多种材料转换成其他材料.如把煤变成钻石.
+gui.tab.info.tile.elevatorFrame=§0该方块需要被堆在一个电梯基地的顶部来制作一个可以用的电梯.
+gui.tab.info.tile.airCompressor=§0该机器用来生成高压空气.为制作高压空气将任何可以在火炉内燃烧的物品放在燃料插槽中.
+gui.tab.info.tile.advancedAirCompressor=§0本机为高级空气压缩机。不像他没多大关系的兄弟，他用任何在火炉内燃烧的燃料可以生成压缩空气。但是他在每游戏刻内产生50毫升，同时产生热量，热量越高，效率越低。温度计底部的箭头表示效率开始下降的位置，顶部的箭头表示0%%的效率标记。\n \n不像你在这个模组里所期待的，这个机器不会在过高温的情况下爆炸.
+gui.tab.info.tile.chargingStation=§0本机用于(拆卸)气动动力的物品，例如无人机，气动扳手或旋涡炮.
+gui.tab.info.tile.elevatorBase=§0这台机器顾名思义就是电梯。您可以使用它来传输任何实体。为了让它工作，你需要一些空气压力和电梯框架在这个块的顶部来支撑电梯。要控制高度，请使用红石信号或使用电梯呼叫器。强度为0的红石等于0%延伸，强度为15的红石等于100%延伸。你可以把电梯往旁边开。当你以一种方式连接它们时，每台电梯的最上面的电梯底座都在相同的高度，它们将共享楼层名称/预期高度。你可以通过在迷彩部分的顶部槽中放入一个块来迷彩电梯的地板。隐藏电梯框架可以通过在底部槽中放入一个块来完成。伪装电梯呼叫者可以通过shift右击呼叫者来完成，并在手中拿着一个方块。
+gui.tab.info.item.pneumaticHelmet=§0该头盔强度和铁头盔一样多，在这个头盔上你可以安装多种升级组件.
+gui.tab.info.item.pneumaticHelmet.searchUpgrade=§0这个搜索升级允许你搜索一个特定的物品，例如，在你的基地里找某个东西。这个升级依赖于方块追踪器, 能够找到库存中存在的物品，并在显示实体跟踪器上，这使得它能够在物品为掉落物时找到被搜索的物品。要体验升级的全部效果，您应该安装这两个升级。
+gui.tab.info.item.pneumaticHelmet.coordinateTracker=§0坐标跟踪器升级可以让你跟踪一个特定的坐标，例如当你在隧道到某个位置时，你可以不知道这个位置的确切位置与你当时的位置有关。专为不喜欢使用F3的人设计的。作为第二个功能，这次升级将使用Minecraft的实体寻路导航你到任何你想要的地方。
+gui.tab.info.item.pneumaticHelmet.entityTracker=§0随着实体追踪器的升级，头盔能够追踪16个区块范围内的任何生物。这些实体不必是可见的，这使得这个升级成为防止苦力怕偷偷靠近你的完美方法。
+gui.tab.info.item.pneumaticHelmet.blockTracker=§0方块跟踪器，你将能够跟踪箱子，暴末地传送门民产卵，熔炉，银鱼方块，绊线，分发器，TNT和方块在30个区块的范围内。这样就可以很容易地找到地牢、堡垒和寺庙。基地甚至可以远程查看，因为将鼠标悬停在其中一个指标上将显示其位置。
+gui.tab.info.item.drone=§0在这个界面你可以为无人机插入升级插件.打开其他选项卡，看看可以做哪些增强。
+gui.tab.info.item.drone.speedUpgrade=§0每次插入速度升级，无人机的移动速度将增加原来移动速度的10%。这可以堆叠多达10个升级，这意味着最大200%的速度增幅。
+gui.tab.info.item.drone.dispenserUpgrade=§0默认情况下无人机可以传输一堆项目。对于插入的每个分发器升级，无人机可以转移一个额外的堆栈。每次升级还将增加16000mB的内部液槽，每次升级将增加100000RF存储(如果安装)。它还增加了无人机可以传输射频的速率(传输=最大存储/ 100)。
+gui.tab.info.item.drone.itemLifeUpgrade=§0随着项目寿命升级插入，无人机将能够自动修复。它会随着时间恢复生命值。你插入的升级越多，效果就越强(最多6个升级)。
+gui.tab.info.item.drone.securityUpgrade=§0只要插入其中一个升级部件，无人机就能对液体免疫。无人机将带走周围的液体。
+gui.tab.info.item.drone.volumeUpgrade=§0每插入一次升级，无人机的容积将增加5000mL。可用于长途旅行.
+gui.tab.info.item.drone.entityUpgrade=§0当插入时，无人机将有一个迷你枪，以执行远程攻击(最多16个区块的目标)。射击需要弹药，这需要与库存进口件一起接入
+gui.tab.info.item.drone.rangeUpgrade=§0每次升级增加无人机(需要实体追踪者升级)的远程攻击范围1格(最多16次升级)。
+gui.tab.info.tile.pressureChamberInterface=§0该模块可用于将物品进出口压力室。您可以通过放置方块的方式来选择是导出还是导入。“I”表示这边是导入，“O”表示这边是输出。使用筛选槽选择允许导入/导出的项。
+gui.tab.info.tile.vacuumPump=§0这台机器是用来实现真空的。为了做到这一点，这台机器使用加压空气。在“+”管处施加加压空气，当达到2bar时，将吸入“-”管处的空气。
+gui.tab.info.tile.assemblyController=§0这台机器是用来控制其他装配机器的。它可以控制任何连接的组装机，以及连接这些组装机的机器等等。要启动程序集，在程序槽中放入一个程序。
+gui.tab.info.tile.assemblyIOUnit=§0装配线的一部分。将项目从库存导入到组装平台，或将项目导出到库存。用扳手切换模式。
+gui.tab.info.tile.assemblyPlatform=§0装配线的一部分。固定物品，以便进行钻孔/激光切割.
+gui.tab.info.tile.assemblyDrill=§0装配线的一部分。可以在相邻的装配平台上钻取物品。不能放在装配平台对角线位置!
+gui.tab.info.tile.assemblyLaser=§0装配线的一部分。可以在与它相邻的装配平台上激光切割项目。不能放在装配平台对角线位置!
+gui.tab.info.tile.uvLightBox=§0使用这台机器，您可以将空PCB暴露在紫外线下。这种情况下，只有PCB的一部分得到暴露，这部分将保持它的铜痕迹时蚀刻在蚀刻槽。暴露PCB的时间越长，PCB成功蚀刻的机会就越高。
+gui.tab.info.tile.securityStation=§0当你想要保护一个区域不被其他人乱弄你的物品时，你可以使用这个方块来防止其他人与它范围内的每个方块交互/破坏。你可以通过在Access Stat中添加白名单玩家。目前还没有关于如何设置网络的游戏内教程。
+gui.tab.info.tile.securityStation.hacking=§0在这里你可以黑进保安站。从IO端口进入。从那里，你可以通过左键点击网络节点来破解它们。每次这样做时，您都有机会被诊断子例程检测到，然后它将启动跟踪。当子程序找到你的IO端口时，你输了。当你黑掉了所有的子程序或者注册表，你就赢了。
+gui.tab.info.tile.securityStation.stopWorm=§0停下来!蠕虫可以停止诊断子程序跟踪你5秒。这个软件会在这个过程中用到。要使用它，请单击STOP!当你被检测到时，右边会出现蠕虫图标(否则它将毫无用处)。
+gui.tab.info.tile.securityStation.nukeVirus=§0TNuke病毒是一种消耗品，可用于安装捕获(没有时间损失)网络节点，而不会被诊断子例程检测到。这也适用于所有其他Network组件。要使用它，请中键单击可攻击的节点。
+gui.tab.info.securityStationHacking=§0在这里你可以黑进保安站。从IO端口开始。从那里，你可以通过左键点击网络节点来破解它们。每次这样做时，您都有机会被诊断子例程检测到，然后它将启动跟踪。当子程序找到你的IO端口时，你输了。当你黑掉了所有的子程序或者注册表，你就赢了。
+gui.tab.info.tile.universalSensor=§0顾名思义，您可以在许多应用中使用该设备作为传感器。要选择传感器，请放入正确的升级插件并在文件夹结构中导航。传感器用黄色按钮文本标记。方块和GPS工具传感器会根据位置发出红石信号。当插入两个GPS工具时，工具的位置形成方框的四个角，并且该方框中的每个坐标都用于测量。当使用多个坐标时，测量间隔会减少(不适用于基于事件的传感器，如玩家右键传感器)。两个GPS工具都需要在传感器的范围内。
+gui.tab.info.tile.pneumaticGenerator=§0这台机器只有在安装工业2时才有用。该机器的唯一用途是将压缩空气转化为IC2的EU。您可以使用IC2扳手与这台机器进行交互，就像任何其他IC2机器一样。
+gui.tab.info.tile.electricCompressor=§0这台机器只有在安装工业2时才有用。该机器的唯一目的是将IC2的EU转化为压缩空气。您可以使用IC2扳手与这台机器进行交互，就像任何其他IC2机器一样。
+gui.tab.info.tile.electrostaticCompressor=§0在现实世界中，有人说这是难以置信的小概率事件，在这个世界中，这是一个现实:从闪电中产生能量。当机器被闪电击中时，瞬间产生200000mL。为了增加机器被击中的几率，你可以制作一个铁棒网格并将其连接到这台机器上。然后能量将穿过栏杆进入机器。
+gui.tab.info.tile.pneumaticDoorBase=§0这台机器，当放置旁边的气动门，玩家在附近时将自动打开门时，。当气动门基在安全站的范围内时，气动门基只会对安全站允许的玩家做出反应。放置任何正常的插件在迷彩槽，使其看起来像方块。
+gui.tab.info.tile.pneumaticDoor=§0该块与气动门基一起使用，形成一个工作门装置
+gui.tab.info.tile.omnidirectionalHopper=§0你有没有想过用漏斗从另一边而不是库存底部提取物品?还是你希望漏斗能更快地转移物品?那么这个全方位漏斗是给你的。除此之外，你可以把它放在任何你想要的方向，它也可以像其他气动机器一样升级。
+gui.tab.info.tile.fluxCompressor=§0这个块可以将红石转化为压缩空气。默认情况下，它的效率为40%。输入射频速率是每滴答产生空气所用通量的两倍。
+gui.tab.info.tile.pneumaticDynamo=§0这个块可以将压缩空气转化为红石。默认情况下，它的效率为40%。输出RF速率是每个刻度创建的通量的两倍。
+gui.tab.info.tile.liquidCompressor=§0这台机器可以利用各种液体产生压缩空气。要查看所有可能的燃料，请打开“可用燃料”标签。这个标签是标明最好到最差的燃料。\n \n您可以泵入燃料，右键单击液体压缩机上的流体容器(如桶)，或将流体容器放在顶部槽中。
+gui.tab.info.tile.advancedLiquidCompressor=§0本机是液体压缩机的二级版本。像它的抵抗力较弱的兄弟一样，它可以使用液体燃料产生压缩空气(所有可用的燃料都可以在“可用燃料”标签中看到)。然而，这个产生50毫升每游戏刻，也产生热量。热量越高，效率越低。温度计底部的箭头表示效率开始下降的位置，顶部的箭头表示0%%的效率\n \n与你对这个模型的期望不同，当温度过高时，这台机器不会爆炸。
+gui.tab.info.tile.plasticMixer=§0塑料混合器用于将塑料熔化为液体塑料。使用红色，绿色和蓝色染料，任何其他颜色的塑料都可以制作。只需提供这些染料，并在“塑料选择”选项卡中点击塑料所需的颜色。注意白色塑料不需要任何染料。
+gui.tab.info.tile.liquidHopper=§0液体漏斗是一种可以用来输送液体的漏斗。就像全方向漏斗一样，它是全方位的。除了将液体从一个罐转移到另一个罐之外，液体漏斗将尝试清空位于输入侧的任何液体容器(如桶)。同样地，它会尝试在输出端填充任何液体容器
+gui.tab.info.tile.programmableController=§0可编程控制器是一种机器，您可以用作无人机的替代品.对网络 API 或无人机进行编程，并将其放入齿轮槽中.在高空气速率下，机器将执行任何命令。物品和液体可以通过模块以及命令进行接口。该机器的优点是它不涉及任何实体寻路。
+gui.tab.info.tile.gasLift=§0气举是一种利用压力泵送液体的泵。放置时，它需要压力和压力管才能运行。气举会将压力管向下放置，直到它撞击液体。当遇到实心块时，它们将被挖出。运行所需的压力与工作深度成正比。
+gui.tab.info.tile.refinery=§0炼油厂用于将石油加工成不同的燃料，从重到轻分类： 柴油， 煤油， 汽油， 液化石油气 （液化石油气）.液化石油气在热气动加工厂中用于生产塑料。\n \n2、3 或 4 个炼油厂堆叠在一起才能工作。两个炼油厂，底部生产柴油，顶部生产液化石油气。或者4 家炼油厂生产所有燃料。相较之下后者的效率要高得多。向炼油厂施加的热量越多，它的运行速度就越快。
+gui.tab.info.tile.thermopneumaticProcessingPlant=§0热气动加工厂用于处理其他液体中的液体。液化石油气和煤在这台机器中一起可以生产液体塑料.它也可用于燃料裂解。重质燃料可以裂解成较轻的燃料。这意味着柴油可以变成煤油，煤油可以变成汽油，汽油可以变成液化石油气。
+gui.tab.info.tile.compressedIronBlock=§0用作制作组件的方块。除此之外，它还可以作为极好的导热体。
+gui.tab.info.tile.aphorismTile=§0该方块块充当标志物。但是，它能够在理论上存储无限量的文本。可缩放文本到合适大小。
+gui.tab.info.tile.elevatorCaller=§0该方块与电梯底座和电梯框架结合使用。
+gui.tab.info.tile.programmer=§0此模块是编程无人机所必需的。它使用编程拼图来定义一个程序。
+gui.tab.info.tile.creativeCompressor=§0一个只可在创造模式获得的方块用于产生你设置的任何压力.
+gui.tab.info.tile.heatSink=§0将热量散射到空气中的方块。它只连接到它所在的方块（而不是简单的相邻）。当空气炉排管模块指向时，其有效性大大提高。
+gui.tab.info.tile.vortexTube=§0将进入的空气分解成热部分和冷部分。一侧将被加热，另一侧将被冷却。它的空气使用量取决于压力。请注意，热侧和冷侧是相连的，因此当您想利用热量时，排出冷侧会更有效。如果您想使用冷侧的话则相反。
+gui.tab.info.tile.droneInterface=§0允许 ComputerCraft 和 OpenComputers 与无人机交互的方块。
+gui.tab.info.tile.keroseneLamp=§0煤油灯是一种在煤油上运行的光源。它类似于您可能习惯的长距离光源，例如神秘时代的 Arcane Lamp 或 Factorization 的 Wrath Lamp。
+gui.tab.info.tile.sentryTurret=§0哨兵炮塔是一种自主防御武器。当提供枪炮弹药时，它将向 16 个区块范围内的任何生物实体开火。您可以通过在“目标过滤器”滤要攻击的实体。当哨兵枪被安全站覆盖时，安全站有权限的所有玩家都不会成为目标。
+
+gui.tab.info.logisticFrameRequester=§0在这里，您可以指定物流无人机应在框架库存中保持供应的物品和数量.从您的库存中放入物品，或通过右键单击空插槽来搜索物品。
+gui.tab.info.logisticFramePassiveProvider=§0默认情况下，装裱库存将提供库存中的每件物品。通过在此筛选器中添加项目，将仅提供指定的项目。从您的库存中放入物品，或通过右键单击空插槽来搜索物品。
+gui.tab.info.logisticFrameActiveProvider=§0默认情况下，装裱库存将提供库存中的每件商品。通过在此筛选器中添加项目，将仅提供指定的项目。从您的库存中放入物品，或通过右键单击空插槽来搜索物品。
+gui.tab.info.logisticFrameStorage=§0默认情况下，框架库存将提供库存中的每个物料，并接受来自提供库存的任何物料。通过在此过滤器中添加项目，只有指定的项目才会提供给网络，并且只有指定的项目才能通过网络放入。从您的库存中放入物品，或通过右键单击空插槽来搜索物品。
+gui.tab.info.logisticFrameDefaultStorage=§0默认情况下，框架库存将提供库存中的每个物品，并接受来自提供库存的任何物品。通过在此过滤器中添加项目，只有指定的项目才会提供给网络，并且只有指定的项目才能通过网络放入。从您的库存中放入物品，或通过右键单击空插槽来搜索物品。
+
+# Pressure
+gui.tab.pressure=压力
+
+# Problems
+gui.tab.problems=报错
+gui.tab.problems.redstoneDisallows=§7红石禁止这个机器运作.
+gui.tab.problems.provideRedstone=§0提供一段红石信号.
+gui.tab.problems.removeRedstone=§0移除红石信号
+gui.tab.problems.notEnoughPressure=§7压力不足.
+gui.tab.problems.applyPressure=§0至少提供 %s bar.
+gui.tab.problems.notEnoughHeat=§7热量不足. \n§0在机器周围放置更多的产热方块以提供热量Apply more heat by adding blocks that generate heat around this machine.
+gui.tab.problems.noProblems=§7无问题.
+gui.tab.problems.aerialInterface.linked=§0于%s连接的机器.
+gui.tab.problems.fluxCompressor.noRF=§7机器缺少RF了. \n§0添加更多的能量!
+gui.tab.problems.plasticMixer.noPlastic=§7无塑料融化. \n§0添加塑料在物品选项的底部插槽中.
+gui.tab.problems.plasticMixer.plasticOverflow=§7没有空间让液体塑料冻凝固. \n§0移除塑料从物品选项的底部插槽中.
+gui.tab.problems.plasticMixer.noDye=§7N没有染料残留. \n§0添加 %s.
+gui.tab.problems.plasticMixer.noProblems=§7没问题. \n§0在“塑料选择”选项卡中单击所需颜色的塑料。
+gui.tab.problems.liquidCompressor.noFuel=§7机器没有燃料。 \n§0添加‘可用燃料’选项卡中列出的任何燃料。
+gui.tab.problems.advancedAirCompressor.efficiency=§7压缩机运行效率不佳. 效率: %s \n§0将机器冷却至 50 摄氏度以下.
+gui.tab.problems.programmableController.noProgram=§7没有插入要运行的程序. \n§0插入已编程的网络 API 或无人机.
+gui.tab.problems.gasLift.noLiquidSpace=§7没有足够的水箱来泵送. \n§0连接水箱.
+gui.tab.problems.gasLift.noTubes=§7无管道! \n§0将压力管放入.
+gui.tab.problems.gasLift.noTubeSpace=§7没有管道空间了! \n§0移除管道.
+gui.tab.problems.refinery.no石油=§7无石油. \n§0将石油泵入烤炉.
+gui.tab.problems.refinery.outputBlocked=§7没有空间输出燃料. \n§0移除任输出燃料.
+gui.tab.problems.refinery.notEnoughRefineries=§7炼油不足. \n§0烤炉需要堆叠在一起，数量从 2 到 4 个烤炉不等.
+gui.tab.problems.refinery.tooManyRefineries=§7烤炉过多. \n§0烤炉需要堆叠在一起，数量从 2 到 4 个烤炉不等.
+gui.tab.problems.thermopneumaticProcessingPlant.noSufficientIngredients=§7没有（有效）成分，或没有产出空间! \n§0添加（正确的）成分或清空输出罐.
+gui.tab.problems.amadron.noItemProvider=§7未选择任何产物储存器 \n§0使用 Amadron Tablet 右键单击​​库存。
+gui.tab.problems.amadron.noFluidProvider=§7无水泵接入. \n§0用你的Amadron Tablet右键一个泵.
+gui.tab.problems.amadron.notEnoughItemSpace=§7无法存储比当前购买更多的商品. \n§0在已绑定的库存中创建新空间.
+gui.tab.problems.amadron.notEnoughFluidSpace=§7无法储存比目前购买更多的液体. \n§0绑定一个更大的水箱，并确保该水箱中没有其他液体.
+gui.tab.problems.amadron.notEnoughItems=§7缺货! \n§0在已绑定的库存中创建新空间.
+gui.tab.problems.amadron.notEnoughFluid=§7缺货! \n§0在已绑定的库存中创建新空间.
+gui.tab.problems.amadron.outOfStock=§7缺货! \n§0稍后再来，也许供应商稍后会补货.
+gui.tab.problems.keroseneLamp.lowFuel=§7煤油灯没有燃料了. \n§0通过流体注入方法添加煤油（如液体料斗或物流无人机）.
+gui.tab.problems.keroseneLamp.noFuel=§7灯没有燃料. \n§0通过将煤油桶放在插槽中或通过流体插入方法（例如液体漏斗或物流无人机）来添加煤油。
+gui.tab.problems.sentryTurret.noAmmo=§7哨兵炮塔没有弹药. \n§0添加弹药到弹药插槽中.
+
+# Upgrades
+gui.tab.upgrades=升级配件
+gui.tab.upgrades.volume=§7-容量升级 \n§0没升级插件增加一升容量.
+gui.tab.upgrades.volumeCapacity=§7-容量升级 \n§0增加每个机器的热能能力.加热速率会变慢，但是冷却速率也会变慢.
+gui.tab.upgrades.security=§7-安全升级 \n§0在气动机器中添加一个建筑安全阀管.
+gui.tab.upgrades.tile.aerialInterface=§7-发射器升级 \n§0就像自动喂食器一样。只有当玩家饿到可以充分利用所提供的食物时，才会通过空中接口接收食物。请注意，一次提供的物品数量是尝试回满饥饿值的量。
+gui.tab.upgrades.tile.airCannon=§7-发射器升级 \n§0会把加农炮变得像发射器一样. 任何会在发射器里特殊化的物品在这里会执行相同操作\n§7-实体追踪插件 (最大值= 5) \n§0发射时，空气炮会抓取最近的生物并将其射向设定的坐标。这可以用作玩家运输工具。默认情况下，它的抓取半径为 1。每次插入实体跟踪器升级，半径都会增加一。\n§7-方块跟踪器升级\n§0发射时，被射出的物品会自动尝试进入它们击中的库存。例如，当向宝箱发射时，物品将落入宝箱中，而无需漏斗。\n§7-物品寿命升级\n§0默认情况下，空气炮发射的物品寿命为 60 秒。对于您投入的每项升级，您都会获得额外的 30 秒。\n§7-速度升级（最大 = 10）\n§0大炮将转动得更快。\n§7-射程升级\n§0每次升级，射程将增加约 25 个方块，最多 250 个方块。
+gui.tab.upgrades.tile.airCompressor=§7-速度升级 (最大值 = 10) \n§每游戏刻空气压缩机会产生更多的压缩空气. 然而这是以效率为代价的.
+gui.tab.upgrades.tile.advancedAirCompressor=§7-速度升级 (最大值 = 10) \n§0每游戏刻先进空气压缩机会产生更多的压缩空气. 然而这是以效率为代价的.
+gui.tab.upgrades.tile.assemblyController=§7-速度升级 (最大值 = 10) \n§0所有受该控制器控制的装配机器将运行得更快。
+gui.tab.upgrades.tile.chargingStation=§7-速度升级 (最大值 = 10) \n§0充电站将能够更快地对物品进行充电（放电）。 \n§7-发射器升级\n§0在充电站上添加一个充电板，使其能够对充电站顶部的任何无人机、物品和玩家库存物品进行充电（放电）。
+gui.tab.upgrades.tile.elevatorBase=§7-速度升级 (最大值 = 10) \n§0电梯将上升/下降得更快（但能源成本更高）。
+gui.tab.upgrades.tile.omnidirectionalHopper=§7-速度升级 (最大值 = 13) \n§0增加漏斗传输物品的速度。
+gui.tab.upgrades.tile.liquidHopper=§7-速度升级 (最大值 = 13) \n§0增加漏斗传输液体的速度。\n§7发射器升级\n§0从漏斗的输入端吸取任意液体块，从输出端放下任意液体。可用作水泵等。
+gui.tab.upgrades.tile.pneumaticDoor=§7-范围升级 \n§0每升级一次，玩家检测范围增加一个方块。\n§7速度升级\n§0增加门打开/关闭的速度。
+gui.tab.upgrades.tile.pressureChamberInterface=§7-速度升级 (最大值 = 10) \n§0界面的闸门将会打开/关闭得更快，这意味着物品可以运输得更快。
+gui.tab.upgrades.tile.pressureChamberValve=§7-物品生命值升级 \n§0经过此升级的压力室中的物品不会消失（其消失时间暂停）.
+gui.tab.upgrades.tile.securityStation=§7-范围升级 \n§0每次升级都会将安全站的（平方）范围增加一级（最多 16 个方块）。 \n§7-安全升级 \n§0每次升级都会将安全站的评级提高一级，这意味着玩家需要更多的安全升级才能破解这个站。\n§7-实体追踪器 \n§0每次升级都会将入侵检测几率提高 20%%。
+gui.tab.upgrades.tile.securityStation.hacking=§7-安全升级 \n§0允许入侵更高等级的安全站（每升级一级）。
+gui.tab.upgrades.tile.uvLightBox=§7-速度升级 (最大值 = 10) \n§0紫外线灯会发出更亮的光并能更快地暴露 PCB。
+gui.tab.upgrades.tile.vacuumPump=§7-速度升级 (最大值 = 10) \n§0真空泵每刻将产生更多真空。然而，这是以牺牲效率为代价的。
+gui.tab.upgrades.tile.pneumaticGenerator=§7-速度升级 (最大值 = 3) \n§0调整输出率：\n§00 升级 --> 32 EU/t \n§01 升级 --> 128 EU/t \n§02 升级 --> 512 EU/t \n§03 升级 --> 2048 EU/t
+gui.tab.upgrades.tile.fluxCompressor=§7-速度升级 (最大值 = 10) \n§0增加空气生产率。它还会增加 RF 使用率，从而使机器效率降低。最后，它会增加 RF 输入率的最大值。
+gui.tab.upgrades.tile.pneumaticDynamo=§7-速度升级 (最大值 = 10) \n§0提高 RF 生产率。它还会增加空气使用量，从而使机器效率降低。最后，它提高了 RF 输出率的最大值。
+gui.tab.upgrades.tile.liquidCompressor=§7-速度升级 (最大值 = 10) \n§0增加每游戏刻产生的压缩空气。然而这是以牺牲效率为代价的。
+gui.tab.upgrades.tile.advancedLiquidCompressor=§7-速度升级 (最大值 = 10) \n§0增加每刻产生的压缩空气。然而，这是以牺牲效率为代价的。\n§7-发射器升级（最大值 = 1）\n§0液体漏斗将尝试将任何液体块泵入输入端。同样，它将尝试将世界上的任何液体放在输出端（如果它是空气块）。
+gui.tab.upgrades.tile.programmableController=§7-速度升级 (最大值 = 10) \n§0增加无人机的飞行速度。\n§7-发射器升级（最大值 = 35）\n§0无人机默认可以传输一堆物品。每插入一个发射器升级，无人机可以额外传输一堆物品。\n \n每次升级还会增加内部液体箱 16000mB 容量，每次升级（如果安装）会增加 100000RF 存储空间。它还会增加无人机传输 RF 的速率（传输量 = 最大值存储量 / 100）。
+gui.tab.upgrades.tile.gasLift=§7-速度升级 (最大值 = 10) \n§0增加泵送/挖掘/缩回速率。\n§7-发射器升级（最大值 = 1）\n§0燃气升降机将自动将液体喷射到相邻的储罐中。
+gui.tab.upgrades.tile.thermopneumaticProcessingPlant=§7-Dispenser Upgrade (最大值 = 1) \n§0热气动处理厂会自动将液体喷射到相邻的罐中。
+gui.tab.upgrades.tile.sentryTurret=§7-范围升级 (最大值 = 16) \n§0每次升级都会增加哨兵炮塔的射程.
+
+# Redstone Behaviour
+gui.tab.redstoneBehaviour=红石呈现
+gui.tab.redstoneBehaviour.enableOn=使能
+gui.tab.redstoneBehaviour.emitRedstoneWhen=发射红石信号，当
+gui.tab.redstoneBehaviour.button.anySignal=任何信号
+gui.tab.redstoneBehaviour.button.highSignal=高电平
+gui.tab.redstoneBehaviour.button.lowSignal=低电平
+gui.tab.redstoneBehaviour.button.never=从不
+gui.tab.redstoneBehaviour.aerialInterface.button.playerConnected=连接到玩家
+gui.tab.redstoneBehaviour.airCannon.button.highSignalAndAngle=高电平和角度
+gui.tab.redstoneBehaviour.airCannon.button.highAndSpace=INV中的信号和空间.
+gui.tab.redstoneBehaviour.airCannon.fireUpon=开火模式
+gui.tab.redstoneBehaviour.chargingStation.button.doneDischarging=结束 充/放电
+gui.tab.redstoneBehaviour.chargingStation.button.charging=充电
+gui.tab.redstoneBehaviour.chargingStation.button.discharging=放电
+gui.tab.redstoneBehaviour.electrostaticCompressor.button.struckByLightning=遭雷击
+gui.tab.redstoneBehaviour.elevator.controlBy=控制电梯，通过
+gui.tab.redstoneBehaviour.elevator.button.redstone=红石
+gui.tab.redstoneBehaviour.elevator.button.elevatorCallers=电梯呼叫器
+gui.tab.redstoneBehaviour.pneumaticDoor.openWhen=打开，当
+gui.tab.redstoneBehaviour.pneumaticDoor.button.playerNearby=附近玩家
+gui.tab.redstoneBehaviour.pneumaticDoor.button.playerNearbyAndLooking=附近并查找
+gui.tab.redstoneBehaviour.pneumaticDoor.button.woodenDoor=木门行动
+gui.tab.redstoneBehaviour.securityStation.button.hacked=遭黑客攻击
+gui.tab.redstoneBehaviour.securityStation.button.doneRebooting=重启完毕
+gui.tab.redstoneBehaviour.universalSensor.redstoneEmission=释放红石
+gui.tab.redstoneBehaviour.universalSensor.button.inverted=倒置
+gui.tab.redstoneBehaviour.universalSensor.button.normal=正常
+gui.tab.redstoneBehaviour.uvLightBox.button.chance=成功机会
+gui.tab.redstoneBehaviour.plasticMixer.button.selectOnSignal=用塑料选择信号
+gui.tab.redstoneBehaviour.keroseneLamp.button.interpolate=插值信号
+
+#misc
+gui.tab.hopperStatus=漏斗状态
+gui.tab.hopperStatus.itemTransferPerTick=§7物品运输速率: \n§0%s 件每游戏刻
+gui.tab.hopperStatus.itemTransferPerSecond=§7Item Transfer Speed: \n§0%s 件每秒
+gui.tab.hopperStatus.liquidTransferPerTick=§7Liquid Transfer Speed: \n§0%s 毫升每游戏刻
+gui.tab.hopperStatus.liquidTransferPerSecond=§7Liquid Transfer Speed: \n§0%s 毫升每秒
+gui.tab.status=状态
+gui.tab.status.gasLift.action=§7行动
+gui.tab.status.gasLift.action.idling=§0空转
+gui.tab.status.gasLift.action.pumping=§0放水 %s
+gui.tab.status.gasLift.action.diggingDown=§0向下挖
+gui.tab.status.gasLift.action.retracting=§0缩回
+gui.tab.status.gasLift.currentDepth=§7目前深度 \n§0%s 米
+gui.tab.gasLift.mode=模式
+gui.tab.gasLift.mode.pumpEmpty=通过空水管放水
+gui.tab.gasLift.mode.pumpLeave=停止放水并存在水管中 (当过滤器用)
+gui.tab.gasLift.mode.drawIn=画在水管
+gui.tab.liquidHopper.mode.empty=清空水泵.
+gui.tab.liquidHopper.mode.leaveLiquid=留 1000mB 在水泵中, 进行筛选.
+gui.tab.omnidirectionalHopper.mode.empty=常规漏斗行动
+gui.tab.omnidirectionalHopper.mode.leaveItem=每插槽内留一个物品, 来进行筛选.
+gui.tab.plasticMixer.plasticSelection=塑料筛选
+gui.tab.aerialInterface.feedMode=喂养模式
+gui.tab.aerialInterface.feedMode.feedFullyUtilize=仅当食物能被完全利用时提供食物.
+gui.tab.aerialInterface.feedMode.feedWhenPossible=当玩家饱食度不满是提供食物.
+gui.tab.aerialInterface.feedMode.utilizeFullHealthElsePossible=当玩家满血时，仅当食物能被完全利用时提供食物。当玩家血量不满时，当玩家饱食度不满是提供食物。
+gui.tab.info.logisticsRequester.aeIntegration.title=AE2 集成
+gui.tab.info.logisticsRequester.aeIntegration=当被检测时, 物流无人机 将向 AE 网络通报可提供的物品（然后可以进行“制作”）. 当被要求制作时，请求框架被设置为请求所请求的物品.
+gui.tab.info.logisticsRequester.aeIntegration.enable=使能集成
+
+gui.programmer.button.export.programmingWhen=§cP当: %s时编程
+gui.programmer.button.export.pressingButton=按按钮
+gui.programmer.button.export.onItemInsert=插入物品
+gui.programmer.button.export.pressRToChange=§c按R改变
+gui.programmer.button.convertToRelative.desc=§2将程序变为在任何地方使用坐标模式，可分享程序，或在别处使用它们.这将产生坐标控制部分在开始部分之下.
+gui.programmer.button.convertToRelative.noStartPiece=§c-需要开头部分.
+gui.programmer.button.convertToRelative.noBaseCoordinate=§c-坐标部分被开头部分明确需要来定义一个基础坐标部分,这是唯一用户需改动的部分 .
+gui.programmer.button.convertToRelative.noVariableName=§c-坐标运算的变量名不能为空.
+gui.programmer.button.convertToRelative.notEnoughRoom=§c-坐标操作符下方需要空间。之后您可以重新连接自己的逻辑。
+gui.programmer.button.convertToRelative.cantHaveVariables=§c-转换时，主坐标运算符中不能有变量.
+gui.programmer.button.convertToRelative.coordIsChangedWarning=§e-警告：坐标块 %s 已改变。
+gui.programmer.button.convertToRelative.coordIsNotChangedWarning=§e-Warning: 坐标块 %s 未改变，因为它可能表示位置以外的其他含义。
+
+# Universal Sensor descriptions
+gui.universalSensor.desc.userSetSensor=这是一个“传感器”，可用于发出恒定的红石值。发出的值是插入文本框的数值。
+gui.universalSensor.desc.heatSensor=GPS 工具标记的坐标用于监测热量。当监测块的温度高于文本框中输入的温度（以摄氏度为单位）时，传感器将发出强度为 15 的红石信号，否则为 0。如果文本框为空，则输出级别将与温度成线性关系，范围从 0 到 400 摄氏度。如果有多个位置，则使用温度最高的位置。
+gui.universalSensor.desc.playerHealth=此传感器选项会根据玩家的生命值发出一段红石信号。无生命值 = 0， 最高生命值 = 15，以及介于两者之间的任何值。玩家的名字需要输入到文本框中。
+
+# GUI strings
+gui.entityFilter=实体筛选 ('Pig', or '@mob')
+gui.redstone=红石
+gui.threshold=临界点(bar)
+gui.tubeModule.advancedConfig=先进控制
+gui.tubeModule.advancedConfig.tooltip=当设置为真时，你可以以更高级的方式定义行为
+gui.tubeModule.simpleConfig.threshold=临界点:
+gui.tubeModule.simpleConfig.turn=发射，当
+gui.tubeModule.simpleConfig.higherThan=更高，相较于
+gui.tubeModule.simpleConfig.lowerThan=更低，相较于
+gui.general.bar=Bar
+gui.keybindBoundKey=目前绑定于 '%s'
+gui.keybindRightClickToSet=右键绑定钥匙
+gui.setKeybind=按下钥匙绑定
+gui.enableModule=使能 %s
+gui.pressureChamber=压力室
+gui.pressureChamberTitle=%s 压力室
+gui.universalSensor.button.showRange=显示范围
+gui.programmer.button.showArea=显示区域
+gui.programmer.button.stopShowingArea=停止显示区域
+gui.programmer.button.showStart=开始显示
+gui.programmer.button.showLatest=显示最新
+gui.programmer.checkbox.showInfo=显示信息
+gui.programmer.checkbox.showFlow=显示流程
+gui.programmer.pressIForInfo=§2按 'I' 查看信息
+gui.programmer.errors=错误:
+gui.programmer.warnings=警告:
+gui.programmer.errorCount=不可引入程序: 存在 %s 存在.
+gui.programmer.warningCount=程序里有%s警告
+gui.programmer.difficulty=难度:
+gui.programmer.difficulty.medium.tooltip=使能条件, 跳跃和标签
+gui.programmer.difficulty.advanced.tooltip=使能坐标和变量
+gui.programmer.button.openPanel.tooltip=打开关闭控制板 [SPACE]
+gui.programmer.button.undoButton.tooltip=撤销 [Z]
+gui.programmer.button.redoButton.tooltip=取消撤销 [Y]
+gui.programmer.button.clearAllButton.tooltip=清楚全部
+gui.programmer.name=名字:
+gui.progWidget.difficulty.easy=简单
+gui.progWidget.difficulty.medium=普通
+gui.progWidget.difficulty.advanced=困难
+gui.progWidget.liquidFilter.noFluid=无液体
+gui.progWidget.condition.any=任何
+gui.progWidget.condition.all=全部
+gui.progWidget.blockOrder.lowToHigh=低到高
+gui.progWidget.blockOrder.highToLow=高到低
+gui.progWidget.blockOrder.closest=最近的
+gui.progWidget.itemFilter.useItemCount=使用计数
+gui.progWidget.itemFilter.useItemCount.tooltip=检测时，这将只允许特定数目的物品传输.
+gui.progWidget.coordinate.selectFromGPS=从GPS中选择
+gui.progWidget.area.selectGPS1=选择 GPS 1
+gui.progWidget.area.selectGPS2=选择 GPS 2
+gui.progWidget.coordinate.constant=常量
+gui.progWidget.coordinate.variable=变量
+gui.progWidget.coordinate.variableName=变量名:
+gui.progWidget.coordinateOperator.operator=算子:
+gui.progWidget.conditionBlock.checkForAir=检查工期
+gui.progWidget.conditionBlock.checkForAir.tooltip=特殊条件。选中后，当方块为空气时，它将通过过滤器.
+gui.progWidget.conditionBlock.checkForLiquids=检查液体
+gui.progWidget.conditionBlock.checkForLiquids.tooltip==特殊条件。选中后，当方块为液体时，它将通过过滤器。
+gui.progWidget.comment.tooltip.freeToUse=§a这免费使用
+gui.progWidget.area.extraInfo=额外段落r:
+gui.progWidget.area.extraInfo.tooltip=由某些区域类型使用：\n \n网格：网格的间距，以块为单位。\n随机：随机选择的块的数量
+gui.progWidget.blockRightClick.sneaking=潜行
+gui.progWidget.blockRightClick.sneaking.tooltip=选中后，无人机将潜行.
+gui.progWidget.digAndPlace.useMaxActions=限制方块交换
+gui.progWidget.digAndPlace.useMaxActions.tooltip=选中后，只有指定数量的块会进行交互，直到执行下一个拼图方块。
+gui.progWidget.liquidExport.placeFluidInWorld=世界中放置流体Place fluid in world
+gui.progWidget.coordinateOperator.plusMinus=+ -
+gui.progWidget.coordinateOperator.multiplyDivide=* /
+gui.progWidget.coordinateOperator.maxMin=最大 最小
+gui.progWidget.externalProgram.shareVariables=分享变量
+gui.progWidget.externalProgram.shareVariables.tooltip=选中后，存储在调用程序中的变量将与被调用程序共享。
+
+gui.progWidget.area.error.noArea=无指定区块.
+gui.progWidget.general.error.emptyVariable=空变量. 指定一个有效变量.
+gui.progWidget.general.error.noSideActive=不影响任何一侧。请选择至少一侧.
+gui.progWidget.general.error.noPieceConnected=底部无任何部件连接.
+gui.progWidget.general.error.multipleStartPieces=程序中开始部分大于一.
+gui.progWidget.general.warning.variableNeverSet=变量 "%s" 无定义.
+gui.progWidget.condition.error.noFlowControl=未选择输出标签。无论条件结果如何，流程都将继续向下。
+gui.progWidget.condition.error.shouldConnectTextPieces=您应该只将引用标签拼图的文本拼图与文本拼图连接起来。
+gui.progWidget.coordinate.warning.noCoordinate=未指定坐标. 如果您使用它将变量设置为 (0,0,0)，那么您可以改用空的坐标运算符命令。
+gui.progWidget.conditionCoordinate.error.noAxisSelected=未选择检查轴。您需要检查至少一个条件的值才能使该条件起作用。
+gui.progWidget.conditionItem.error.noCheckingItem=没有检查项目。请将至少一个项目过滤器添加至最顶部的插槽。
+gui.progWidget.conditionItem.error.noFilter=无物品过滤器。在从顶部算起的第二个插槽中添加至少一个物品过滤器。
+gui.progWidget.itemFilter.error.noFilter=过滤器中没有项目。请选择一个，或者选择一个有效的变量。
+gui.progWidget.label.error.noLabel=无标签。请连接文本拼图。
+gui.progWidget.label.error.noJumpLocation=无处可跳转。请附加文本拼图。
+gui.progWidget.liquidFilter.error.noLiquid=过滤器中无液体选择.
+gui.progWidget.crafting.error.noCraftingRecipe=没有有效的制作配方集。
+gui.progWidget.coordinateOperator.noParameter=没有参数！
+
+gui.progWidget.general.debug.cantNavigate=无法导航到一个或多个区块.
+gui.progWidget.blockInteraction.debug.noBlocksValid=无可交互方块.
+gui.progWidget.entityAttack.debug.noAmmo=迷你枪无子弹.
+gui.progWidget.entityAttack.debug.noEntityToAttack=区域内无可攻击实体.
+gui.progWidget.blockCondition.debug.blockMatches=一个或多个区块符合条件.
+gui.progWidget.blockCondition.debug.blockDoesNotMatch=一个或多个方块符合条件.
+gui.progWidget.blockCondition.debug.allBlocksMatch=所有方块符合条件.
+gui.progWidget.blockCondition.debug.noBlocksMatch=无方块符合条件.
+gui.progWidget.dig.debug.cantDigBlock=未命令挖方块或者不能破坏方块.
+gui.progWidget.liquidExport.debug.emptyDroneTank=无人机油箱中没有可供输出的液体。
+gui.progWidget.liquidExport.debug.noValidFluid=无人机携带的液体没有通过过滤器。
+gui.progWidget.liquidExport.debug.filledToMax=尽可能地将油箱加满。
+gui.progWidget.liquidImport.debug.fullDroneTank=无人机的油箱已经满了.
+gui.progWidget.liquidImport.debug.emptiedToMax=尽可能清空油箱。
+gui.progWidget.place.debug.entityInWay=无法放置方块：实体阻挡.
+gui.progWidget.place.debug.cantPlaceBlock=该方块不能放在这里。
+gui.progWidget.goto.debug.cantNavigate=无法导航到一个或多个方块.
+gui.progWidget.inventory.debug.noInventory=一个或多个位置没有库存。
+gui.progWidget.inventoryExport.debug.filledToMax=库存中无法容纳更多物品。
+gui.progWidget.inventoryExport.debug.stackdoesntPassFilter=无人机内的物品未通过物品过滤。
+gui.progWidget.inventoryImport.debug.filledToMax=无人机的库存中无法容纳更多物品。
+gui.progWidget.inventoryImport.debug.stackdoesntPassFilter=物品未通过物品过滤器.
+gui.progWidget.itemPickup.debug.itemNotValid=物品未通过物品过滤器.
+gui.progWidget.chargingStation.debug.claimed=充电站已被另一架无人机认领。
+gui.progWidget.chargingStation.debug.protected=充电站受到安全站的保护。
+gui.progWidget.chargingStation.debug.cantNavigate=无法导航至充电站。
+gui.progWidget.chargingStation.debug.notEnoughPressure=充电站压力不足。
+gui.progWidget.chargingStation.debug.noDispenserUpgrades=充电站没有任何发射器升级。
+gui.progWidget.condition.evaluatedTrue=条件被评估为真.
+gui.progWidget.condition.evaluatedFalse=条件评估结果为错误。
+gui.progWidget.jump.nowhereToJump=无处可跳。回到起点。
+gui.progWidget.debug.hasPositions=这包含可以显示的位置。
+gui.progWidget.debug.clickToShow=单击即可永久显示位置。
+
+gui.pastebin.button.login=登入
+gui.pastebin.button.logout=登出
+gui.pastebin.button.upload=上传至 Pastebin
+gui.pastebin.button.get=从 Pastebin 获取
+gui.pastebin.button.copyToClipboard=将代码保存至剪切板
+gui.pastebin.button.loadFromClipboard=从剪切板上下载代码
+gui.pastebin.username=用户名:
+gui.pastebin.password=密码:
+gui.pastebin.pastebinLink=Pastebin 链接:
+gui.pastebin.invalidPastebin=无效 Pastebin
+gui.pastebin.invalidFormattedPastebin=Pastebin 或 JSON 格式无效。
+gui.pastebin.invalidLogin=无效登录
+gui.pastebin.loggingIn=登录中...
+gui.pastebin.uploadingToPastebin=上传至 Pastebin...
+gui.pastebin.retrievingFromPastebin=从 Pastebin 检索...
+gui.pastebin.clipboardSetToContents=剪贴板设置为内容.
+gui.pastebin.retrievedFromClipboard=从剪贴板检索
+gui.securityStation.test=测试安全
+gui.logisticFrameRequester.filters=请求:
+gui.logisticFrameRequester.hasFilters=§e包含请求。潜行获取更多信息.
+gui.logisticFramePassiveProvider.filters=提供物品:
+gui.logisticFramePassiveProvider.hasFilters=§e包含自定义提供。 了解更多详情.
+gui.logisticFrameActiveProvider.filters=提供物品:
+gui.logisticFrameActiveProvider.hasFilters=§e包含自定义提供。 了解更多详情.
+gui.logisticFrameStorage.filters=接口物品:
+gui.logisticFrameStorage.hasFilters=§e包含自定义接口物品。 了解更多详情.
+gui.logisticFrameDefaultStorage.filters=接口物品:
+gui.logisticFrameDefaultStorage.hasFilters=§e包含自定义接口项目。请潜行查看更多信息。
+gui.logisticFrame.liquid=液体过滤器:
+gui.logisticFrame.invisible=隐形的
+gui.logisticFrame.invisible.tooltip=使物流框架不可见（除非你手中有物流物品）
+gui.plasticMixer.lockSelection=锁定当前选择
+gui.plasticMixer.lockSelection.tooltipd=锁定选择为塑料
+gui.keroseneLamp.maxRange=最大范围:
+gui.keroseneLamp.blocks=格
+gui.keroseneLamp.currentRange=当前范围: %s格
+gui.keroseneLamp.timeLeft=时间剩余: %s
+gui.sentryTurret.ammo=弹药
+gui.sentryTurret.targetFilter=目标过滤器
+
+gui.liquid.empty=空
+
+key.pneumaticcraft.category=气动工艺
+# gui.enableModule.coreComponents=启用头盔
+
+# Pneumatic Helmet upgrades
+pneumaticHelmet.upgrade.blockTracker=方块追踪器
+pneumaticHelmet.upgrade.entityTracker=实体追踪器
+pneumaticHelmet.upgrade.itemSearcher=物品搜寻升级
+pneumaticHelmet.upgrade.coordinateTracker=坐标跟踪器
+pneumaticHelmet.upgrade.hackingUpgrade=黑客升级
+pneumaticHelmet.upgrade.coreComponents=头盔
+pneumaticHelmet.upgrade.droneDebugger=无人机Debugger
+
+pneumaticHelmet.message.enableSetting=%s启动
+pneumaticHelmet.message.disableSetting=%s关闭
+pneumaticHelmet.message.coordinateTracker.routeFound=成功找到去表面的路!
+pneumaticHelmet.message.coordinateTracker.harderRouteFound=找到非理想化路径(需要傻傻的挖)
+pneumaticHelmet.message.coordinateTracker.noRouteFound=未能找到去表面的路!
+
+blockTracker.module.hackables=可控制的
+blockTracker.module.inventories=容器
+blockTracker.module.misc=其他方块
+blockTracker.module.bcEnergy=BC能量方块
+blockTracker.module.hydraulicraft=液压工艺能量方块
+blockTracker.module.ic2=IC2能量方块
+blockTracker.module.rf=RF能源方块
+blockTracker.module.thaumcraft=神秘时代要素方块
+blockTracker.module.peripheral=ComputerCraft外设
+
+blockTracker.info.bcEnergy=BuildCraft Energy方块
+blockTracker.info.hydraulicraft=Hydraulicraft Power方块
+blockTracker.info.ic2=IC2 Power方块
+blockTracker.info.rf=RF Power方块
+blockTracker.info.thaumcraft=包含方向:
+blockTracker.info.thaumcraft.nodetype=节点类型:
+blockTracker.info.thaumcraft.nodeModifier=节点特性:
+
+blockTracker.info.peripheral.title=ComputerCraft 外设
+blockTracker.info.peripheral.availableMethods=现有函数:
+
+blockTracker.message.stopSpam=在%s停止垃圾信息
+
+# Tooltips
+gui.tooltip.plasticPlant=Origin:来源 %s
+gui.tooltip.plasticPlant.plant=按“Q”或右键单击以播种
+gui.tooltip.programmable.invalidPieces=显示为红色的片段不适用于此应用程序。
+gui.tooltip.doesNotDespawn=§a此物品不再消失。
+gui.tooltip.gunAmmo=弹药类型:
+gui.tooltip.gunAmmo.combineWithPotion=使用任何药水制作，令子弹获得这种效果。
+gui.tooltip.sneakForInfo=潜行以获得信息
+gui.tooltip.maxPressure=Max pressure: %s bar
+gui.tooltip.amadronTablet.itemLocation=物料提供位置：  %s,%s,%s于%s维度
+gui.tooltip.amadronTablet.fluidLocation=流体供应位置：%s,%s,%s 维度 %s
+gui.tooltip.amadronTablet.selectItemLocation=右键背包中的一个物品将他提供给供应商.
+gui.tooltip.amadronTablet.selectFluidLocation=右键一个水泵来把液体提供给供应商
+gui.tooltip.gpsTool.variable=相关变量: "#%s"
+
+# Item tooltips
+gui.tooltip.item.plasticBucket=放入塑料混合器来将塑料转化为固体塑料.
+gui.tooltip.item.etchacidBucket=将刻蚀酸放置在世界中，并投入一块经过紫外线灯箱照射的 PCB，5 分钟后将产生一块未组装的 PCB。
+gui.tooltip.item.lpgBucket=与煤一起用于热风加工厂生产塑料。也可用作极好的液体和固体燃料。此桶可放在熔炉中。
+gui.tooltip.item.fuelBucket=可在热气处理厂加工，生产液化石油气。它相当于 BuildCraft 的燃料。它是一种很好的液体和固体燃料。此桶可放在熔炉中。
+gui.tooltip.item.keroseneBucket=可在热气动加工厂中加工以生产汽油。它是一种很好的液体和固体燃料。此桶可放在熔炉中。
+gui.tooltip.item.dieselBucket=可以在热气动加工厂中加工以生产煤油，或者将红石加入润滑剂中。它可作为合理的液体和固体燃料。此桶可放置在熔炉中。
+gui.tooltip.item.oilBucket=可以在炼油厂加工，生产各种燃料，最终可用于生产塑料。它是一种普通的液体和固体燃料。这个桶可以放在熔炉里。
+gui.tooltip.item.lubricantBucket=制作物品来制作速度升级.
+gui.tooltip.item.gpsTool=右键单击方块即可在世界中存储坐标。可用于各种方块，如空气炮、通用传感器和编程器。
+gui.tooltip.item.machineUpgrade=可用于大多数机器，以升级机器的功能。
+gui.tooltip.item.airCanister=可以使用充电站充电或放电。用于制作大多数气动充电物品。
+gui.tooltip.item.vortexCannon=发射涡流，无害的射弹，可以吹走实体并摧毁植物/树叶。
+gui.tooltip.item.pneumaticHelmet=此款头盔可在充电站升级。升级后，它将为用户提供类似钢铁侠的工具，如实体跟踪和方块跟踪。
+gui.tooltip.item.manometer=当右键单击气动工艺方块时，它将提供有关该块的信息。
+gui.tooltip.item.stopWorm=在安全站中使用以提高被黑客入侵的机会。
+gui.tooltip.item.nukeVirus=在安全站中使用以提高被黑客入侵的机会。
+gui.tooltip.item.pneumaticWrench=当右键点击一个方块时，它会旋转它。当潜行右键点击时，它会拆除该方块（如果它涉及气动工艺方块）。
+gui.tooltip.item.drone=可编程机器人。几乎你能想到的任何任务都可以交给这个无人机。你需要在编程器中对其进行编程。
+gui.tooltip.item.programmingPuzzle=用于对无人机进行编程。由程序员使用。可以将零件保留在您的库存中，也可以将它们放在程序员旁边的库存中。
+gui.tooltip.item.advancedPCB=用于升级管道模块的项目。这允许您精确指定模块的行为方式。
+gui.tooltip.item.remote=该项目允许您设计自己的 GUI。可以放置按钮和标签来创建遥控器来控制您的无人机或通用传感器！
+gui.tooltip.item.seismicSensor=此物品用于追踪石油矿藏。右键单击后，将显示是否在单击传感器的位置直接发现石油。
+gui.tooltip.item.logisticsConfigurator=此项用于配置物流框架。按住 Shift 键并单击鼠标右键可删除框架。
+gui.tooltip.item.logisticFrameRequester=可以配置为从物流网络请求物品。
+gui.tooltip.item.logisticFrameStorage=存储由物流主动提供商框架提供的物流网络中的物品。
+gui.tooltip.item.logisticFrameDefaultStorage=与存储框架一样，它存储由物流主动提供框架提供的物流网络中的物品。但它的优先级低于存储框架，因此适合用于“杂物箱”用途。它还可以向存储框架提供物品。
+gui.tooltip.item.logisticFramePassiveProvider=向物流网络提供物品。仅提供给请求框架。
+gui.tooltip.item.logisticFrameActiveProvider=为物流网络提供物品。同时为请求框架和存储框架提供物品。
+gui.tooltip.item.logisticDrone=执行物流任务的机器人。物流框架用于定义这些任务。
+gui.tooltip.item.gunAmmo=当无人机安装有实体追踪升级后，它们会使用子弹，并携带一把迷你枪
+gui.tooltip.item.amadronTablet=用于订购物品/液体的物品。它与村民交易类似。物品/液体通过无人机拾取和运送。需要通过右键单击库存和/或坦克来指定拾取/放下地点。
+gui.tooltip.item.logisticsModule=此管道模块安装在管道上后，将与连接管道上的其他物流管道模块进行通信。它将在其指向的库存/储罐上执行物流任务，并配有物流框架。它使用压力来实现这一点。
+gui.tooltip.item.heatFrame=可以放置在任何库存中。当被相邻的热源加热时，它会尝试熔炼库存中的任何物品，并在冷却时将其冻结。只有当库存中有空间容纳输出的物品时，它才会成功。施加的热量越多，熔炼过程就越快，每秒最多可熔炼 1 件物品。同样，冷却得越多，冻结物体的速度就越快。
+gui.tooltip.item.minigun=这是一把手持武器。它使用枪弹来操作，枪弹必须位于玩家的物品栏中。
+
+# Waila
+hud.msg.state=状态
+hud.msg.active=活跃的
+hud.msg.inactive=不活跃的
+
+waila.temperature=温度: §f%sC
+waila.temperature.north=北方温度: §f%sC
+waila.temperature.south=南方温度: §f%sC
+waila.temperature.west=西方温度: §f%sC
+waila.temperature.east=东方温度: §f%sC
+waila.temperature.up=顶部温度: §f%sC
+waila.temperature.down=底部温度: §f%sC
+waila.logisticsModule.transporting=§9运输中
+waila.logisticsModule.notEnoughAir=§6压力不足以将物品/液体运输到那么远的距离。
+waila.logisticsModule.powered=§2线上
+waila.logisticsModule.noPower=§c线下 (至少用在 3 bar)
+waila.logisticsModule.channel=频道:
+
+# Misc
+itemGroup.tabPneumaticCraft=气动工艺
+message.date.ironman=今天钢铁侠首映了!
+message.securityStation.accessPrevented=§c%s安全站阻止了访问。
+message.securityStation.stationPlacementPrevented=§c您无法在此放置安全站：%s 安全站太近了！
+message.seismicSensor.foundOil=§a[地震传感器] 可能发现石油！正在扫描...
+message.seismicSensor.foundOilDetails=§a[地震传感器] 在下面发现了 %s§am 石油。它含有大约 %s§a 桶石油。
+message.seismicSensor.noOilFound=§c[地震传感器] 未发现石油。
+message.amadronTable.setItemProvidingLocation=[Amadron Tablet] 将物品提供位置设置为 %s、%s、%s（%s）维度 %s 
+message.amadronTable.setLiquidProvidingLocation=[Amadron Tablet] 将液体提供位置设置为 %s、%s、%s（%s）维度 %s 
+gui.regulatorTube.hudMessage.notInLine=§c调节管模块仅调节模块管路中的空气。
+gui.regulatorTube.hudMessage.inverted=§c调节管模块仅按箭头方向调节空气。
+gui.search=搜索:
+
+# Death Messages
+death.attack.pressure1=1$s和煎饼一样薄
+death.attack.pressure2=%1$s被压死了！
+death.attack.acid1=%1$s被酸腐蚀死了！
+death.attack.acid2=%1$s变成印刷电路板了！
+death.attack.securityStation1=%1$s 入侵安全站失败并且死了!
+death.drone=你的无人机坠毁在了 X: %s, Y: %s, Z: %s.
+death.drone.named=你命名为 "%s"的无人机坠毁在了 X: %s, Y: %s, Z: %s.
+
+# IGW pages
+igwtab.entry.oil=石油
+igwtab.entry.worldgen=世界生成
+igwtab.entry.baseConcepts=基础概念
+igwtab.entry.machineUpgrades=设备升级
+igwtab.entry.generatingPressure=产生压力
+igwtab.entry.pressureTubes=管道和模块
+igwtab.entry.pressureChamber=压力室
+igwtab.entry.elevator=电梯
+igwtab.entry.pneumaticDoor=气动门
+igwtab.entry.printedCircuitBoards=印刷电路板
+igwtab.entry.assemblyMachines=组装机械
+igwtab.entry.ic2Integration=IC2集成
+igwtab.entry.bcIntegration=BC集成
+igwtab.entry.cofhIntegration=CoFH集成
+igwtab.entry.ccIntegration=Computercraft集成
+igwmod.pressureChamber.requiredPressure=需要压强
+
+# commands
+command.deliverAmazon.args=参数不足
+command.deliverAmazon.coords=包含无效坐标。它们必须是整数。
+command.deliverAmazon.playerName=未找到该玩家名称。
+command.deliverAmazon.noItems=指定的库存不包含物品。
+command.deliverAmazon.noInventory=指定的坐标没有库存。
+command.deliverAmazon.success=运送物品！
+command.getGlobalVariable.output=变量名：“%s”。坐标：(%s，%s，%s)。物品：%s
+command.setGlobalVariable.output=变量“％s”已设置为(％s，％s，％s)。
+
+#Achievements
+achievement.ingotIronCompressed=第一次爆炸（众多爆炸中的）
+achievement.ingotIronCompressed.desc=将铁扔到地上并在其附近引发爆炸。
+achievement.airCompressor=增大压强！
+achievement.airCompressor.desc=获得空气压缩机。
+achievement.oilBucket=捞出湖泊地下（有时在地面上）的石油。黄金
+achievement.oilBucket.desc=捞出湖泊地下（有时在地面上）的石油。
+achievement.refinery=炼油厂
+achievement.refinery.desc=获得一座炼油厂。
+achievement.plastic=塑料!
+achievement.plastic.desc=将液化天然气和煤炭放入热气动加工厂来制造塑料
+achievement.uvLightBox=别忘了戴墨镜！
+achievement.uvLightBox.desc=获得紫外线灯箱
+achievement.etchacidBucket=不要把它洒在你的衬衫上!
+achievement.etchacidBucket.desc=获取刻蚀酸桶，将处理好的PCB投入UV灯箱中进行处理，生成未组装的PCB。
+achievement.dw9x9=完美大小
+achievement.dw9x9.desc=用圆石建造一座 9x9 的房子，根据 Direwolf20 的说法，这个尺寸是完美的。
+
+#NEI
+gui.nei.recipe.etchingAcid=放下一块刻蚀酸。放入一块已用紫外线灯箱照射过的空PCB。此过程需要5分钟。
+gui.nei.recipe.uvLightBox=制作一个 UV 灯箱，用空气为其供电，然后放入一个空的 PCB。此过程大约需要 10 分钟（无需任何速度升级）。
+
+#Amadron
+drone.amadronDeliveryDrone=Amadron搬运无人机
+gui.amadron=Amadron
+gui.amadron.addTrade.selling=出售中
+gui.amadron.addTrade.buying=购买中
+gui.amadron.addTrade.itemFluidAmount=项目/液体量
+gui.amadron.addTrade.problems.noSellingOrPayingBlock=§7未选择销售/付款地点。\n§0使用 Amadron 平板电脑选择物品/流体位置，或单击 GPS 按钮选择 GPS 工具。
+gui.amadron.button.order=订购
+gui.amadron.button.order.tooltip=订购篮子中的物品。一架无人机会来取走您的物品，另一架无人机会送来您购买的物品。
+gui.amadron.button.addTrade=增加交易
+gui.amadron.button.addTrade.tooltip=放置您自己的物品以便其他玩家购买。
+gui.amadron.button.addTrade.tooltip.offerCount=已使用 %s/%s 个优惠。
+gui.amadron.button.selectSellingBlock.tooltip=选择用于销售物品/液体的库存/储罐。默认情况下，使用 Amadron Tablet 选择的库存/储罐。
+gui.amadron.button.selectPaymentBlock.tooltip=选择用于接收请求物品/液体付款的库存/储罐。默认情况下，使用 Amadron 平板电脑选择的库存/储罐。
+gui.amadron.amadronWidget.vendor=§6供应商：%s
+gui.amadron.amadronWidget.buying=§a购买中: %s
+gui.amadron.amadronWidget.selling=§9出售中: %s
+gui.amadron.amadronWidget.inBasket=§8篮子里: %s
+gui.amadron.amadronWidget.sneakRightClickToRemove=潜行右键移除（库存将返回供应商位置。失败时丢失）。
+gui.amadron.amadronWidget.stock=§9库存: %s
+gui.tab.amadron.disclaimer.title=免责声明
+gui.tab.amadron.disclaimer=Amadron 不对因使用送货服务而造成的任何损失或损害承担责任。当部分付款到达 Amadron 时，它有权保留原本会出售给买家的物品。
+message.amadron.playerAddedTrade=§b[Amadron] §6%s§b 现正以 §6%s§b 的价格出售 §6%s§b。
+message.amadron.playerRemovedTrade=§c[Amadron] §6%s§c 不再以 §6%s§c 的价格出售 §6%s§c。
+message.amadron.duplicateOffer=§c[Amadron] 无法添加交易：相同的交易已经添加。
+message.amadron.duplicateReversedOffer=§c[Amadron] 无法添加交易：您已经与反向交易物品进行了交易。
+message.amadron.playerBought=§a[Amadron] §6%s§b 从你那里买下了§6%s§b，并用§6%s§b 交换。
