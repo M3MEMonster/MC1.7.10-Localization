@@ -1,0 +1,35 @@
+[
+    {
+        "authors":"Ceroler",
+        "name":"Cybersus汉化",
+        "desc":"Cybersus汉化文件",
+        "mods":"Cybersus",
+        "dynamic":false
+    },
+    {
+        "target_class":[
+            "com.suslovila.cybersus.common.item.ItemCreativeAspectContainer"
+        ],
+        "pairs":[
+            {
+                "key":"Creative mode only",
+                "value":"创造模式专用"
+            }
+        ]
+    },
+    {
+        "target_class":[
+            "com.suslovila.cybersus.client.gui.GuiImplants"
+        ],
+        "pairs":[
+            {
+                "key":"fuel enough",
+                "value":"能源充足  "
+            },
+            {
+                "key":"not enough fuel",
+                "value":"能源不足  "
+            }
+        ]
+    }
+]

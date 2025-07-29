@@ -1,0 +1,3237 @@
+[
+    {
+        "authors": "Ceroler",
+        "name": "QuiverBow汉化",
+        "desc": "QuiverBow汉化文件",
+        "mods": "QuiverBow",
+        "dynamic": false
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.AA_Targeter"
+        ],
+        "pairs": [
+            {
+                "key": "Arms Assistant Targeting Helper",
+                "value": "炮台瞄准器"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.AA_Targeter"
+        ],
+        "pairs": [
+            {
+                "key": "Use to let Arms Assistants fire at a common target.",
+                "value": "用来让多个自律炮台攻击同一个目标"
+            },
+            {
+                "key": "When riding an AA: Use to fire weapon rails.",
+                "value": "当骑乘在炮台上时，用来发射武器"
+            },
+            {
+                "key": "All involved AA need the Communications Upgrade.",
+                "value": "自律炮台需要交流升级才能用这个"
+            },
+            {
+                "key": "'Over there!'",
+                "value": "“在那儿！”"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.AquaAccelerator"
+        ],
+        "pairs": [
+            {
+                "key": "Aqua Accelerator",
+                "value": "水桶投手"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.AquaAccelerator"
+        ],
+        "pairs": [
+            {
+                "key": "Craft with 1 Water Bucket to reload.",
+                "value": "与一个水桶合成来重新装填"
+            },
+            {
+                "key": "Kinda slippery.",
+                "value": "有点滑"
+            },
+            {
+                "key": "Buckets: INFINITE / ",
+                "value": "剩余水桶: 无限 / "
+            },
+            {
+                "key": "Buckets: ",
+                "value": "剩余水桶: "
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.CoinTosser"
+        ],
+        "pairs": [
+            {
+                "key": "Coin Tosser",
+                "value": "金币投手"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.CoinTosser"
+        ],
+        "pairs": [
+            {
+                "key": "Gold Nuggets: INFINITE / ",
+                "value": "剩余金粒: 无限 / "
+            },
+            {
+                "key": "Gold Nuggets: ",
+                "value": "剩余金粒: "
+            },
+            {
+                "key": "Damage: ",
+                "value": "伤害: "
+            },
+            {
+                "key": " per Nugget",
+                "value": " 点每金粒"
+            },
+            {
+                "key": "Scatter 9 when firing.",
+                "value": "开火时呈分散状发射9个金粒"
+            },
+            {
+                "key": "Cooldown for ",
+                "value": "冷却时间 "
+            },
+            {
+                "key": " sec on use.",
+                "value": " 秒"
+            },
+            {
+                "key": "Crouch-use to drop the current magazine.",
+                "value": "潜行右击卸下弹匣"
+            },
+            {
+                "key": "Craft with a Gold Magazine to reload.",
+                "value": "与一个金弹匣合成来重新装填"
+            },
+            {
+                "key": "Spring-loaded. It's pretty heavy.",
+                "value": "金钱的力量！"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.CoinTosser_Mod"
+        ],
+        "pairs": [
+            {
+                "key": "Modified Coin Tosser",
+                "value": "金币投手节约版"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.CoinTosser_Mod"
+        ],
+        "pairs": [
+            {
+                "key": "Gold Nuggets: INFINITE / ",
+                "value": "剩余金粒: 无限 / "
+            },
+            {
+                "key": "Gold Nuggets: ",
+                "value": "剩余金粒: "
+            },
+            {
+                "key": "Damage: ",
+                "value": "伤害: "
+            },
+            {
+                "key": " per Nugget",
+                "value": " 点每金粒"
+            },
+            {
+                "key": "Scatter 3 when firing.",
+                "value": "开火时呈分散状发射3个金粒"
+            },
+            {
+                "key": "Cooldown for ",
+                "value": "冷却时间 "
+            },
+            {
+                "key": " sec on use.",
+                "value": " 秒"
+            },
+            {
+                "key": "Crouch-use to drop the current magazine.",
+                "value": "潜行右击卸下弹匣"
+            },
+            {
+                "key": "Craft with a Gold Magazine to reload.",
+                "value": "与一个金弹匣合成来重新装填"
+            },
+            {
+                "key": "Retrofit with double-piston tech.",
+                "value": "双活塞科技加持"
+            },
+            {
+                "key": "More efficient, but just as heavy.",
+                "value": "勤俭节约是中华民族的传统美德"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.Crossbow_Auto"
+        ],
+        "pairs": [
+            {
+                "key": "Auto-Crossbow",
+                "value": "连弩"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.Crossbow_Auto"
+        ],
+        "pairs": [
+            {
+                "key": "Bolts: INFINITE / ",
+                "value": "剩余箭矢: 无限 / "
+            },
+            {
+                "key": "Bolts: ",
+                "value": "剩余箭矢: "
+            },
+            {
+                "key": "Damage: ",
+                "value": "伤害点数: "
+            },
+            {
+                "key": "Knockback ",
+                "value": "击退目标 "
+            },
+            {
+                "key": " on hit.",
+                "value": " 格"
+            },
+            {
+                "key": "Cooldown for ",
+                "value": "冷却时间 "
+            },
+            {
+                "key": " sec on use.",
+                "value": " 秒"
+            },
+            {
+                "key": "Crouch-use to ready a bolt.",
+                "value": "潜行右击蓄力"
+            },
+            {
+                "key": "Craft with 1 Arrow Bundle to reload.",
+                "value": "与一把箭捆合成以重新装填"
+            },
+            {
+                "key": "Pistons power the bolt feeder.",
+                "value": "活塞驱动的弩机装置"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.Crossbow_AutoImp"
+        ],
+        "pairs": [
+            {
+                "key": "Improved Auto-Crossbow",
+                "value": "诸葛连弩"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.Crossbow_AutoImp"
+        ],
+        "pairs": [
+            {
+                "key": "Bolts: INFINITE / ",
+                "value": "剩余箭矢: 无限 / "
+            },
+            {
+                "key": "Bolts: ",
+                "value": "剩余箭矢: "
+            },
+            {
+                "key": "Damage: ",
+                "value": "伤害点数: "
+            },
+            {
+                "key": "Knockback ",
+                "value": "击退目标 "
+            },
+            {
+                "key": " on hit.",
+                "value": " 格"
+            },
+            {
+                "key": "Craft with up to 2 Arrow",
+                "value": "与1-2把箭捆合成"
+            },
+            {
+                "key": "Bundles to reload.",
+                "value": "以重新装填"
+            },
+            {
+                "key": "Features a new and",
+                "value": "搭载了全面升级"
+            },
+            {
+                "key": "improved bolt feeder.",
+                "value": "性能更强大的弩机"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.Crossbow_Blaze"
+        ],
+        "pairs": [
+            {
+                "key": "Blaze Crossbow",
+                "value": "烈焰弩"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.Crossbow_Blaze"
+        ],
+        "pairs": [
+            {
+                "key": "Rods: INFINITE / ",
+                "value": "剩余烈焰棒: 无限 / "
+            },
+            {
+                "key": "Rods: ",
+                "value": "剩余烈焰棒: "
+            },
+            {
+                "key": "Damage: ",
+                "value": "伤害点数: "
+            },
+            {
+                "key": "Knockback ",
+                "value": "击退目标 "
+            },
+            {
+                "key": " on hit.",
+                "value": " 格"
+            },
+            {
+                "key": "Fire for ",
+                "value": "击中实体后引燃 "
+            },
+            {
+                "key": " sec on hit.",
+                "value": " 秒"
+            },
+            {
+                "key": "Craft with 1 Blaze Rod to reload.",
+                "value": "与一根烈焰棒合成来重新装填"
+            },
+            {
+                "key": "Black smoke is slowly curling up from it.",
+                "value": "“是不是什么东西熟了？”"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.Crossbow_Compact"
+        ],
+        "pairs": [
+            {
+                "key": "Compact Crossbow",
+                "value": "普通弩"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.Crossbow_Compact"
+        ],
+        "pairs": [
+            {
+                "key": "Bolts: INFINITE / ",
+                "value": "剩余箭矢: 无限 / "
+            },
+            {
+                "key": "Bolts: ",
+                "value": "剩余箭矢: "
+            },
+            {
+                "key": "Damage: ",
+                "value": "伤害点数: "
+            },
+            {
+                "key": "Knockback ",
+                "value": "击退目标 "
+            },
+            {
+                "key": " on hit.",
+                "value": " 格"
+            },
+            {
+                "key": "Craft with 1 Arrow to reload.",
+                "value": "与一支箭合成来重新装填"
+            },
+            {
+                "key": "A simple yet effective design.",
+                "value": "简单却有效的设计"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.Crossbow_Double"
+        ],
+        "pairs": [
+            {
+                "key": "Double Crossbow",
+                "value": "双箭弩"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.Crossbow_Double"
+        ],
+        "pairs": [
+            {
+                "key": "Bolts: INFINITE / ",
+                "value": "剩余箭矢: 无限 / "
+            },
+            {
+                "key": "Bolts: ",
+                "value": "剩余箭矢: "
+            },
+            {
+                "key": "Damage: ",
+                "value": "伤害点数: "
+            },
+            {
+                "key": "Knockback ",
+                "value": "击退目标 "
+            },
+            {
+                "key": " on hit.",
+                "value": " 格"
+            },
+            {
+                "key": "Cooldown for ",
+                "value": "冷却时间 "
+            },
+            {
+                "key": " sec on use.",
+                "value": " 秒"
+            },
+            {
+                "key": "Craft with 1 or 2 Arrows to reload.",
+                "value": "与一支或两支箭合成来重新装填"
+            },
+            {
+                "key": "A sticky piston powers the",
+                "value": "基于粘性活塞的"
+            },
+            {
+                "key": "reloading mechanism.",
+                "value": "二次装填机制"
+            },
+            {
+                "key": "RE-TAUTING! (",
+                "value": "装填中! ("
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.DragonBox"
+        ],
+        "pairs": [
+            {
+                "key": "Dragon Box",
+                "value": "火龙铳"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.DragonBox"
+        ],
+        "pairs": [
+            {
+                "key": "Rockets: INFINITE / ",
+                "value": "剩余烟花: 无限 / "
+            },
+            {
+                "key": "Rockets: ",
+                "value": "剩余烟花: "
+            },
+            {
+                "key": "Damage: ",
+                "value": "伤害点数: "
+            },
+            {
+                "key": "Fire for ",
+                "value": "击中实体后引燃 "
+            },
+            {
+                "key": " sec on hit",
+                "value": " 秒"
+            },
+            {
+                "key": "Cooldown for ",
+                "value": "冷却时间 "
+            },
+            {
+                "key": " sec on use.",
+                "value": " 秒"
+            },
+            {
+                "key": "Craft with up to 8 Firework",
+                "value": "与1-8个烟花合成"
+            },
+            {
+                "key": "Bundles to reload.",
+                "value": "以重新装填"
+            },
+            {
+                "key": "Crank-powered. The metal is bent.",
+                "value": "烟花真好看，金属变弯弯"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.DragonBox_Quad"
+        ],
+        "pairs": [
+            {
+                "key": "Four-Headed Dragon Box",
+                "value": "四头火龙铳"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.DragonBox_Quad"
+        ],
+        "pairs": [
+            {
+                "key": "Rocket Sets: INFINITE / ",
+                "value": "剩余烟花捆: 无限 / "
+            },
+            {
+                "key": "Rocket Sets: ",
+                "value": "剩余烟花捆: "
+            },
+            {
+                "key": "Damage: ",
+                "value": "伤害: "
+            },
+            {
+                "key": " per rocket",
+                "value": " 点每支烟花"
+            },
+            {
+                "key": "Fire for ",
+                "value": "击中实体后引燃 "
+            },
+            {
+                "key": " sec on hit",
+                "value": " 秒"
+            },
+            {
+                "key": "Cooldown for ",
+                "value": "冷却时间 "
+            },
+            {
+                "key": " sec on use.",
+                "value": " 秒"
+            },
+            {
+                "key": "Scatter 4 on use",
+                "value": "开火时一齐射出四个烟花"
+            },
+            {
+                "key": "Craft with up to 8 Rocket Bundles",
+                "value": "与1-8个烟花捆合成"
+            },
+            {
+                "key": "to reload.",
+                "value": "来重新装填"
+            },
+            {
+                "key": "\"Four Dragonboxes strapped together.",
+                "value": "不就是把四个火龙铳捆一起嘛"
+            },
+            {
+                "key": "What could go wrong?",
+                "value": "能出多大事？"
+            },
+            {
+                "key": "\"",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.ERA"
+        ],
+        "pairs": [
+            {
+                "key": "Ender Rail Accelerator",
+                "value": "末影轨道炮"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.ERA"
+        ],
+        "pairs": [
+            {
+                "key": "Burnt Out ",
+                "value": "损坏的"
+            },
+            {
+                "key": "Damage: ",
+                "value": "对目标造成 "
+            },
+            {
+                "key": " to hit target.",
+                "value": " 点伤害"
+            },
+            {
+                "key": "Explosion with ",
+                "value": "产生半径 "
+            },
+            {
+                "key": " block radius on hit.",
+                "value": " 格的爆炸在击中处"
+            },
+            {
+                "key": "Has an emerald muzzle.",
+                "value": "枪身经过绿宝石强化"
+            },
+            {
+                "key": " block radius on firing.",
+                "value": " 格的爆炸在开火瞬间"
+            },
+            {
+                "key": "Burns out after one shot.",
+                "value": "开火一次之后就会损坏"
+            },
+            {
+                "key": "27 blocks worth of powered rail,",
+                "value": "高能加速轨道"
+            },
+            {
+                "key": "running through a single ender chest.",
+                "value": "结合末影空间科技的产物"
+            },
+            {
+                "key": "So not safe for use.",
+                "value": "爆炸就是艺术！"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.EnderBow"
+        ],
+        "pairs": [
+            {
+                "key": "Ender Bow",
+                "value": "末影弓"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.EnderBow"
+        ],
+        "pairs": [
+            {
+                "key": "Durability: ",
+                "value": "耐久: "
+            },
+            {
+                "key": "Zoom on use.",
+                "value": "使用时自动缩放视野"
+            },
+            {
+                "key": "Predictive arrow on use.",
+                "value": "实时显示预测轨迹"
+            },
+            {
+                "key": "An ender-eye scope is attached.",
+                "value": "让您也能拥有末影之眼的视觉！"
+            },
+            {
+                "key": "It's staring at you.",
+                "value": "“我会一直盯着你······”"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.EnderRifle"
+        ],
+        "pairs": [
+            {
+                "key": "Ender Rifle",
+                "value": "末影界外狙"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.EnderRifle"
+        ],
+        "pairs": [
+            {
+                "key": "Iron: INFINITE / ",
+                "value": "剩余铁锭: 无限 / "
+            },
+            {
+                "key": "Iron: ",
+                "value": "剩余铁锭: "
+            },
+            {
+                "key": "Damage: ",
+                "value": "伤害点数: "
+            },
+            {
+                "key": "Knockback ",
+                "value": "击退目标 "
+            },
+            {
+                "key": " on hit.",
+                "value": " 格"
+            },
+            {
+                "key": "Cooldown for ",
+                "value": "冷却时间 "
+            },
+            {
+                "key": " sec on use.",
+                "value": " 秒"
+            },
+            {
+                "key": "Deals more damage the longer it travels.",
+                "value": "射程越远，伤害越高"
+            },
+            {
+                "key": "Crouch to zoom.",
+                "value": "潜行缩放视野"
+            },
+            {
+                "key": "An ender-eye scope is attached.",
+                "value": "让您也能拥有末影之眼的视觉！"
+            },
+            {
+                "key": "It's staring at you.",
+                "value": "“我会一直盯着你······”"
+            },
+            {
+                "key": "Craft with up to 8 Iron Ingots to reload.",
+                "value": "与1-8个铁锭合成来重新装填"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.Endernymous"
+        ],
+        "pairs": [
+            {
+                "key": "Hidden Ender Pistol",
+                "value": "末影隐迹手枪"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.Endernymous"
+        ],
+        "pairs": [
+            {
+                "key": "Ender Quartz: INFINITE / ",
+                "value": "剩余末影石英: 无限 / "
+            },
+            {
+                "key": "Ender Quartz: ",
+                "value": "剩余末影石英: "
+            },
+            {
+                "key": "Damage: ",
+                "value": "伤害点数: "
+            },
+            {
+                "key": "Cooldown for ",
+                "value": "冷却时间 "
+            },
+            {
+                "key": " sec on use.",
+                "value": " 秒"
+            },
+            {
+                "key": "Anonymous.",
+                "value": "无痕"
+            },
+            {
+                "key": "Crouch-use to drop the",
+                "value": "潜行右击卸下"
+            },
+            {
+                "key": "current clip.",
+                "value": "嵌片"
+            },
+            {
+                "key": "Craft with an Ender Quartz",
+                "value": "与末影-石英嵌片合成"
+            },
+            {
+                "key": "Clip to reload.",
+                "value": "来重新装填"
+            },
+            {
+                "key": "A weapon for those desiring",
+                "value": "示之以隐忍"
+            },
+            {
+                "key": "to stay unknown.",
+                "value": "杀人于无形"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.FenFire"
+        ],
+        "pairs": [
+            {
+                "key": "Fen Fire",
+                "value": "明萤流火"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.FenFire"
+        ],
+        "pairs": [
+            {
+                "key": "Lights: INFINITE / ",
+                "value": "剩余光源: 无限 / "
+            },
+            {
+                "key": "Lights: ",
+                "value": "剩余光源: "
+            },
+            {
+                "key": "Fire for ",
+                "value": "击中实体后引燃 "
+            },
+            {
+                "key": " sec on hit.",
+                "value": " 秒"
+            },
+            {
+                "key": "Cooldown for ",
+                "value": "冷却时间 "
+            },
+            {
+                "key": " sec on use.",
+                "value": " 秒"
+            },
+            {
+                "key": "Places glowstone on terrain hit.",
+                "value": "在落点处释放萤石颗粒"
+            },
+            {
+                "key": "Craft with up to 8 Glowstone Blocks",
+                "value": "与1-8个萤石合成"
+            },
+            {
+                "key": "to reload.",
+                "value": "来重新装填"
+            },
+            {
+                "key": "It's emanating a warm light.",
+                "value": "在黑暗中给予光明，于绝望中点燃希望"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.FlintDuster"
+        ],
+        "pairs": [
+            {
+                "key": "Flint Duster",
+                "value": "碎石枪"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.FlintDuster"
+        ],
+        "pairs": [
+            {
+                "key": "Flint Dust: INFINITE / ",
+                "value": "剩余燧石粉: 无限 / "
+            },
+            {
+                "key": "Flint Dust: ",
+                "value": "剩余燧石粉: "
+            },
+            {
+                "key": "Damage: ",
+                "value": "伤害点数: "
+            },
+            {
+                "key": "Range: Roughly ",
+                "value": "作用范围：大约 "
+            },
+            {
+                "key": " Blocks.",
+                "value": " 方块"
+            },
+            {
+                "key": "A mining tool.",
+                "value": "一个挖掘工具"
+            },
+            {
+                "key": "Craft with up to 8 Boxes of",
+                "value": "与1-8个燧石粉袋合成"
+            },
+            {
+                "key": "Flint Dust to reload.",
+                "value": "来重新装填"
+            },
+            {
+                "key": "The quartz is barely visible",
+                "value": "“谁设计的石英枪身？"
+            },
+            {
+                "key": "beneath the dust coating.",
+                "value": "不知道一下矿容易埋汰吗”"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.FrostLancer"
+        ],
+        "pairs": [
+            {
+                "key": "Frost Lancer",
+                "value": "末影冰霜狙"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.FrostLancer"
+        ],
+        "pairs": [
+            {
+                "key": "Cold Iron: INFINITE / ",
+                "value": "剩余霜铁: 无限 / "
+            },
+            {
+                "key": "Cold Iron: ",
+                "value": "剩余霜铁: "
+            },
+            {
+                "key": "Damage: ",
+                "value": "伤害点数: "
+            },
+            {
+                "key": "Cooldown for ",
+                "value": "冷却时间 "
+            },
+            {
+                "key": " sec on use.",
+                "value": " 秒"
+            },
+            {
+                "key": "Slowness ",
+                "value": "对目标施加缓慢 "
+            },
+            {
+                "key": " for ",
+                "value": " 持续 "
+            },
+            {
+                "key": " sec on hit.",
+                "value": " 秒"
+            },
+            {
+                "key": "Nausea 1 for ",
+                "value": "对目标施加反胃 1 持续 "
+            },
+            {
+                "key": "Craft with 1 Cold Iron Clip to reload.",
+                "value": "与一个霜铁嵌片合成来重新装填"
+            },
+            {
+                "key": "Crouch to zoom.",
+                "value": "潜行缩放视野"
+            },
+            {
+                "key": "A quartz ender-eye scope is attached.",
+                "value": "让您也能拥有末影之眼的视觉！"
+            },
+            {
+                "key": "It's staring past you with aloof disdain.",
+                "value": "“感受到我冰冷的凝视了吗？”"
+            },
+            {
+                "key": "COOLING DOWN! (",
+                "value": "正在冷却! ("
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.LapisCoil"
+        ],
+        "pairs": [
+            {
+                "key": "Lapis Coil",
+                "value": "混沌幽蓝"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.LapisCoil"
+        ],
+        "pairs": [
+            {
+                "key": "Lapis: INFINITE / ",
+                "value": "剩余青金石: 无限 / "
+            },
+            {
+                "key": "Lapis: ",
+                "value": "剩余青金石: "
+            },
+            {
+                "key": "Damage: ",
+                "value": "伤害点数: "
+            },
+            {
+                "key": "Weakness ",
+                "value": "对目标施加虚弱 "
+            },
+            {
+                "key": "Hunger ",
+                "value": "对目标施加饥饿 "
+            },
+            {
+                "key": " for ",
+                "value": " 持续 "
+            },
+            {
+                "key": " sec on hit.",
+                "value": " 秒"
+            },
+            {
+                "key": "Nausea 1 for ",
+                "value": "对目标施加反胃 1 持续 "
+            },
+            {
+                "key": "Crouch-use to drop the current magazine.",
+                "value": "潜行右击卸下弹匣"
+            },
+            {
+                "key": "Craft with a Lapis Magazine to reload.",
+                "value": "与一个青金石弹匣合成来重新装填"
+            },
+            {
+                "key": "Redstone-powered and highly toxic.",
+                "value": "“来自他乡的旅者啊，莫被这幽蓝的粉末迷了双眼"
+            },
+            {
+                "key": "It's covered in blue dust.",
+                "value": "它既是受人追捧的财富，也是索人性命的恶魔”"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.LightningRed"
+        ],
+        "pairs": [
+            {
+                "key": "Lightning Red",
+                "value": "绯红刃牙"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.LightningRed"
+        ],
+        "pairs": [
+            {
+                "key": "Redstone: INFINITE / ",
+                "value": "剩余红石: 无限 / "
+            },
+            {
+                "key": "Redstone: ",
+                "value": "剩余红石: "
+            },
+            {
+                "key": "Damage: ",
+                "value": "伤害点数: "
+            },
+            {
+                "key": "Cooldown for ",
+                "value": "冷却时间 "
+            },
+            {
+                "key": " sec on use.",
+                "value": " 秒"
+            },
+            {
+                "key": "Punches through up to ",
+                "value": "一次最多作用于 "
+            },
+            {
+                "key": " targets.",
+                "value": " 个目标"
+            },
+            {
+                "key": "Lightning strike on hit.",
+                "value": "击中实体时释放雷击"
+            },
+            {
+                "key": "Consumes 4 Redstone per shot.",
+                "value": "一次射击消耗4个红石"
+            },
+            {
+                "key": "Crouch-use to drop the current magazine.",
+                "value": "潜行右击卸下弹匣"
+            },
+            {
+                "key": "Craft with a Redstone Magazine to reload.",
+                "value": "与一个红石弹匣合成来重新装填"
+            },
+            {
+                "key": "The twin prongs are crackling.",
+                "value": "你可真让我“来电”"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.MediGun"
+        ],
+        "pairs": [
+            {
+                "key": "Ray Of Hope",
+                "value": "希望之光"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.MediGun"
+        ],
+        "pairs": [
+            {
+                "key": "Potion: INFINITE / ",
+                "value": "剩余药水: 无限 / "
+            },
+            {
+                "key": "Potion: ",
+                "value": "剩余药水: "
+            },
+            {
+                "key": "Regeneration 3 for 1 sec on hit.",
+                "value": "击中实体时给予 1 秒钟的生命恢复 3"
+            },
+            {
+                "key": "Sustained.",
+                "value": "可持续发展"
+            },
+            {
+                "key": "Craft with up to 8 Regeneration",
+                "value": "与1-8瓶生命恢复I或II药水合成"
+            },
+            {
+                "key": "Potions (I or II) to reload.",
+                "value": "来重新装填"
+            },
+            {
+                "key": "The beacon shimmers encouragingly.",
+                "value": "“一定要，活下去啊！”"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.Mortar_Arrow"
+        ],
+        "pairs": [
+            {
+                "key": "Arrow Mortar",
+                "value": "箭矢迫击炮"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.Mortar_Arrow"
+        ],
+        "pairs": [
+            {
+                "key": "Arrow Bundles: INFINITE / ",
+                "value": "剩余箭捆: 无限 / "
+            },
+            {
+                "key": "Arrow Bundles: ",
+                "value": "剩余箭捆: "
+            },
+            {
+                "key": "Damage: ",
+                "value": "伤害: "
+            },
+            {
+                "key": " per arrow.",
+                "value": " 点每支箭"
+            },
+            {
+                "key": "Cooldown for ",
+                "value": "冷却时间 "
+            },
+            {
+                "key": " sec on use.",
+                "value": " 秒"
+            },
+            {
+                "key": "Scatter 8 on impact.",
+                "value": "击中后炸开8支箭矢"
+            },
+            {
+                "key": "Craft with up to 8 Arrow Bundles to reload.",
+                "value": "与1-8把箭捆合成来重新装填"
+            },
+            {
+                "key": "Arrow tips are poking out of the barrel.",
+                "value": "枪管：憋不住了，要射了"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.Mortar_Dragon"
+        ],
+        "pairs": [
+            {
+                "key": "Dragon Mortar",
+                "value": "龙焰迫击炮"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.Mortar_Dragon"
+        ],
+        "pairs": [
+            {
+                "key": "Rocket Bundles: INFINITE / ",
+                "value": "剩余烟花捆: 无限 / "
+            },
+            {
+                "key": "Rocket Bundles: ",
+                "value": "剩余烟花捆: "
+            },
+            {
+                "key": "Damage: ",
+                "value": "伤害: "
+            },
+            {
+                "key": " per rocket.",
+                "value": " 点每支烟花"
+            },
+            {
+                "key": "Fire for ",
+                "value": "击中实体后引燃 "
+            },
+            {
+                "key": " sec on hit.",
+                "value": " 秒"
+            },
+            {
+                "key": "Cooldown for ",
+                "value": "冷却时间 "
+            },
+            {
+                "key": " sec on use.",
+                "value": " 秒"
+            },
+            {
+                "key": "Craft with up to 8 Rocket Bundles to reload.",
+                "value": "与1-8个烟花捆合成来重新装填"
+            },
+            {
+                "key": "Scatter 8 on impact.",
+                "value": "击中后炸开8支烟花"
+            },
+            {
+                "key": "Filled with rockets, strapped to more rockets.",
+                "value": "烟花，烟花，更多的烟花"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.NetherBellows"
+        ],
+        "pairs": [
+            {
+                "key": "Nether Bellows",
+                "value": "炼狱咆哮"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.NetherBellows"
+        ],
+        "pairs": [
+            {
+                "key": "Netherrack: INFINITE / ",
+                "value": "剩余地狱岩: 无限 / "
+            },
+            {
+                "key": "Netherrack: ",
+                "value": "剩余地狱岩: "
+            },
+            {
+                "key": "Damage: ",
+                "value": "伤害: "
+            },
+            {
+                "key": " per stream.",
+                "value": " 点每喷流"
+            },
+            {
+                "key": "Fire for ",
+                "value": "击中实体后引燃 "
+            },
+            {
+                "key": " sec on hit.",
+                "value": " 秒"
+            },
+            {
+                "key": "Sets fire to terrain.",
+                "value": "会引燃地面"
+            },
+            {
+                "key": "Crouch-use to drop the current magazine.",
+                "value": "潜行右击卸下弹匣"
+            },
+            {
+                "key": "Craft with a Large Netherrack Magazine",
+                "value": "与一个地狱岩弹匣合成"
+            },
+            {
+                "key": "to reload.",
+                "value": "来重新装填"
+            },
+            {
+                "key": "Vague whispers of torment can be heard.",
+                "value": "枪身中隐隐传出来自炼狱的低吼"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.OSP"
+        ],
+        "pairs": [
+            {
+                "key": "Obsidian Splinter Pistol",
+                "value": "黑曜石破片手枪"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.OSP"
+        ],
+        "pairs": [
+            {
+                "key": "Small Splints: INFINITE / ",
+                "value": "剩余小型破片: 无限 / "
+            },
+            {
+                "key": "Small Splints: ",
+                "value": "剩余小型破片: "
+            },
+            {
+                "key": "Damage: ",
+                "value": "伤害点数: "
+            },
+            {
+                "key": "Cooldown for ",
+                "value": "冷却时间 "
+            },
+            {
+                "key": " sec on use.",
+                "value": " 秒"
+            },
+            {
+                "key": "Wither ",
+                "value": "对目标施加凋零 "
+            },
+            {
+                "key": " for ",
+                "value": " 持续 "
+            },
+            {
+                "key": " sec on hit.",
+                "value": " 秒"
+            },
+            {
+                "key": "Crouch-use to drop the current magazine.",
+                "value": "潜行右击卸下弹匣"
+            },
+            {
+                "key": "Craft with 1 Obsidian Magazine to",
+                "value": "与一个黑曜石弹匣合成"
+            },
+            {
+                "key": "reload when empty.",
+                "value": "来重新装填"
+            },
+            {
+                "key": "The barrel's inside is blackened.",
+                "value": "枪管内部漆黑到有些不寻常"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.OSR"
+        ],
+        "pairs": [
+            {
+                "key": "Obsidian Spear Rifle",
+                "value": "黑曜石突击步枪"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.OSR"
+        ],
+        "pairs": [
+            {
+                "key": "Splints: INFINITE / ",
+                "value": "剩余破片: 无限 / "
+            },
+            {
+                "key": "Splints: ",
+                "value": "剩余破片: "
+            },
+            {
+                "key": "Damage: ",
+                "value": "伤害点数: "
+            },
+            {
+                "key": "Cooldown for ",
+                "value": "冷却时间 "
+            },
+            {
+                "key": " sec on use.",
+                "value": " 秒"
+            },
+            {
+                "key": "Wither ",
+                "value": "对目标施加凋零 "
+            },
+            {
+                "key": " for ",
+                "value": " 持续 "
+            },
+            {
+                "key": " sec on hit.",
+                "value": " 秒"
+            },
+            {
+                "key": "Crouch-use to drop the current magazine.",
+                "value": "潜行右击卸下弹匣"
+            },
+            {
+                "key": "Craft with 1 Obsidian Magazine to",
+                "value": "与一个黑曜石弹匣合成"
+            },
+            {
+                "key": "reload when empty.",
+                "value": "来重新装填"
+            },
+            {
+                "key": "Deceptively cold to the touch.",
+                "value": "触碰它让人激起一股寒意"
+            },
+            {
+                "key": "COOLING DOWN (",
+                "value": "正在冷却 ("
+            },
+            {
+                "key": " sec)",
+                "value": " 秒)"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.OWR"
+        ],
+        "pairs": [
+            {
+                "key": "Obsidian Wither Rifle",
+                "value": "黑曜石凋零步枪"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.OWR"
+        ],
+        "pairs": [
+            {
+                "key": "Splints: INFINITE / ",
+                "value": "剩余破片: 无限 / "
+            },
+            {
+                "key": "Splints: ",
+                "value": "剩余破片: "
+            },
+            {
+                "key": "Physical Damage: ",
+                "value": "物理伤害: "
+            },
+            {
+                "key": "Magical Damage: ",
+                "value": "魔法伤害: "
+            },
+            {
+                "key": "Cooldown for ",
+                "value": "冷却时间 "
+            },
+            {
+                "key": " sec on use",
+                "value": " 秒"
+            },
+            {
+                "key": "Wither ",
+                "value": "对目标施加凋零 "
+            },
+            {
+                "key": " for ",
+                "value": " 持续 "
+            },
+            {
+                "key": " sec on hit",
+                "value": " 秒"
+            },
+            {
+                "key": "Crouch-use to drop the current magazine.",
+                "value": "潜行右击卸下弹匣"
+            },
+            {
+                "key": "Craft with 1 Obsidian Magazine to",
+                "value": "与一个黑曜石弹匣合成"
+            },
+            {
+                "key": "reload when empty.",
+                "value": "来重新装填"
+            },
+            {
+                "key": "Disturbingly evil to the touch.",
+                "value": "令人不安的邪恶气息扑面而来"
+            },
+            {
+                "key": "EXORCISING (",
+                "value": "驱邪中 ("
+            },
+            {
+                "key": " sec)",
+                "value": " 秒)"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.Potatosser"
+        ],
+        "pairs": [
+            {
+                "key": "Potatosser",
+                "value": "烤土豆枪"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.Potatosser"
+        ],
+        "pairs": [
+            {
+                "key": "Potatoes: INFINITE / ",
+                "value": "剩余土豆: 无限 / "
+            },
+            {
+                "key": "Potatoes: ",
+                "value": "剩余土豆: "
+            },
+            {
+                "key": "Damage: ",
+                "value": "伤害点数: "
+            },
+            {
+                "key": "Cooldown for ",
+                "value": "冷却时间 "
+            },
+            {
+                "key": " sec on use.",
+                "value": " 秒"
+            },
+            {
+                "key": "Missed potatoes are edible.",
+                "value": "未射中的土豆可以捡起来吃掉"
+            },
+            {
+                "key": "Craft with up to 7 Potatoes and",
+                "value": "与1-7个土豆和1个木炭/煤炭"
+            },
+            {
+                "key": "1 Coal/Charcoal to reload.",
+                "value": "合成来重新装填"
+            },
+            {
+                "key": "It smells kinda appetizing.",
+                "value": "“你别说，这枪烤出来的土豆还挺好吃”"
+            },
+            {
+                "key": "COOKING (",
+                "value": "烤制中 ("
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.PowderKnuckle"
+        ],
+        "pairs": [
+            {
+                "key": "Powder Knuckle",
+                "value": "爆裂指虎"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.PowderKnuckle"
+        ],
+        "pairs": [
+            {
+                "key": "Gunpowder: INFINITE / ",
+                "value": "剩余火药: 无限 / "
+            },
+            {
+                "key": "Gunpowder: ",
+                "value": "剩余火药: "
+            },
+            {
+                "key": "Damage: ",
+                "value": "伤害点数: "
+            },
+            {
+                "key": "Explosion with radius ",
+                "value": "击中目标时造成半径 "
+            },
+            {
+                "key": " on hit.",
+                "value": " 格的爆炸"
+            },
+            {
+                "key": "Punch to attack mobs, Use to attack terrain.",
+                "value": "左键攻击生物，右键破坏地形"
+            },
+            {
+                "key": "Craft with up to 8 gunpowder to reload.",
+                "value": "与1-8撮火药合成来重新装填"
+            },
+            {
+                "key": "Not safe for use.",
+                "value": "不安全"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.PowderKnuckle_Mod"
+        ],
+        "pairs": [
+            {
+                "key": "Modified Powder Knuckle",
+                "value": "爆裂指虎矿工版"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.PowderKnuckle_Mod"
+        ],
+        "pairs": [
+            {
+                "key": "Gunpowder: INFINITE / ",
+                "value": "剩余火药: 无限 / "
+            },
+            {
+                "key": "Gunpowder: ",
+                "value": "剩余火药: "
+            },
+            {
+                "key": "Damage: ",
+                "value": "伤害点数: "
+            },
+            {
+                "key": "Explosion with radius ",
+                "value": "击中目标时造成半径 "
+            },
+            {
+                "key": " on hit.",
+                "value": " 格的爆炸"
+            },
+            {
+                "key": "Punch to attack mobs, Use to attack terrain.",
+                "value": "左键攻击生物，右键破坏地形"
+            },
+            {
+                "key": "Craft with up to 8 gunpowder to reload.",
+                "value": "与1-8撮火药合成来重新装填"
+            },
+            {
+                "key": "Mining 3x3x3 on use.",
+                "value": "破坏地形时能够挖掘3x3x3的范围"
+            },
+            {
+                "key": "Silktouch 1 on use.",
+                "value": "自带精准采集 (实测没有)"
+            },
+            {
+                "key": "Modified for blast mining.",
+                "value": "专为爆破流矿工设计"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.ProximityNeedler"
+        ],
+        "pairs": [
+            {
+                "key": "Proximity Thorn Thrower",
+                "value": "感应针刺枪"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.ProximityNeedler"
+        ],
+        "pairs": [
+            {
+                "key": "Thorns: INFINITE / ",
+                "value": "剩余针刺: 无限 / "
+            },
+            {
+                "key": "Thorns: ",
+                "value": "剩余针刺: "
+            },
+            {
+                "key": "Damage: ",
+                "value": "伤害: "
+            },
+            {
+                "key": " per thorn",
+                "value": " 点每针刺"
+            },
+            {
+                "key": "Scatters thorn splitters",
+                "value": "发射自感应针刺团"
+            },
+            {
+                "key": "on proximity trigger.",
+                "value": "当有生物靠近时自动炸开"
+            },
+            {
+                "key": "Trigger Range: ",
+                "value": "感应范围: "
+            },
+            {
+                "key": " blocks",
+                "value": " 格"
+            },
+            {
+                "key": "Projectile duration: ",
+                "value": "针刺团存在时间: "
+            },
+            {
+                "key": " sec",
+                "value": " 秒"
+            },
+            {
+                "key": "Cooldown for ",
+                "value": "冷却时间 "
+            },
+            {
+                "key": " sec on use.",
+                "value": " 秒"
+            },
+            {
+                "key": "Uses 8 thorns per shot.",
+                "value": "射击一次消耗8根针刺"
+            },
+            {
+                "key": "Crouch-use to drop the",
+                "value": "潜行右击卸下"
+            },
+            {
+                "key": "current clip.",
+                "value": "弹匣"
+            },
+            {
+                "key": "Craft with a Thorn",
+                "value": "与一个仙人掌弹匣合成"
+            },
+            {
+                "key": "Magazine to reload.",
+                "value": "来重新装填"
+            },
+            {
+                "key": "A bundle of pain, lying in wait.",
+                "value": "一团疼痛正静静蛰伏在不为人知的角落···"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.QuiverBow"
+        ],
+        "pairs": [
+            {
+                "key": "Bow with Quiver",
+                "value": "带箭袋的弓"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.QuiverBow"
+        ],
+        "pairs": [
+            {
+                "key": "Quiver: INFINITE / ",
+                "value": "箭袋中剩余: 无限 / "
+            },
+            {
+                "key": "Quiver: ",
+                "value": "箭袋中剩余: "
+            },
+            {
+                "key": " Arrows",
+                "value": " 支箭"
+            },
+            {
+                "key": "Holds more Arrows.",
+                "value": "现在能放下更多的箭了！"
+            },
+            {
+                "key": "Craft with up to 8 arrow bundles to reload.",
+                "value": "与1-8把箭捆合成来重新装填"
+            },
+            {
+                "key": "A quiver has been sewn to this bow.",
+                "value": "弓与箭袋的经典搭配"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.RPG"
+        ],
+        "pairs": [
+            {
+                "key": "Fireworks Rocket Launcher",
+                "value": "烟花火箭筒"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.RPG"
+        ],
+        "pairs": [
+            {
+                "key": "Rockets: INFINITE / ",
+                "value": "剩余火箭: 无限 / "
+            },
+            {
+                "key": "Rockets: ",
+                "value": "剩余火箭: "
+            },
+            {
+                "key": "Explosion with radius ",
+                "value": "击中目标时造成半径 "
+            },
+            {
+                "key": " on hit.",
+                "value": " 格的爆炸"
+            },
+            {
+                "key": "The rocket has a ",
+                "value": "火箭滞空时间最多为 "
+            },
+            {
+                "key": " sec fuse.",
+                "value": " 秒"
+            },
+            {
+                "key": "The fuse is way too short.",
+                "value": "“引信好像有点短”"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.RPG_Imp"
+        ],
+        "pairs": [
+            {
+                "key": "Improved Rocket Launcher",
+                "value": "烟花火箭筒改进版"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.RPG_Imp"
+        ],
+        "pairs": [
+            {
+                "key": "Rockets: INFINITE / ",
+                "value": "剩余火箭: 无限 / "
+            },
+            {
+                "key": "Rockets: ",
+                "value": "剩余火箭: "
+            },
+            {
+                "key": "Explosion with radius ",
+                "value": "击中目标时造成半径 "
+            },
+            {
+                "key": " on hit.",
+                "value": " 格的爆炸"
+            },
+            {
+                "key": "Loads pre-made rockets.",
+                "value": "装载了预制好的火箭"
+            },
+            {
+                "key": "Craft with 1 Big Rocket to reload.",
+                "value": "与一个大火箭合成来重新装填"
+            },
+            {
+                "key": "Detonates on impact.",
+                "value": "击中目标后才引爆"
+            },
+            {
+                "key": "This seems fairly safe.",
+                "value": "这下看起来安全多了"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.RedSprayer"
+        ],
+        "pairs": [
+            {
+                "key": "Redstone Sprayer",
+                "value": "红石喷雾器"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.RedSprayer"
+        ],
+        "pairs": [
+            {
+                "key": "Redstone: INFINITE / ",
+                "value": "剩余红石: 无限 / "
+            },
+            {
+                "key": "Redstone: ",
+                "value": "剩余红石: "
+            },
+            {
+                "key": "Wither ",
+                "value": "对目标施加凋零 "
+            },
+            {
+                "key": " for ",
+                "value": " 持续 "
+            },
+            {
+                "key": " sec on hit.",
+                "value": " 秒"
+            },
+            {
+                "key": "Blindness 1 for ",
+                "value": "对目标施加失明 1 持续"
+            },
+            {
+                "key": "Does not deal direct damage.",
+                "value": "不造成直接伤害"
+            },
+            {
+                "key": "Crouch-use to drop the current magazine.",
+                "value": "潜行右击卸下弹匣"
+            },
+            {
+                "key": "Craft with a Large Redstone Magazine",
+                "value": "与一个大型红石弹匣合成"
+            },
+            {
+                "key": "to reload.",
+                "value": "来重新装填"
+            },
+            {
+                "key": "The muzzle is slightly corroded.",
+                "value": "枪口有轻微腐蚀痕迹"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.SeedSweeper"
+        ],
+        "pairs": [
+            {
+                "key": "Seed Sweeper",
+                "value": "种子清道夫"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.SeedSweeper"
+        ],
+        "pairs": [
+            {
+                "key": "Seeds: INFINITE / ",
+                "value": "剩余种子: 无限 / "
+            },
+            {
+                "key": "Seeds: ",
+                "value": "剩余种子: "
+            },
+            {
+                "key": "Damage: ",
+                "value": "伤害: "
+            },
+            {
+                "key": " per seed.",
+                "value": " 点每团种子"
+            },
+            {
+                "key": "Scatter 8 when firing.",
+                "value": "开火时呈分散状发射8团种子"
+            },
+            {
+                "key": "Cooldown for ",
+                "value": "冷却时间 "
+            },
+            {
+                "key": " sec on use.",
+                "value": " 秒"
+            },
+            {
+                "key": "Crouch-use to drop the current jar.",
+                "value": "潜行右击卸下种子罐"
+            },
+            {
+                "key": "Craft with 1 Seed Jar to reload",
+                "value": "与一个种子罐合成"
+            },
+            {
+                "key": "when empty.",
+                "value": "来重新装填"
+            },
+            {
+                "key": "Git off my farm!",
+                "value": "滚出我的农田！"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.Seedling"
+        ],
+        "pairs": [
+            {
+                "key": "Seedling",
+                "value": "甘蔗西瓜枪"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.Seedling"
+        ],
+        "pairs": [
+            {
+                "key": "Melon Seeds: INFINITE / ",
+                "value": "剩余西瓜种子: 无限 / "
+            },
+            {
+                "key": "Melon Seeds: ",
+                "value": "剩余西瓜种子: "
+            },
+            {
+                "key": "Damage: ",
+                "value": "伤害点数: "
+            },
+            {
+                "key": "80% biologically degradable.",
+                "value": "80%可生物降解"
+            },
+            {
+                "key": "Cannot be reloaded.",
+                "value": "不能重新装填"
+            },
+            {
+                "key": "It's pre-loaded with 2 melons.",
+                "value": "预装填2个西瓜"
+            },
+            {
+                "key": "A small weapon made out of sugar cane.",
+                "value": "一个由甘蔗制成的小型武器"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.SilkenSpinner"
+        ],
+        "pairs": [
+            {
+                "key": "Silken Spinner",
+                "value": "便携吐丝器"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.SilkenSpinner"
+        ],
+        "pairs": [
+            {
+                "key": "Webs: INFINITE / ",
+                "value": "剩余蛛网: 无限 / "
+            },
+            {
+                "key": "Webs: ",
+                "value": "剩余蛛网: "
+            },
+            {
+                "key": "Places cobweb on hit.",
+                "value": "击中目标时释放蛛网"
+            },
+            {
+                "key": "Cooldown for ",
+                "value": "冷却时间 "
+            },
+            {
+                "key": " sec on use.",
+                "value": " 秒"
+            },
+            {
+                "key": "Craft with up to 8 Cobwebs to reload.",
+                "value": "与1-8个蜘蛛网合成来重新装填"
+            },
+            {
+                "key": "Feels vaguely sticky.",
+                "value": "摸起来有点粘"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.SnowCannon"
+        ],
+        "pairs": [
+            {
+                "key": "Snow Cannon",
+                "value": "雪球加农炮"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.SnowCannon"
+        ],
+        "pairs": [
+            {
+                "key": "Snow: INFINITE / ",
+                "value": "剩余雪球: 无限 / "
+            },
+            {
+                "key": "Snow: ",
+                "value": "剩余雪球: "
+            },
+            {
+                "key": "Damage: ",
+                "value": "伤害: "
+            },
+            {
+                "key": " per Snowball",
+                "value": " 点每雪球"
+            },
+            {
+                "key": "Scatter 4 when firing.",
+                "value": "开火时呈分散状发射4个雪球"
+            },
+            {
+                "key": "Cooldown for ",
+                "value": "冷却时间 "
+            },
+            {
+                "key": " sec on use.",
+                "value": " 秒"
+            },
+            {
+                "key": "Slowness ",
+                "value": "对目标施加缓慢 "
+            },
+            {
+                "key": " for ",
+                "value": " 持续 "
+            },
+            {
+                "key": " sec on hit.",
+                "value": " 秒"
+            },
+            {
+                "key": "Craft with up to 8 Snow Blocks to reload.",
+                "value": "与1-8个雪块合成来重新装填"
+            },
+            {
+                "key": "Hoarfrost is forming around the trigger.",
+                "value": "浓重的寒气萦绕在扳机附近"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.SoulCairn"
+        ],
+        "pairs": [
+            {
+                "key": "Soul Cairn",
+                "value": "枢机轮回之柩"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.SoulCairn"
+        ],
+        "pairs": [
+            {
+                "key": "Soul Battery: INFINITE / ",
+                "value": "灵魂电池: 无限 / "
+            },
+            {
+                "key": "Soul Battery: ",
+                "value": "灵魂电池: "
+            },
+            {
+                "key": "Kills target on hit.",
+                "value": "瞬间杀死击中的实体"
+            },
+            {
+                "key": "Gain mob egg on hit.",
+                "value": "并获得相应的怪物蛋"
+            },
+            {
+                "key": "Do not aim at sentient beings.",
+                "value": "这一过程也会损耗自身的灵魂"
+            },
+            {
+                "key": "Craft with 1 Diamond to reload.",
+                "value": "与一颗钻石合成来重新装填"
+            },
+            {
+                "key": "A tool to End (and start) all life.",
+                "value": "既是终结，也是新生"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.SugarEngine"
+        ],
+        "pairs": [
+            {
+                "key": "Sugar Engine",
+                "value": "糖衣加特林"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.SugarEngine"
+        ],
+        "pairs": [
+            {
+                "key": "Sugar Rods: INFINITE / ",
+                "value": "剩余糖棍: 无限 / "
+            },
+            {
+                "key": "Sugar Rods: ",
+                "value": "剩余糖棍: "
+            },
+            {
+                "key": "Damage: ",
+                "value": "伤害: "
+            },
+            {
+                "key": " per rod.",
+                "value": " 点每根糖棍"
+            },
+            {
+                "key": "Fires ~20 rods per second.",
+                "value": "射速可达每秒20根糖棍"
+            },
+            {
+                "key": "Start-up Time: ",
+                "value": "蓄力时间: "
+            },
+            {
+                "key": " sec.",
+                "value": " 秒"
+            },
+            {
+                "key": "Crouch-use to drop the current clip.",
+                "value": "潜行右击卸下嵌片"
+            },
+            {
+                "key": "Craft with 1 Clip of Sugar Rods",
+                "value": "与一板糖棍嵌片合成"
+            },
+            {
+                "key": "to reload when empty.",
+                "value": "以重新装填"
+            },
+            {
+                "key": "So many barrels. Why so many barrels?",
+                "value": "六根清净甘蔗弹，一息三千六百转"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.Sunray"
+        ],
+        "pairs": [
+            {
+                "key": "Sunray",
+                "value": "曜日惩戒"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.Sunray"
+        ],
+        "pairs": [
+            {
+                "key": "Charge: ",
+                "value": "充能进度: "
+            },
+            {
+                "key": "Damage: ",
+                "value": "伤害点数: "
+            },
+            {
+                "key": "Sets target on fire for ",
+                "value": "击中实体后引燃 "
+            },
+            {
+                "key": " sec.",
+                "value": " 秒"
+            },
+            {
+                "key": "Passes through walls.",
+                "value": "攻击能穿墙"
+            },
+            {
+                "key": "Charges for ",
+                "value": "每次使用后需要 "
+            },
+            {
+                "key": " sec after use.",
+                "value": " 秒进行充能"
+            },
+            {
+                "key": "Requires strong light to charge.",
+                "value": "需暴露在强光下才能充能"
+            },
+            {
+                "key": "The refurbished beacon emits a low hum.",
+                "value": "感受来自太阳的威力吧！"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.ThornSpitter"
+        ],
+        "pairs": [
+            {
+                "key": "Thorn Spitter",
+                "value": "尖刺喷吐者"
+            }
+        ],
+        "info": {
+            "method": "addProps",
+            "local": "MgetString"
+        }
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.weapons.ThornSpitter"
+        ],
+        "pairs": [
+            {
+                "key": "Thorns: INFINITE / ",
+                "value": "剩余针刺: 无限 / "
+            },
+            {
+                "key": "Thorns: ",
+                "value": "剩余针刺: "
+            },
+            {
+                "key": "Damage: ",
+                "value": "伤害点数: "
+            },
+            {
+                "key": "Cooldown for ",
+                "value": "冷却时间 "
+            },
+            {
+                "key": " sec on use.",
+                "value": " 秒"
+            },
+            {
+                "key": "Burst 4 when firing.",
+                "value": "开火时一次射出4根尖刺"
+            },
+            {
+                "key": "Craft with a Thorn",
+                "value": "与一个仙人掌弹匣合成"
+            },
+            {
+                "key": "Magazine to reload.",
+                "value": "来重新装填"
+            },
+            {
+                "key": "Built with experimental quad-piston tech.",
+                "value": "内置实验性的四活塞发射装置"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.ammo.ArrowBundle"
+        ],
+        "pairs": [
+            {
+                "key": "Arrow Bundle",
+                "value": "箭捆"
+            },
+            {
+                "key": "Holds 8 arrows, tightly packed.",
+                "value": "紧绑在一起的8支箭"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.ammo.BoxOfFlintDust"
+        ],
+        "pairs": [
+            {
+                "key": "Box of Flint Dust",
+                "value": "燧石粉袋"
+            },
+            {
+                "key": "All boxed up.",
+                "value": "全部装箱"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.ammo.ColdIronClip"
+        ],
+        "pairs": [
+            {
+                "key": "Cold Iron Clip",
+                "value": "霜铁嵌片"
+            },
+            {
+                "key": "Holds 4 ice-laced iron ingots.",
+                "value": "能容纳4块嵌冰铁锭"
+            },
+            {
+                "key": "Cool to the touch.",
+                "value": "消暑神器"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.ammo.EnderQuartzClip"
+        ],
+        "pairs": [
+            {
+                "key": "Ender Quartz Clip",
+                "value": "末影-石英嵌片"
+            },
+            {
+                "key": "Ender Quartz: ",
+                "value": "剩余末影石英: "
+            },
+            {
+                "key": "Use magazine to fill it with",
+                "value": "右键每次装填各一个"
+            },
+            {
+                "key": "Ender Pearls and Quartz.",
+                "value": "末影珍珠和石英"
+            },
+            {
+                "key": "A clip full of",
+                "value": "一个满是"
+            },
+            {
+                "key": "quartz-encased ender pearls.",
+                "value": "石英包被的末影珍珠的嵌片"
+            },
+            {
+                "key": "You don't have ender pearls.",
+                "value": "你没有末影珍珠"
+            },
+            {
+                "key": "You don't have quartz.",
+                "value": "你没有石英"
+            },
+            {
+                "key": "Does not work in creative mode.",
+                "value": "创造模式下无法装填"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.ammo.GatlingAmmo"
+        ],
+        "pairs": [
+            {
+                "key": "Clip of Sugar Rods",
+                "value": "糖棍嵌片"
+            },
+            {
+                "key": "Sugar Rods: ",
+                "value": "剩余糖棍: "
+            },
+            {
+                "key": "Use clip to fill it with Sugar",
+                "value": "右键每次装填各一个"
+            },
+            {
+                "key": "Canes and Sticks.",
+                "value": "甘蔗和木棍"
+            },
+            {
+                "key": "A loading helper, full of",
+                "value": "一个装满"
+            },
+            {
+                "key": "sugar cane-wrapped sticks.",
+                "value": "甘蔗包被的木棍的嵌片"
+            },
+            {
+                "key": "You don't have sugar canes.",
+                "value": "你没有甘蔗"
+            },
+            {
+                "key": "You don't have sticks.",
+                "value": "你没有木棍"
+            },
+            {
+                "key": "Does not work in creative mode.",
+                "value": "创造模式下无法装填"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.ammo.GoldMagazine"
+        ],
+        "pairs": [
+            {
+                "key": "Gold Magazine",
+                "value": "金弹匣"
+            },
+            {
+                "key": "Gold Nuggets: ",
+                "value": "剩余金粒: "
+            },
+            {
+                "key": "Use magazine to fill it with Gold Nuggets.",
+                "value": "右键每次装填一个金粒"
+            },
+            {
+                "key": "Crouch-use to fill it with 8 Gold Nuggets.",
+                "value": "潜行右键每次装填8个金粒"
+            },
+            {
+                "key": "A loading helper, full of gold nuggets.",
+                "value": "一个装满金粒的弹匣"
+            },
+            {
+                "key": "You don't have gold nuggets.",
+                "value": "你没有金粒"
+            },
+            {
+                "key": "Does not work in creative mode.",
+                "value": "创造模式下无法装填"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.ammo.LapisMagazine"
+        ],
+        "pairs": [
+            {
+                "key": "Lapis Magazine",
+                "value": "青金石弹匣"
+            },
+            {
+                "key": "Lapis: ",
+                "value": "剩余青金石: "
+            },
+            {
+                "key": "Use magazine to fill it with Lapis Blocks.",
+                "value": "右键每次装填一个青金石块"
+            },
+            {
+                "key": "A loading helper, full of toxic blue stuff.",
+                "value": "充满了蓝色恶魔的弹匣"
+            },
+            {
+                "key": "You don't have Lapis Blocks.",
+                "value": "你没有青金石块"
+            },
+            {
+                "key": "Does not work in creative mode.",
+                "value": "创造模式下无法装填"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.ammo.LargeNetherrackMagazine"
+        ],
+        "pairs": [
+            {
+                "key": "Large Netherrack Magazine",
+                "value": "地狱岩弹匣"
+            },
+            {
+                "key": "Netherrack: ",
+                "value": "剩余地狱岩: "
+            },
+            {
+                "key": "Use magazine to fill it with Netherrack.",
+                "value": "右键每次装填一个地狱岩"
+            },
+            {
+                "key": "Crouch-use to fill it with 8 Netherrack.",
+                "value": "潜行右键每次装填8个地狱岩"
+            },
+            {
+                "key": "A loading helper, full of netherrack.",
+                "value": "装满了地狱岩的弹匣"
+            },
+            {
+                "key": "You don't have Netherrack.",
+                "value": "你没有地狱岩"
+            },
+            {
+                "key": "Does not work in creative mode.",
+                "value": "创造模式下无法装填"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.ammo.LargeRedstoneMagazine"
+        ],
+        "pairs": [
+            {
+                "key": "Large Redstone Magazine",
+                "value": "大型红石弹匣"
+            },
+            {
+                "key": "Redstone: ",
+                "value": "剩余红石: "
+            },
+            {
+                "key": "Use magazine to fill it with Redstone.",
+                "value": "右键每次装填一个红石"
+            },
+            {
+                "key": "Crouch-use to fill it with 8 Redstone.",
+                "value": "潜行右键每次装填8个红石"
+            },
+            {
+                "key": "A loading helper, full of red dust.",
+                "value": "充满了红石的弹匣"
+            },
+            {
+                "key": "You don't have Redstone.",
+                "value": "你没有红石"
+            },
+            {
+                "key": "Does not work in creative mode.",
+                "value": "创造模式下无法装填"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.ammo.LargeRocket"
+        ],
+        "pairs": [
+            {
+                "key": "Big Rocket",
+                "value": "大火箭"
+            },
+            {
+                "key": "A big rocket. Very dangerous.",
+                "value": "一个巨大的火箭，非常危险"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.ammo.NeedleMagazine"
+        ],
+        "pairs": [
+            {
+                "key": "Thorn Magazine",
+                "value": "仙人掌弹匣"
+            },
+            {
+                "key": "Thorns: ",
+                "value": "剩余针刺: "
+            },
+            {
+                "key": "Use magazine to fill it with Cacti.",
+                "value": "右键每次装填一个仙人掌"
+            },
+            {
+                "key": "Crouch-use to fill it with 8 Cacti.",
+                "value": "潜行右键每次装填8个仙人掌"
+            },
+            {
+                "key": "A loading helper, full of cactus thorns.",
+                "value": "充满了仙人掌刺的弹匣"
+            },
+            {
+                "key": "You don't have cacti.",
+                "value": "你没有仙人掌"
+            },
+            {
+                "key": "Does not work in creative mode.",
+                "value": "创造模式下无法装填"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.ammo.ObsidianMagazine"
+        ],
+        "pairs": [
+            {
+                "key": "Obsidian Magazine",
+                "value": "黑曜石弹匣"
+            },
+            {
+                "key": "Splints: ",
+                "value": "剩余破片: "
+            },
+            {
+                "key": "Use magazine to fill it with",
+                "value": "右键每次装填各一个"
+            },
+            {
+                "key": "Gunpowder and Obsidian.",
+                "value": "火药和黑曜石"
+            },
+            {
+                "key": "A loading helper, full of",
+                "value": "一个装满"
+            },
+            {
+                "key": "obsidian splints.",
+                "value": "黑曜石破片的弹匣"
+            },
+            {
+                "key": "You don't have gunpowder.",
+                "value": "你没有火药"
+            },
+            {
+                "key": "You don't have obsidian.",
+                "value": "你没有黑曜石"
+            },
+            {
+                "key": "Does not work in creative mode.",
+                "value": "创造模式下无法装填"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.ammo.PackedUpAA"
+        ],
+        "pairs": [
+            {
+                "key": "Packed Up Arms Assistant",
+                "value": "自律炮台"
+            },
+            {
+                "key": "Use to deploy.",
+                "value": "用于战略部署"
+            },
+            {
+                "key": "Use Assistant to give it your current weapon.",
+                "value": "拿着武器右击它可以装备武器"
+            },
+            {
+                "key": "Use Assistant to give it your current item.",
+                "value": "拿着物品右击它可以装载物品"
+            },
+            {
+                "key": "Crouch-use with empty hand to remove gear.",
+                "value": "空手潜行右击装备有武器的炮台可以卸下它的武器"
+            },
+            {
+                "key": "Crouch-use empty Assistant to pack it up.",
+                "value": "空手潜行右击没有武器的炮台可以回收它"
+            },
+            {
+                "key": "Use Iron Block on Assistant to repair it.",
+                "value": "拿着铁块右击它可以修复它"
+            },
+            {
+                "key": "Use written book with one name/command per",
+                "value": "用每行写了名字或命令的书"
+            },
+            {
+                "key": "line on Assistant to give it a list",
+                "value": "右击它可以让它不攻击在书中写下的生物"
+            },
+            {
+                "key": "of things not to shoot and to do.",
+                "value": "并且执行书中写下的命令"
+            },
+            {
+                "key": "Refer to manual for further instructions.",
+                "value": "阅读手册进一步获取详细信息 (然而我并没有看见手册)"
+            },
+            {
+                "key": "It's sizing you up.",
+                "value": "它在打量你呢"
+            },
+            {
+                "key": "Health: ",
+                "value": "剩余生命: "
+            },
+            {
+                "key": "Has upgraded armor.",
+                "value": "装备了更先进的盔甲"
+            },
+            {
+                "key": "Has heavy plating.",
+                "value": "装备了坚硬的镀层"
+            },
+            {
+                "key": "Has mobile legs.",
+                "value": "装备了可自主移动的腿"
+            },
+            {
+                "key": "Has extra storage.",
+                "value": "装备了额外储存空间"
+            },
+            {
+                "key": "Has a second rail.",
+                "value": "装备了第二条武器轨道"
+            },
+            {
+                "key": "Has a seat.",
+                "value": "装备了可骑乘座位"
+            },
+            {
+                "key": "Has a radio built in.",
+                "value": "装备了通讯模块"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.ammo.Part_GatlingBarrel"
+        ],
+        "pairs": [
+            {
+                "key": "Sugar Engine Barrel",
+                "value": "糖衣加特林枪管"
+            },
+            {
+                "key": "A barrel, waiting for 3 companions",
+                "value": "一个孤独的枪管，正在等待它的三个同伴"
+            },
+            {
+                "key": "and a main body.",
+                "value": "还有枪身"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.ammo.Part_GatlingBody"
+        ],
+        "pairs": [
+            {
+                "key": "Sugar Engine Main Body",
+                "value": "糖衣加特林枪身"
+            },
+            {
+                "key": "To be outfitted with 4 barrels.",
+                "value": "正渴望与4个枪管团聚"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.ammo.RedstoneMagazine"
+        ],
+        "pairs": [
+            {
+                "key": "Redstone Magazine",
+                "value": "红石弹匣"
+            },
+            {
+                "key": "Redstone: ",
+                "value": "剩余红石: "
+            },
+            {
+                "key": "Use magazine to fill it with Redstone.",
+                "value": "右键每次装填一个红石"
+            },
+            {
+                "key": "Crouch-use to fill it with 8 Redstone.",
+                "value": "潜行右键每次装填8个红石"
+            },
+            {
+                "key": "A loading helper, full of red dust.",
+                "value": "充满了红石的弹匣"
+            },
+            {
+                "key": "You don't have Redstone.",
+                "value": "你没有红石"
+            },
+            {
+                "key": "Does not work in creative mode.",
+                "value": "创造模式下无法装填"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.ammo.RocketBundle"
+        ],
+        "pairs": [
+            {
+                "key": "Rocket Bundle",
+                "value": "烟花捆"
+            },
+            {
+                "key": "Holds 8 rockets. Highly volatile.",
+                "value": "8支烟花绑在一起，非常不稳定"
+            }
+        ]
+    },
+    {
+        "target_class": [
+            "com.domochevsky.quiverbow.ammo.SeedJar"
+        ],
+        "pairs": [
+            {
+                "key": "Seed Jar",
+                "value": "种子罐"
+            },
+            {
+                "key": "Seeds: ",
+                "value": "剩余种子: "
+            },
+            {
+                "key": "Use jar to fill it with seeds.",
+                "value": "右键装填种子"
+            },
+            {
+                "key": "You have melon seeds.",
+                "value": "你有西瓜种子"
+            },
+            {
+                "key": "You have pumpkin seeds.",
+                "value": "你有南瓜种子"
+            },
+            {
+                "key": "You have wheat seeds.",
+                "value": "你有小麦种子"
+            },
+            {
+                "key": "Does not work in creative mode.",
+                "value": "创造模式下无法装填"
+            },
+            {
+                "key": "You could preserve apples with this, too.",
+                "value": "你也可以拿这个来装苹果"
+            }
+        ]
+    }
+]
