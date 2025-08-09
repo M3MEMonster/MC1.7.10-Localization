@@ -24,7 +24,7 @@ item.damageUpgrade.name=伤害升级
 item.movementUpgrade.name=移动升级
 item.energyUpgrade.name=能量升级
 item.cooldownUpgrade.name=冷却升级
-itemGroup.OpenSecurity=开放式保安
+itemGroup.OpenSecurity=开放式安保
 //guis
 gui.string.cardwriter=写卡器
 gui.string.cardslot=卡槽

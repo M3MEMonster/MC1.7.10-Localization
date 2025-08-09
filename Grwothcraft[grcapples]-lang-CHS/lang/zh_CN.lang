@@ -1,0 +1,34 @@
+# Blocks
+tile.grc.appleBlock.name=苹果
+tile.grc.appleSapling.name=苹果树苗
+tile.grc.appleLeaves.name=苹果树叶
+# Items
+item.grc.appleSeeds.name=苹果核
+
+# Booze
+## Fluids
+fluid.grc.appleCider0=苹果汁
+fluid.grc.appleCider1=苹果酒
+fluid.grc.appleCider2=苹果酒
+fluid.grc.appleCider3=苹果酒
+fluid.grc.appleCider4=苹锦蜜
+fluid.grc.appleCider5=苹果酒
+fluid.grc.appleCider6=苹果酒
+
+## Fluid Buckets
+item.bucket.fluid.grc.appleCider0.name=苹果汁桶
+item.bucket.fluid.grc.appleCider1.name=苹果酒桶
+item.bucket.fluid.grc.appleCider2.name=苹果酒桶
+item.bucket.fluid.grc.appleCider3.name=苹果酒桶
+item.bucket.fluid.grc.appleCider4.name=苹锦蜜桶
+item.bucket.fluid.grc.appleCider5.name=苹果酒桶
+item.bucket.fluid.grc.appleCider6.name=苹果酒桶
+
+## Fluid Blocks
+tile.fluid.grc.appleCider0.name=苹果汁
+tile.fluid.grc.appleCider1.name=苹果酒
+tile.fluid.grc.appleCider2.name=苹果酒
+tile.fluid.grc.appleCider3.name=苹果酒
+tile.fluid.grc.appleCider4.name=苹锦蜜
+tile.fluid.grc.appleCider5.name=苹果酒
+tile.fluid.grc.appleCider6.name=苹果酒

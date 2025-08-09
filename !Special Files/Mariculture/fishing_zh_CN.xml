@@ -1,0 +1,310 @@
+<?xml version="1.0"?>
+<book>
+    <page>
+        <text x="92" y="-13" bold="true">简介</text>
+        <text>在海洋物语中钓鱼很简单。你需要的只是一根鱼竿和一些鱼饵。有各种不同品质的鱼饵，其中只有一些可以与一定等级的鱼竿一起使用。鱼饵可以通过几种方式获得，例如制作面包或捕捉小鱼，但大多数诱饵都是通过筛子收集的。 &#10;&#10;您可以在钓鱼时收获各种不同种类的鱼以及一些其他随机战利品，您将根据您所处的生物群落捕获不同的鱼！&#10;&#10;你钓到的很多鱼都是生的，只有少数鱼能被活捉，即使这样，它们也必须在不离开水面的情况下被捕获，所以在水下钓鱼或使用自动钓鱼机是最好的。</text>
+    </page>
+    <page>
+        <text x="42" y="-13" bold="true">筛子</text>
+        <text>筛子是你获取钓鱼所需的大部分钓饵的方式。将两个筛子放在一起，就像一个大箱子。右键单击筛子上的物品，然后再次右键单击它们进行筛选。（在筛子上安装基本存储升级将提供库存）</text>
+        <crafting x="10" y="55">
+            <craft1>plankWood|net|plankWood</craft1>
+            <craft2>stickWood||stickWood</craft2>
+            <craft3>||</craft3>
+            <craftResult num="2">sifter</craftResult>
+        </crafting>
+        <crafting x="100" y="55">
+            <craft1>stickWood|string|stickWood</craft1>
+            <craft2>string|string|string</craft2>
+            <craft3>stickWood|string|stickWood</craft3>
+            <craftResult num="4">net</craftResult>
+        </crafting>
+        <text y="126" bold="true">渔网</text>
+        <text y="166">当渔网放在水面上时，一段时间会随机产生鱼，就像用甘蔗钓竿钓到鱼一样。您需要一些方法来收集生成的掉落物。</text>
+    </page>
+    <page>
+        <text x="110" y="-13" bold="true">鱼油</text>
+        <text>鱼油是制作抛光木棍和抛光钛棒所必需的，那是你制作更高级鱼竿所需要的材料。为了获得鱼油，你需要在坩埚炉中熔化鱼。要制作木棒，你需要将原木/木板/木棍或钛棒浸泡在容器中的鱼油中。</text>
+        <vat x="30" y="76" size="0.85">
+            <input>stickWood</input>
+            <fluid1 vol="5000">fishoil</fluid1>
+            <output>polishedStick</output>
+            <time>15</time>
+        </vat>
+        <vat x="30" y="142" size="0.85">
+            <input>titaniumRodBasic</input>
+            <fluid1 vol="6500">fishoil</fluid1>
+            <output>titaniumRod</output>
+            <time>30</time>
+        </vat>
+    </page>
+    <page>
+        <vat x="30" size="0.85">
+            <input>logWood</input>
+            <fluid1 vol="30000">fishoil</fluid1>
+            <output>polishedLog</output>
+            <time>45</time>
+        </vat>
+        <vat x="30" y="76" size="0.85">
+            <input>plankWood</input>
+            <fluid1 vol="10000">fishoil</fluid1>
+            <output>polishedPlank</output>
+            <time>30</time>
+        </vat>
+        <vat x="30" y="142" size="0.85">
+            <input color="black">stickWood</input>
+            <fluid1 type="ingots" vol="3">titanium.molten</fluid1>
+            <output>titaniumRodBasic</output>
+            <time>60</time>
+        </vat>
+    </page>
+    <page>
+        <text x="92" y="-13" bold="true">钓竿</text>
+        <text>海洋物语引入了四种鱼竿，它们都比原版鱼竿更擅长捕鱼。每种鱼竿都可以使用不同类型的鱼饵，并且具有不同的耐久和附魔。</text>
+        <crafting x="5" y="53">
+            <craft1>||reeds</craft1>
+            <craft2>|reeds|string</craft2>
+            <craft3>reeds||string</craft3>
+            <craftResult>rod.reed</craftResult>
+        </crafting>
+        <crafting x="100" y="53">
+            <craft1>||polishedStick</craft1>
+            <craft2>|polishedStick|string</craft2>
+            <craft3>polishedStick||string</craft3>
+            <craftResult>rod.wood</craftResult>
+        </crafting>
+        <crafting x="5" y="118">
+            <craft1>||titaniumRod</craft1>
+            <craft2>|titaniumRod|string</craft2>
+            <craft3>titaniumRod||string</craft3>
+            <craftResult>rod.titanium</craftResult>
+        </crafting>
+        <crafting x="100" y="118">
+            <craft1>||rod.titanium</craft1>
+            <craft2>|rod.titanium|string</craft2>
+            <craft3>battery.titanium||string</craft3>
+            <craftResult>rod.flux</craftResult>
+        </crafting>
+    </page>
+    <page>
+        <text x="32" y="-13" bold="true">钓竿种类</text>
+        <text>以下是鱼竿的耐久性列表，以及每种鱼竿类型可使用的鱼饵。</text>
+        <stack item="rod.reed" size="1.8"></stack>
+        <text x="32" y="45" bold="true" size="0.8">甘蔗钓竿 (96 耐久值)</text>
+        <stack item="ant" x="30" y="36"></stack>
+        <stack item="bread" x="50" y="36"></stack>
+        <stack item="hopper" x="70" y="36"></stack>
+        <hr x="10" y="59" width="160"></hr>
+        
+        <stack item="rod.wood" y="21" size="1.8"></stack>
+        <text x="32" y="93" bold="true" size="0.8">木钓竿(320 耐久值)</text>
+        <stack item="hopper" x="30" y="75"></stack>
+        <stack item="maggot" x="50" y="75"></stack>
+        <stack item="worm" x="70" y="75"></stack>
+        <hr x="10" y="98" width="160"></hr>
+        
+        <stack item="rod.titanium" y="43" size="1.8"></stack>
+        <text x="32" y="142" bold="true" size="0.8">钛钓竿 (640 耐久值)</text>
+        <stack item="worm" x="30" y="114"></stack>
+        <stack item="bee" x="50" y="114"></stack>
+        <stack item="fish 9" x="70" y="114"></stack>
+        <hr x="10" y="137" width="160"></hr>
+        
+        <stack item="rod.flux" y="64" size="1.8"></stack>
+        <text x="32" y="191" bold="true" size="0.8">RF充能钓竿(充能使用)</text>
+        <stack item="ant" x="30" y="154"></stack>
+        <stack item="bread" x="50" y="154"></stack>
+        <stack item="hopper" x="70" y="154"></stack>
+        <stack item="maggot" x="90" y="154"></stack>
+        <stack item="bee" x="110" y="154"></stack>
+        <stack item="worm" x="130" y="154"></stack>
+        <stack item="fish 9" x="150" y="154"></stack>
+    </page>
+    <page>
+        <text x="100" y="-13" bold="true">环境</text>
+        <text>海洋物语引入了水生环境。这决定了哪些鱼可以生存，或者可以哪里捕获。环境由两个要素组成：水盐度和水温。水盐度是静态的，它取决于你所在的生物群落。虽然温度更为多变，但温度会根据许多不同的因素而变化，例如世界高度、天气、太阳位置、生物群落默认值和亮度。</text>
+<hr y="90"></hr>
+<text y="100" bold="true">海产环境分析仪</text>
+<text y="172" wrap="150" size="0.7">在寻找好的水生位置时，这个设备至关重要，右键单击一个区块或空中，可以获得这些坐标的温度和盐度。帮助您更好地了解环境。</text>
+    <crafting x="105" y="117" size="0.95">
+        <craft1>||</craft1>
+        <craft2>|fish|</craft2>
+        <craft3>|compass|</craft3>
+        <craftResult>thermometer</craftResult>
+    </crafting>
+    </page>
+    <page>
+        <text x="18" y="-13" bold="true">生物群落默认值</text>
+        <text>这只是每个生物群落的默认温度列表，以及它们的盐度，可以让你估计在哪里捕鱼或养殖。</text>
+<hr y="30"></hr>
+<text y="30" size="1">
+海滩：半咸水，25°C
+沙漠：淡水，45°C
+峭壁：淡水，5°C
+森林：淡水，10°C
+冰冻海洋：咸水，-1°C
+冰冻河流：淡水，-1°C
+冰原：淡水，-1°C
+丛林：淡水，25°C
+蘑菇岛：淡水，15°C
+地狱：淡水，80°C
+海洋：咸水，4°C
+平原：淡水，10°C
+河流：淡水，10°C
+末地：淡水，3°C
+沼泽：淡水，8°C
+针叶林:淡水，1°C
+</text>
+    </page>
+    <page>
+       <text x="102" y="-13" bold="true">钓鱼</text>
+       <text>钓鱼是小菜一碟！只要确保你有一套可以配套使用的鱼竿和鱼饵。然后把鱼饵放在你的快捷栏的鱼竿旁边，像原版一样把鱼钓走！</text>
+       <img mod="mariculture" src="fishing/mariculture_fishing" x="20" y="100" size="0.53"></img>
+    </page>
+    <page>
+        <text x="38" y="-13" bold="true">鱼种</text>
+        <text wrap="275" x="-1" y="7" size="0.7">不同的鱼种可以在不同的环境中被捕获。只有基础鱼类才能在野外被活捉。有10种基础鱼。下面是这些种类的列表，您可以在什么温度范围内找到它们，以及Y高度和盐度。</text>
+
+        <stack item="fish 9" size="1.5" y="15"></stack>
+        <text x="28" y="37" bold="true">鲦鱼</text>
+        <text x="28" y="78" size="0.7" wrap="100">淡水, 70+
+-1°C to 45°C</text>
+        
+        <stack item="fish 0" x="88" size="1.5" y="15"></stack>
+        <text x="116" y="37" bold="true">鳕鱼</text>
+        <text x="116" y="78" size="0.7" wrap="100">咸水, *
+-3°C to 20°C</text>
+        
+        <stack item="fish 15" size="1.5" y="35"></stack>
+        <text x="28" y="70" bold="true">魔鬼鱼</text>
+        <text x="28" y="125" size="0.7" wrap="100">半咸水, *
+19°C to 29°C</text>
+        
+        <stack item="fish 21" x="88" size="1.5" y="35"></stack>
+        <text x="116" y="70" bold="true">鱿鱼</text>
+        <text x="116" y="125" size="0.7" wrap="100">咸水, *
+3°C to 20°C</text>
+        
+        <stack item="fish 18" size="1.5" y="55"></stack>
+        <text x="28" y="100" bold="true">雀鲷</text>
+        <text x="28" y="168" size="0.7" wrap="90">淡水, *
+22°C to 27°C</text>
+        
+        <stack item="fish 12" x="88" size="1.5" y="55"></stack>
+        <text x="116" y="100" bold="true">霓虹灯鱼</text>
+        <text x="116" y="168" size="0.7" wrap="100">淡水, *
+20°C to 28°C</text>
+        
+        <stack item="fish 33" size="1.5" y="75"></stack>
+        <text x="28" y="130" bold="true">蜘蛛鱼</text>
+        <text x="28" y="211" size="0.7" wrap="100">淡水, -48
+-5°C to 20°C</text>
+        
+        <stack item="fish 30" x="88" size="1.5" y="75"></stack>
+        <text x="116" y="130" bold="true">圆斑扁棘鲀</text>
+        <text x="116" y="211" size="0.7" wrap="100">咸水, -16
+-3°C to 5°C</text>
+        
+        <stack item="fish 20" size="1.5" y="95"></stack>
+        <text x="28" y="160" bold="true">下界鱼</text>
+        <text x="28" y="254" size="0.7" wrap="100">下界,
+45°C to 100°C</text>
+        
+        <stack item="fish 6" x="88" size="1.5" y="95"></stack>
+        <text x="116" y="160" bold="true">夜鱼</text>
+        <text x="116" y="254" size="0.7">末地或在晚上
+-10°C to 66°C</text>
+    </page>
+    <page>
+        <text x="86" y="-13" bold="true">自动钓鱼机</text>
+        <text>自动钓鱼机能够为您钓鱼。你需要给它提供RF能量、鱼竿和与鱼竿配套的鱼饵。该机器需要在水方块上方。它们也会在地狱的岩浆上方工作。</text>
+        <img mod="mariculture" src="fishing/autofisher" x="18" y="150" size="0.45" stretch="1.25"></img>
+    </page>
+    <page>
+        <text wrap="220">只有“电容器”和“高机动性”升级才能与自动钓鱼机配合使用。随着电容器的升级，自动钓鱼机的RF能量内部存储会增加，而高机动性升级则提高了速度。</text>
+        <crafting x="18" y="8" size="2">
+            <craft1>|fish|</craft1>
+            <craft2>rod.wood|plankWood|rod.wood</craft2>
+            <craft3>logWood|baseWood|logWood</craft3>
+            <craftResult>autofisher</craftResult>
+        </crafting>
+    </page>
+    <page>
+        <text x="96" y="-13" bold="true">鱼类育种学</text>
+        <text>鱼类养殖是一个过程，在这个过程中，你养殖的鱼会为你生产不同的产品，从简单的水之液滴，融化到水，再到更复杂的东西，如青金石或龙蛋。</text>
+        <text y="64">鱼在饲鱼器中度过一生，每隔一段时间就会有随机生产出一种产品。你可以获得不同的鱼并通过杂交繁殖在野外捕获的鱼来生产这些不同的产品。你有机会让这些杂交种在鱼卵孵化时变异成一个全新的物种。</text>
+        <text y="144">当一条鱼在饲鱼器中度过了它的生命，它就会死亡，留下它的原生物种的原始形态。雌鱼死后也会产生“鱼卵”。它们必须放在鱼卵孵化场或孵化机内，在那里它们会被加热，然后开始孵化。</text>
+    </page>
+    <page>
+        <text>为了开始鱼类养殖，您需要捕获一条雄鱼和一条雌鱼，获取一些鱼类食物，并制作鱼卵孵化场和鱼类饲养机。</text>
+        <text y="40" wrap="225">不同的鱼类可以生活在不同的生物群落中，有些喜欢咸水，有些喜欢淡水，有些喜欢高温，有些喜欢低温。你需要确保你尝试养殖鱼的环境符合它们的需要。</text>
+        <text y="90" wrap="225">除了繁殖不同的物种外，每种鱼都有某些特征，例如它们工作的努力程度、产多少卵等。这些特征也可以在你的鱼身上遗传，让你创造出超级鱼来为你做事。</text>
+        <hr y="129"></hr>
+        <text y="134" bold="true">鱼食</text>
+        <text y="176" wrap="225">鱼食是通过融化鱼饵或鱼粉（由它本身那种生鱼制成），或直接将其扔到饲养机周围的水中制成的。</text>
+    </page>
+     <page>
+        <text x="92" y="-13" bold="true">鱼类饲养机</text>
+        <text wrap="220">鱼类饲养机是鱼类养殖的主要模块，它是您放置鱼的地方，也是它们应该花大部分时间工作以生产对您有用的东西的地方。有了饲养机，周围的水越多，鱼缸就越大，可以储存的鱼食也就越多。</text>
+        <img mod="mariculture" src="fishing/fish_feeder" x="-2" y="340" size="0.3" stretch="1.25"></img>
+        <crafting x="98" y="77" size="1.1">
+            <craft1>wicker|fish|wicker</craft1>
+            <craft2>wicker|chest|wicker</craft2>
+            <craft3>wicker|fish|wicker</craft3>
+            <craftResult>feeder</craftResult>
+        </crafting>
+    </page>
+     <page>
+        <text wrap="230" size="0.8">除电容器和超动力升级外，饲养机还接受大部分升级。存储升级将增加您可以在鱼类饲养器中存储的鱼类食物的数量，但这不会增加鱼缸的大小。加热和冷却升级将调整水温，使那些通常无法在饲养机所在的生物群落中生存的鱼类得以生存。</text>
+        <text wrap="230" y="95" size="0.8">盐度升级增加了水的盐度，而过滤器则降低了盐度。纯净度升级，将延长您的鱼的寿命，使它们在喂食器中生活更长时间，而杂质将伤害可怜的鱼，使它们更快死亡（便于加快繁殖！）。最后两个升级是永生升级，分为雄性和雌性版本。虽然这些看起来不太有用，但它们确实有用。鱼类将继续生产它们的产品，雌性也将永远生产卵，而它们不必死亡。</text>
+    </page>
+    <page>
+        <text x="96" y="-13" bold="true">鱼卵孵化场</text>
+        <text y="18" size="0.7" wrap="260">孵化器是孵化鱼的基本模块，只需右键单击鱼卵，随着时间的推移，它们就会慢慢孵化出来。如果在尝试孵化一个鱼卵生产项目中的所有卵后，没有生产出雄性或雌性鱼，则会产生相关的性别，因此保证每个鱼卵中至少有一只雄性和一只雌性鱼。</text>
+        <hr y="57"></hr>
+        <text x="0" y="70" bold="true">鱼卵孵化机</text>
+        <text y="130" size="0.7" wrap="260">孵化机是一个三方块结构，由1个孵化机底座和2个顶部堆叠的孵化机顶部组成。孵化机是孵化场的更高级版本，需要RF能量。</text>
+        <text y="174" size="0.7" wrap="260">孵化机将接受电容器、加热和超动力升级。电容器的升级为其提供了更大的内部缓冲，而加热升级将一次处理更多的鱼卵。与大多数机器一样，超动力升级将使孵化机工作更快。超动力和加热升级将显著增加孵化器的能耗。</text>
+    </page>
+    <page>
+        <img mod="mariculture" src="fishing/incubator" x="0" y="0" size="0.75" stretch="0.5"></img>
+        <crafting x="100" y="-8" size="1.05">
+            <craft1>wicker|wicker|wicker</craft1>
+            <craft2>wicker|Mariculture:eggs_fish|wicker</craft2>
+            <craft3>wicker|wicker|wicker</craft3>
+            <craftResult>Mariculture:tanks 4</craftResult>
+        </crafting>
+        <crafting x="100" y="51" size="1.05">
+            <craft1>dyeBrown|fish|dyeBrown</craft1>
+            <craft2>stained_hardened_clay 0|heater|stained_hardened_clay 0</craft2>
+            <craft3>||</craft3>
+            <craftResult>incubatorTop</craftResult>
+        </crafting>
+        <crafting x="100" y="110" size="1.05">
+            <craft1>dyeLightBlue|battery.copper|dyeLightBlue</craft1>
+            <craft2>stained_hardened_clay 3|heater|stained_hardened_clay 3</craft2>
+            <craft3>||</craft3>
+            <craftResult>incubatorBase</craftResult>
+        </crafting>
+    </page>
+    <page>
+        <text x="96" y="-13" bold="true">鱼的特征</text>
+        <text>鱼类可以继承一些不同的特征，它们是物种、生育能力、食物消耗、寿命、鱼缸大小和工作意愿。鱼有两个性状，一个是显性的，另一个是隐性的，只有显性的才算鱼的运作方式。这里只是关于每个特征的一些信息。</text>
+        <text y="63" bold="true">种类</text>
+        <text y="90">这决定了很多事情，比如鱼可以生活在什么样的环境中，它生产多少鱼油或鱼粉，生产出什么产品。</text>
+        <text y="106" bold="true">生育率</text>
+        <text y="140">这决定了每个鱼卵生产项目中有多少个鱼卵，更高的生育率意味着更多的鱼卵。</text>
+        <text y="144" bold="true">食物消耗</text>
+        <text y="185">这决定了当轮到这条鱼在饲养机中进食时，它将消耗多少鱼食</text>
+    </page>
+    <page>
+        <text y="-10" bold="true">寿命</text>
+        <text y="3">这是鱼的寿命，长寿有利于保持完美的鱼，并使其生产许多产品，而寿命短则有利于繁殖</text>
+        <text y="34" bold="true">鱼缸尺寸</text>
+        <text y="55">这是使鱼快乐的最小鱼缸的尺寸，也就是说，它们需要多少水才能快乐</text>
+        <text y="74" bold="true">工作热情</text>
+        <text y="102">这就是鱼的努力程度。懒惰的鱼不会生产任何产品，而努力的鱼的产量是其他鱼的两倍。</text>
+        <text y="120" bold="true">区域 - UDNESW</text>
+        <text y="156">这是这种鱼将要工作的区域，这几乎是所有具有特殊效果的鱼工作要去的地方。</text>
+    </page>
+</book>

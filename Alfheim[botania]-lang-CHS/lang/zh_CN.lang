@@ -1,0 +1,1283 @@
+alfheim.category.Alfheim=艾尔夫海姆
+alfheim.category.Divinity=神圣信仰
+
+alfheim.entry.alfheim=精灵乡-艾尔夫海姆
+alfheim.tagline.alfheim=新世界!
+alfheim.page.alfheim0=§o艾尔夫海姆...一个美丽的世 界,魔法永存与此这片土地属 于Light-Alves们,也被称之 为精灵. 但,他们是谁?第一位亚萨神族 创造了这些形似人类的生物 寿命的悠久足以被称之为不朽. 他们自远古起,就居住在这个 充满了奇妙魔法,瑰丽无比的 世界里.§0
+alfheim.page.alfheim1=§o但,艾尔夫海姆同样有着令人 不寒而栗的特点:扭曲的时间. 许多与此相关的传说也流传甚 广: 曾经去往艾尔夫海姆的旅人们 在数十年后才重新归来,尽管 对他们来说只过去了几天,但 他们认识的人们却已然逝去 灵魂也早已去往了那赫尔海姆 与英灵神殿之中...\n啊,愿神圣的光芒永远照耀!愿 逝者的灵魂得以安息!§0
+
+alfheim.entry.anomaly=畸变
+alfheim.tagline.anomaly=世界中的危险
+alfheim.page.anomaly0=§o众所周知,即便是艾尔夫海姆, 也无法从波及无数世界的大崩 裂中幸免. 由于这一事件不仅限于物理层 面,其在魔法层面的影响,导致 这个世界出现了大量的畸变.§0
+alfheim.page.anomalyManaVoid.t=§1魔力旋涡§0
+alfheim.page.anomalyManaVoid.d=这个旋涡状的畸变会从附近的 生物身上抽取§4魔力§0. 一位无畏的勇士决心挑战这个 畸变吸收魔力的极限. 他携带了大量的魔力并靠近了 魔力旋涡. 根据旁观者的说法,大约一分 钟后,旋涡发生了§4剧烈的爆炸§0, 当场杀死了靠近的人,同时一 颗巨大的魔力球出现在了对应 方向.
+alfheim.page.anomalySpeedUp.t=§1加速旋涡§0
+alfheim.page.anomalySpeedUp.d=这是一种非常罕见的畸变,能 够让周围的所有生物和机械装 置(如熔炉)的速度增加一倍. 一些在附近搭建了房屋的幸运 儿,发现了这些畸变能显著增 加花圃的生长速度.
+alfheim.page.anomalyWarp.t=§1时空扭曲§0
+alfheim.page.anomalyWarp.d=这或许是最容易被发现的畸变 如果你看到一堆杂乱的方块凭 空的出现在空中,那毫无疑问 就是§1时空扭曲§0. 单独靠近会非常危险,因为该 畸变极有可能将人与地底的方 块交换位置. 如果万不得已需要经过它,那 么最好找人成对行动,因为此 时的时空扭曲只会让两位旅行 者交换位置.
+alfheim.page.anomalyAntigrav.t=§1反重力旋涡§0
+alfheim.page.anomalyAntigrav.d=相对安全的畸变,经常被用作 建造升降机,如果附近有成规 模的水域,也可以用作高空跳 水. 幸运的是,这个畸变的力量不 足以移动方块.
+alfheim.page.anomalyLightning.t=§1暗能量旋涡§0
+alfheim.page.anomalyLightning.du=对所有靠近该畸变的生物造成 电击伤害,距离越近伤害越强. 对附近的§1盖亚之魂§0有奇怪的反 应. 也许可以用某种方式来利用这 一点.
+alfheim.page.anomalyLightning.d=对所有靠近该畸变的生物造成 电击伤害,距离越近伤害越强. 可以用于制造§4御灵水晶§0
+alfheim.page.anomalyManaTornado.t=§1失控魔力旋涡§0
+alfheim.page.anomalyManaTornado.d=每隔几秒钟时间,会向某一个 方向射出带有随机效果的§1魔力 §1射线§0,有时,魔力脉冲甚至可能 撞击地面从而导致爆炸
+alfheim.page.anomalyKiller.t=§1死亡之眼§0
+alfheim.page.anomalyKiller.d=这个畸变体会在触碰的瞬间杀 死你,所以请保持距离.
+alfheim.page.anomalyGravity.t=§1重力漩涡§0
+alfheim.page.anomalyGravity.d=重力异常的区域,会将所有物 品向中心吸引. 如果有人误入了这片区域,唯 一的逃生机会就是立刻向反方 向奔跑,否则就会永远被困在 那里. 对方块无效.
+
+alfheim.entry.anomalyHarvester=畸变吸取器
+alfheim.tagline.anomalyHarvester=利用危险之物
+alfheim.page.anomalyHarvester0=§1畸变吸取器§0能够安全的操控并 保存§1畸变§0,但必须付出大量的 §4魔力§0. 首先,必须稳定畸变,使其可以 被安全的使用. 随后,修补其周围的现实裂缝, 将其能量封入编写的口袋空间 中. 最后,稳定的畸变可以被放入 吸取器中.
+alfheim.page.anomalyHarvester1=当一切准备完毕后,可以通过 §1森林法杖§0来自定义吸取器的工 作范围(红色边框). 手持森林法杖右键或潜行右键 吸取器的侧面来调整,左键则 可以改变工作方向.
+alfheim.page.anomalyHarvester2=最后,空手潜行右键吸取器可 以改变其的功率,增强效果或 者停止运作. 但请记住,吸取器功率越大,魔 力消耗就越多. 强红石信号将关闭吸取其,而 弱红石信号将隐藏工作区域边 框(红框).
+alfheim.page.anomalyHarvester3=Taz出品
+alfheim.page.anomalyHarvester4=畸变稳定化
+alfheim.page.anomalyHarvester5=畸变提取
+alfheim.page.anomalyHarvester6=被收取的畸变基本和之前一样, 但有一些例外. §1魔力旋涡§0会增加魔力容量. §1时空扭曲§0会将每个实体传送到 吸取器旁的方块上. §1暗能量旋涡§0只会伤害怪物. §1死亡之眼§0失去了秒杀的能力, 但是不会伤害玩家和生物幼崽.
+alfheim.page.anomalyHarvester7=吸取器可以组合畸变的效果. §1反重力旋涡§0和§1重力旋涡§0的组合 将会产生新的效果,将工作范 围内的所有实体移动到面朝的 方向. 多个吸取器的工作范围可以重 合.
+
+alfheim.entry.elves=精灵
+alfheim.tagline.elves=艾尔夫海姆的原住民
+alfheim.page.elves0=正如前文所书,美丽的精灵们 拥有驾驭魔法的能力,第一位 §4亚萨神§0就曾居住在§4艾尔夫海 姆§0. 诞生在艾尔夫海姆的伟大法 师---§6Mastray§0 他是唯一一个对世界中出现 的畸变了然于心的人.
+alfheim.page.elves1=他最伟大的发明:通往§4尘世§0的 传送门. 这是个位于世界树§4Yggdrasil§0 中部的世界. 这个世界和§4艾尔夫海姆§0并不 一样. 他花费了一个星期(§4尘世§0中的 历法)研究这个世界,并在此期 间遇到了一些人类,那些因为 精灵王国的传说而对其趋之 若鹜的人...
+alfheim.page.elves2=§6Mastray§0告诫他们,踏上这场旅 途便意味着要承受扭曲的时空 几乎每个人都听到了他的警告 但,在§4艾尔夫海姆§0的七小时后, §4尘世§0中,却已然过去了30年... 但Mastray早已警告过,这只不 过是他们咎由自取!
+alfheim.page.elves3=在这件事情之后,精灵们在他 们的王国中找到了一片时间 最稳定的区域. 在这里,§4艾尔夫海姆§0中一秒钟, 对应§4尘世§0中的一小时多一点 点. 于是,精灵与人类间的合作开 始了.
+alfheim.page.elves4=在人类中,有些魔法师学会了 如何使用鲜花中蕴含的自然 之力,这种魔力和精灵们的魔 法有些类似. 精灵们研究了§4尘世§0中矿物(铁, 钻石和类似的宝石)后,他们认 为和人类进行贸易是有利可图 的. 因此,他们与人类达成了一个 贸易联盟,且至今仍旧有效.
+
+alfheim.entry.temperature=极寒与炽热之地
+alfheim.tagline.temperature=注意你的体温!
+alfheim.page.temperature0=§o穆斯帕尔海姆和尼弗尔海姆 是炽热与极寒这两种始源之 力的源头世界. 他们是如此的强大,以至于所 有生物(除了这两个世界的原 住民之外)都会受到这些能量 的影响. 暴露在这种能量的影响下越 久,后果就越严重,从心理障碍 到致命伤害.
+alfheim.page.temperature1=在游戏中,这些效果以相应颜 色显示在快捷栏上方. 同时也存在一些保护机制,例 如静态保护,例如温暖或者寒 冷的方块,或是便携式保护,例 如饰品和特殊护甲.
+
+alfheim.entry.pylons=新水晶
+alfheim.tagline.pylons=我将指挥游行
+alfheim.page.pylons0=你需要了解一些有关水晶的 变化<br>所有§4尘世§0中的水晶,在§4艾尔夫 §4海姆§0中都有对应的变化: §1精灵水晶§0和§1魔力水晶§0属于同 一层级; §1尘世水晶§0和§1自然水晶§0也一样.<br>§1盖亚水晶§0仍然是顶级水晶,但 合成配方有些变化.
+alfheim.page.pylons1=制造 §1精灵水晶§0
+alfheim.page.pylons2=制造 §1盖亚水晶§0
+
+alfheim.entry.portal=艾尔夫海姆之门
+alfheim.tagline.portal=我们需要更加的深入!
+alfheim.page.portal0=§6Mastray§0... 他是一位居住在§4艾尔夫海姆§0 的精灵,创造了通往§4尘世§0的第 一扇传送门,为伟大的联盟奠 定了基础. 然而,建造传送门的过程出现 了诸多困难. 要建立这样一扇传送门,需要 一些来自§4尘世§0的资源....多么 讽刺... 多亏了§6Freyr§0,一位来自于§4瓦 尼§4尔神族§0,居住在§4艾尔夫 海姆§0的神祇
+alfheim.page.portal1=他了解§6Mastray§0遇到的困难, 并为他带来了一些§1泰拉钢§0 ---一种来自于§4尘世§0的奇妙合金. 之后,§6Mastray§0迅速完成了传送 门的建造并将其激活. 当然,这座传送门也可以在§4尘 §4世§0中正常工作,但需要更多的 工序来建造它.
+alfheim.page.portal2=传送门的核心是§4Bifröst§0 - 一座联通§4阿斯加德§0与其他世界的传奇彩虹桥.
+alfheim.page.portal3=制造 §1艾尔夫海姆之门核心§0
+alfheim.page.portal4=接下来,需要一个能在§4艾尔夫 §4海姆§0和§4尘世§0之间建立牢靠连 接的媒介. 制造这种媒介的方法是精灵 的不传之秘,§1下界之星§0 ---一种来自§4穆斯帕尔海姆§0的神 秘造物. 而后,只要按照正确的方法建 造剩下的部分,就可以完成这 座传送门了.
+alfheim.page.portal5=制造 §1维度核心§0
+alfheim.page.portal6=艾尔夫海姆之门
+alfheim.page.portal7=为了激活传送门,需要将§1维度 §1核心§0放在传送门上,其操作原 理和那个由活木组成的传送 门相同. 需要注意的是,在§4艾尔夫海姆§0 中它不需要额外§4魔力§0来源,因 为传送门可以从世界本身获 取魔力,而如果没有核心的话 ---传送门出口将会§4尘世§0中的 随机地点出现.
+alfheim.page.portal8=不幸的是,即使是像§6Mastray§0这 样伟大的魔法师,也无法创建 一个稳定且完善的传送门. 艾尔夫海姆之门无法传送死 物,只能传送玩家. 但它成功的抵消了§4艾尔夫海 姆§0无处不在的时间扭曲.
+
+alfheim.entry.worldgen=世界生成
+alfheim.tagline.worldgen=更多奇怪的小玩意儿
+alfheim.page.worldgen0=艾尔夫海姆是个瑰丽无比又 引人注目的世界,如果我们能 暂时忘记它蕴含的致命危险 的话.<br>艾尔夫海姆中存在一些特殊 的树木,可以通过净化普通木 头一样的方式来净化它们,以 获得梦之木,而树叶则在黑暗 中闪闪发光,上面挂满了浆果.
+alfheim.page.worldgen1=净化 §1梦之木§0
+alfheim.page.worldgen2=制造 §1萤石粉§0
+alfheim.page.worldgen3=你可以在这个世界里找到各 种各样的以及,比如说,盖亚守 护者和某些人战斗过的地方, 精灵们便是从那里得到他的 魂魄 <br>这个世界的沙子和尘世不太 相同...也许可以用来制造一些 有趣的东西.
+alfheim.page.worldgen4=制造 §1活性鹅卵石§0
+alfheim.page.worldgen5=制造 §1活石镐§0
+alfheim.page.worldgen6=制造 §1熔炉§0
+alfheim.page.worldgen7=制造 §1活石花药台§0
+
+alfheim.entry.worldTree=微缩世界树盆景
+alfheim.tagline.worldTree=能摆在窗台上的世界本源
+alfheim.page.worldTree0=&1微缩世界树&0,由精灵中最聪慧 的一群人在真正的&1世界树&0的 启发下倾力打造。虽然其力 量远不及真品，但仍能 在有限的情况下连接空间中 的几个点。
+alfheim.page.worldTree1=首先，手持&1森林法杖&0潜行右击 两个微缩世界树将其连接 起来，第一棵树上会结出一个 果实，空手右击它就能将你 传送到第二棵树的位置。微缩 世界树可以用&4命名牌&0命名。 命名的名字会显示在树及其果实上。
+alfheim.page.worldTree2=其上也许会留有尼德霍格的 踪迹。
+
+alfheim.entry.shrines=权能神殿
+alfheim.tagline.shrines=赞美太阳!
+alfheim.page.shrines0=在艾尔夫海姆中散落着各种 各样的小型遗迹,这些遗迹看 上去像是特殊的神殿. 它们被称为:§4权能神殿§0. 每一座神殿中都有一处向古 老神祇祈祷的地方 ---§1权能之石§0. 通过这些石头,人们可以以一 些§4魔力§0为代价,获取一些临时 的增益,即减少某方面的能力 从而强化另一方面的能力. 这些效果无法叠加.
+alfheim.page.shrines1=§4战神的祝福§0- 增加攻击伤害并损失部分生 命值<br>§4元素的眷顾§0- 增强魔法造成的伤害并增加 消耗的魔力<br>§4行走于狂风§0- 增加速度并降低攻击伤害<br>§4承载于浩土§0- 增强防御力并降低速度
+
+alfheim.entry.slimes=催生史莱姆
+alfheim.tagline.slimes=他们曾经很小，但现在很大
+alfheim.page.slimes0=如果你想办法捕获了一个小 史莱姆,并且想展示一下你的 关爱和呵护,那么,你可以试着 用一些温和的§4魔力脉冲§0和一 些...它们的身体组织来增生. 只要你的新宠物一直呆在§1魔 力调谐器§0的正上方,它会在调 谐完成的一瞬间长大. 我保证,不会造成任何伤害
+alfheim.page.slimes1=催生史莱姆
+alfheim.page.slimes2=催生熔岩史莱姆
+alfheim.page.slimes3=催生元素史莱姆
+alfheim.page.slimes4=催生神秘史莱姆
+alfheim.page.slimes5=催生蓝色史莱姆
+
+alfheim.entry.flowerEnderchid=末影凝矿兰
+alfheim.tagline.flowerEnderchid=在末地石中凝聚矿物
+alfheim.page.flowerEnderchid0=§1凝矿兰§0是一种伟大的发明. 使用§4魔力§0创造矿物的能力对 任何一个植物魔法师来说都 是巨大的帮助. 然而,它无法创造来自§4末地§0外 的矿物. 通过对花瓣的轻微调整就可 以解决这个问题,它将在§1末地 石§0里创造§4末地§0矿石. 不过需要注意的是,这种花朵 只能在§4末地§0发挥作用.
+alfheim.page.flowerEnderchid1=§o革命性的发明§r.
+
+alfheim.entry.flowerAlfchid=精灵凝矿兰
+alfheim.tagline.flowerAlfchid=在活石中凝聚精灵矿物
+alfheim.page.flowerAlfchid0=§1凝矿兰§0的另一种变体是来自 尘世的旅行者,为了在艾尔夫 海姆中获取矿石而创造的. §1精灵凝矿兰§0,位于§1艾尔夫海姆 §0的奇妙花朵,将附近的§1活石§0方 块转换为艾尔夫海姆本地的 矿石.当然,这个过程需要一定 数量的§4魔力§0.
+alfheim.page.flowerAlfchid1=§o如果躺在草地上,可以感受到世 界的心跳§0.
+
+alfheim.entry.flowerPetronia=岩雀花
+alfheim.tagline.flowerPetronia=液体燃料中的魔力
+alfheim.page.flowerPetronia0=§1岩雀花§0是一种产能花. 它可以通过根部吸收液体燃 料,燃烧并产生魔力,吸收的范 围是其正下方的一格,以及下 方一格的周围一圈.
+alfheim.page.flowerPetronia1=石油,也被称为黑金,德克萨斯特 色茶饮
+
+alfheim.entry.flowerRain=雨水仙
+alfheim.tagline.flowerRain=从风雨中制造魔力
+alfheim.page.flowerRain0=§1雨水仙§0在下雨的时候会持续 产出§4魔力§0.注意:这朵花在下雪 的区域不会产出任何东西.
+alfheim.page.flowerRain1=别太潮湿了!
+
+alfheim.entry.flowerRattlerose=蛇蔷薇
+alfheim.tagline.flowerRattlerose=贪吃的小蛇
+alfheim.page.flowerRattlerose0=&1蛇蔷薇&0是一种具有独特行为 的产能花。要使其开始运作， 需在以花朵为中心15x15的范 围内，且比花朵高一格的位 置放置一个&1蛇蛋&0。如果操作 正确，你会注意到在该范围 内某处出现一个新方块。
+alfheim.page.flowerRattlerose1=这个新方块是一个&1食物&0方块。 现在的主要目标是引导蛇到 达食物。为此，需从水平方向 的任一侧对花朵施加一个 §4红石信号§0（单个§4脉冲§0即可）。 蛇将从卵中出现。此时花朵 进入活跃状态，游戏开始。
+alfheim.page.flowerRattlerose2=在此状态下，§1蛇头§0将按照最后 接收的方向，每秒移动一格。 当蛇头触碰到食物时，它会 吞噬食物并增长一格§1蛇身§0， 同时一个新的食物方块将在 范围内其他位置生成。 也就是说，食物吃得越多， 蛇身就越长。蛇身将跟随蛇 头移动。
+alfheim.page.flowerRattlerose3=需注意，每吞噬10个食物方块， 花朵的更新频率将增加。 此外，蛇无法穿过自身或离开 15x15的范围，否则它将死亡 并消失。如果踩踏花朵本身， 蛇也会消失，但此时会产生 §4魔力§0。此外，需保持范围内没 有其他方块。
+alfheim.page.flowerRattlerose4=蛇在触碰花朵顶部时，长度 越长，产生的魔力就越多， 且魔力产量呈指数递增趋势。 这意味着，以长度5完成10次 的过程，远不如以长度50完 成1次的效率高。花朵的 最大魔力容量基于最大可用 输出，因此无需担心溢出。
+alfheim.page.flowerRattlerose5=蜿蜒前行，征服一切
+alfheim.page.flowerRattlerose6=舞蛇者的觉醒
+
+alfheim.entry.flowerSnow=雪仙花
+alfheim.tagline.flowerSnow=从冰雪中制造魔力
+alfheim.page.flowerSnow0=§1雪仙花§0和§4雨水仙§0类似,能 够在下雪的地方制造魔力,你 知道为什么的....
+alfheim.page.flowerSnow1=冰冷的触感
+
+alfheim.entry.flowerStorm=§1雷鸣花§0
+alfheim.tagline.flowerStorm=从雷电中制造魔力
+alfheim.page.flowerStorm0=§1雷鸣花§0是另一种依赖于天气 的花朵,不过它并不是被动产 能花. 当一道闪电击中它时,花朵会 产生大量的魔力,但这个过程 也会加热花朵,需要一分钟左 右的冷却时间才能再次生效.
+alfheim.page.flowerStorm1=本质上是个能源转换器!
+
+alfheim.entry.flowerTradescantia=紫露草
+alfheim.tagline.flowerTradescantia=自动化交易
+alfheim.page.flowerTradescantia0=§1紫露草§0是一种辅助交易的花 朵。将你想出售的物品扔在 它上面，花朵将自动与附近 的商人（例如村民）进行交易。 这朵花是个精明且贪婪的商 人，它会为自己的服务收取相 当数量的§4魔力§0。
+alfheim.page.flowerTradescantia1=§1紫露草§0会将交易所得放入旁 边的储物容器（例如箱子）中。 在储物容器上放置物品展示 框将决定可以购买的物品。
+alfheim.page.flowerTradescantia2=大甩卖，大甩卖！
+
+alfheim.entry.flowerWind=风叶花
+alfheim.tagline.flowerWind=从吹拂的风中制造魔力
+alfheim.page.flowerWind0=当被放置在室外的时候,§1风叶 花§0可以从吹过的风中制造魔 力.高度越高,产生的魔力就越 多.当下雨时,产生的魔力会更 多.由于这是一种被动产能花, 会随着时间逐渐凋谢.
+alfheim.page.flowerWind1=只有狂风暴雨才能击倒大树
+
+alfheim.entry.ores=矿石
+alfheim.tagline.ores=制造更多筛子...
+alfheim.page.ores0=众所周知,尘世的大地中蕴含 着丰富的矿石与矿脉.矿工们 孜孜不倦的开采着铁矿,黄金 和钻石.那么,艾尔夫海姆呢? 与尘世类似,精灵乡里也有着 属于自己的矿石,精灵们开采 这些矿物,并通过贸易联盟和 尘世的人们交易. <br>源质矿便是这样一种纯净而 又美丽的魔力金属...大自然 的鬼斧神工令人惊叹.
+alfheim.page.ores1=龙石矿石 - 一种珍贵的粉红色精灵宝石. 可喜的是不能用它制造工具. <br>金矿石(活石版本)- 看来精灵乡里也有着神明所 钟爱的金属... <br>精灵石英矿石 - 就像下界石英一样,不过是淡 绿色,就像是美丽的艾尔夫 海姆一样.
+alfheim.page.ores2=魔灵矿石 - 只有少数人类能有幸得知它 的存在,它的粉末中蕴含着巨 大的能量,据说精灵们最伟大 的发明和造物都是基于此而 诞生的.精灵们十分清楚人类 对力量和财富的贪婪,所以从 未与人类交易这种矿石 <br>青金石也是一种迷人的矿物, 虽然不像龙石那么珍贵
+
+alfheim.entry.mobs=实体/生物
+alfheim.tagline.mobs=终于讲到生物了
+alfheim.page.mobs0=与近乎死寂的尘世相比,艾尔 夫海姆没有被诸神遗忘.毕竟, 那里仍然居住着一些原住民, 即精灵.令人庆幸的是,他们没 有完全丧失理智,否则他们就 会变得跟尘世的前原住民一 样,变得如同那些僵尸一样. 精灵们是最伟大的魔法师,他 们曾受到所有人的尊敬和敬 仰...直到被那可怕的病毒感染... 不知为何,他们并不喜欢和你 交谈.
+alfheim.page.mobs1=还有一些生物也居住在这个 世界里,比如那些在空中飞舞 着的紫色奇怪小生物,它们被 称为小精灵,或者说小仙子.是 的,它们非常的美丽....当然,也 很有价值,它们身上所掉落 的尘埃可以用在各种物品的 制作中.精灵们也曾使用这些 尘埃来换取魔力珍珠.
+alfheim.page.mobs2=另一种居住在艾尔夫海姆广 袤的田野与草原上的生物是 蝴蝶.这些奇妙的小生物闪烁 着各色绚丽的光芒,妆点着寂 静的夜空,为旅行者们带来了 难得的惬意与宁静.当然,它们 也是那些珍贵的花蜜与花粉 的来源.
+alfheim.page.mobs3=艾尔夫海姆生态圈中的另一 个代表,美丽的虹彩水母. 这种生物行动缓慢,但相当的 危险.据悉,现在它是精灵乡生 物圈中唯一的水体生物.至少 目前只发现了这么一种.
+alfheim.page.mobs4=目光回到尘世,你或许曾听说 过那些拥有智慧,且能与水母 及其他海洋生物共存的水下 生物.虽然即使是幼小的孩子 也很难相信在水面下会有火 焰,会有用铁桶和箱子制造出 的房屋存在,而一个水母农场 看上去更是天方夜谭.
+alfheim.page.mobs5=有人想过可以给水母挤奶吗? 这听起来很黄流...但很多人都 尝试过.他们会用普通的水瓶 给水母挤奶,在很多地方,这种 行为被认为是不正常的. 但...你真的在乎吗?如果这些 水母汁能做成美味的食物呢?
+alfheim.page.mobs6=味道不错!
+alfheim.page.mobs7=味道不错...?
+
+alfheim.entry.pixie=精灵吸引吊坠
+alfheim.tagline.pixie=快到这里来!
+alfheim.page.pixie0=将艾尔夫海姆原生的资源和 大地符文结合在一起,使用魔 力驱动这个美丽的护身符,每 一个小精灵都抵挡不住它的 吸引力
+alfheim.page.pixie1=制造 §1精灵吸引吊坠§0
+
+alfheim.entry.anyavil=源质钢砧
+alfheim.tagline.anyavil=粉色的本质
+alfheim.page.anyavil0=使用来自植物魔法,艾尔夫海姆 或者原版的任何粉色物品修 复工具. 将工具放置在源质钢砧上, 将粉红色的物品丢在附近 并且向其发射粉色的魔力脉冲
+alfheim.page.anyavil1=§dNya! 卡哇伊!§0
+
+alfheim.entry.itemHold=魔力加速器
+alfheim.tagline.itemHold=不只是一个架子
+alfheim.page.itemHold0=你是否早已厌倦了无止境的 等待?等待几天时间仅仅只是 为了给§1泰拉粉碎者§0充能?担心 您的§1魔力石板§0会被别人偷走, 亦或者在一段时间后因为某 种神秘的力量而消失吗? §1魔力加速器§0就是为此而生的. 这是一个优雅且便于使用的 方案,允许您将物品安全的放 置在魔力池上,不仅保护了您 的财产安全,还让魔力传输速 度快了2倍左右! 其的颜色也可以根据您的喜 好而变化.
+alfheim.page.itemHold1=制造 §1魔力加速器§0
+
+alfheim.entry.greenRod=青山权杖
+alfheim.tagline.greenRod=翠绿! 春意盎然!
+alfheim.page.greenRod0=自然的力量会让荒芜的土地 上长出翠绿的青草,但这个过 程太过漫长.而§1青山权杖§0可以 跳过漫长的等待,将§1泥土§0,§1菌丝 §0和§1灰化土§0,以一些§4魔力§0为代价, 转变为§1草地§0. 如果这些方块被掩埋在地下, 则需要的魔力会稍微多一点.
+alfheim.page.greenRod1=§a原谅! §a原谅! §a原谅!§a原谅!
+
+alfheim.entry.rodClick=启智之杖
+alfheim.tagline.rodClick=模拟人工互动的魔杖
+alfheim.page.rodClick0=§1启智之杖§0用于模拟玩家和各 种机器或生物的互动.玩家无 法直接使用这个法杖,需要一 个§1活木枝化身§0来使用.
+alfheim.page.rodClick1=装备了该法杖的化身可以和 面前第二格的方块和该方块 下方一个的方块进行互动.如 果想要用特定的物品和面前 的方块进行互动,则需要在化 身的下方放置一个拥有物品 栏的方块(例如箱子).若要模 拟则需要摁下Shift按键(即 潜行),需要在化身正上方放置 任意一个方块.
+alfheim.page.rodClick2=当化身接收到红石信号后,每 一tick执行一次互动.当然,每 次互动都会消耗一些§4魔力§0.手 持法杖并右键以切换法杖的 工作模式(左键或右键).
+alfheim.page.rodClick3=一切尽在掌握
+
+alfheim.entry.lootInt=杂物粉碎器
+alfheim.tagline.lootInt=让你背包里的杂物 统统粉碎吧!!!
+alfheim.page.lootInt0=使用一些§1魔灵粉末§0对§1黑洞护 符§0进行升级,可以制造一种便 携的物品销毁器,它不仅可以 吞噬方块,还可以销毁你背包 里的物品,并将它们分解成一 些§4魔力§0.将你不想要的物品和 §1杂物粉碎器§0进行合成,从而设 置过滤器(检测§4ID§0和§4Metadata§0). 将其单独合成以清除过滤器.
+alfheim.page.lootInt1=制造 §1杂物粉碎器§0
+
+alfheim.entry.manaLamp=魔力灯盏
+alfheim.tagline.manaLamp=照亮您的旅途
+alfheim.page.manaLamp0=§1魔力灯盏§0是背包里那数百根 火把的绝佳替代品.只需要少 量的§4魔力§0作为代价,这台灯盏 就可以创造一些光源,照亮周 围的黑暗区域,也能让您的探 险之旅充满光明.
+alfheim.page.manaLamp1=这光不是动态的!
+
+alfheim.entry.manaReflector=魔力反射器
+alfheim.tagline.manaReflector=一面能反射魔力的镜子
+alfheim.page.manaReflector0=&1魔力反射器&0是一个简单却巧妙的装置，它能让&4魔力脉冲&0经过45°镜面反射，即垂直于坐标轴射入的魔力会旋转90°，其他入射角度的反射遵循光学定律。
+alfheim.page.manaReflector1=我站在前沿
+
+alfheim.entry.manaTuner=魔力调谐器
+alfheim.tagline.manaTuner=利用魔力脉冲来调谐物品
+alfheim.page.manaTuner0=魔力脉冲含有巨大的潜力,各 种§1魔力透镜§0很好的展现了这 一点. 这些透镜可以影响脉冲的许 多特性,例如速度,容量,或是颜 色等. 然而,脉冲的颜色除了美观外 并没有实际作用...是吗?
+alfheim.page.manaTuner1=Mastray 身为最具智慧的精灵之一,也 思考过这个问题. 经过一系列研究,他发现,根据 颜色的不同,魔力脉冲中的粒 子震荡频率也会发生变化,类 似于光粒子. 得益于这个发现,他成功创造 了这个奇妙的装置.
+alfheim.page.manaTuner2=§1魔力调谐器§0利用不同颜色的 魔力脉冲中存在的不同频率 的震荡来改变物品周围的魔 力性质,赋予它们特定的属性, 甚至改变其内部结构.有时会 需要额外的资源来完成这项 工作,在将这些资源消耗掉的 同时,将它们的属性传递给物 品.
+alfheim.page.manaTuner3=绝对不是节奏游戏
+alfheim.page.manaTuner4=为了方便实用,Mastray开发 了一种将不同颜色编码为符 号的系统,每个符号对应了魔 力脉冲的不同颜色. 其他不被透镜包含的颜色将 被用来重置序列.
+
+alfheim.entry.lembas=精灵面包(兰巴斯)
+alfheim.tagline.lembas=精灵们的口粮
+alfheim.page.lembas0=当你有一杯优雅又美味的葡 萄酒,一份体面的点心当然是 必不可少的.
+alfheim.page.lembas1=就像甜美的花蜜的各种用途 一样,精灵族的旅行者们发明 了类似的东西.在翻山越岭的 长途旅行中,每位经验丰富的 冒险者都会选择带上一块富 含营养的兰巴斯 -§1精灵面包§0. 它制作简单且易于携带,其配 方中特殊的葡萄叶让它永远都 不会变质腐烂.
+alfheim.page.lembas2=山姆,你吃完了吗?
+
+alfheim.entry.anomaRing=时空锚定之戒
+alfheim.tagline.anomaRing=保护你免受畸变的影响
+alfheim.page.anomaRing0=通过两个世界的不懈努力,终 于找到了一种方法,可以保护 人们免受§1艾尔夫海姆§0世界中 无处不在的畸变影响. 解决方案名叫§1时空锚定之戒§0, 只需要消耗一些§4魔力§0,就可以 保护佩戴者免受畸变的影响. 也可以通过右键切换为主动 模式,在此模式下,潜行会暂时 禁用保护.
+alfheim.page.anomaRing1=§o我恨传送门...§0
+
+alfheim.entry.triquetrum=世界塑造者的三角仪
+alfheim.tagline.triquetrum=切割空间并移动
+alfheim.page.triquetrum0=§1世界塑造者的三角仪§0 - 这是尘世的工匠们为那些技 艺不够高超的建筑师所准备 的产品.这个工具可以通过消 耗一些§4魔力§0,将建筑物转移到另 一个地方.<br>要选择被转移的区域,请选中 2个方块,以这两个方块为角点 形成的立方体区域会被选中.
+alfheim.page.triquetrum1=接下来,选择目标区域,一个高 亮标记将会告诉你旋转的方 向.你可以通过右键空气来 调整方向.潜行以启用"安全模式", 如果目标位置有物体存在, 则该格子不会被移动. <br>§l§4注意!选中的区域和目标区域 最好不要重叠§r§0!
+alfheim.page.triquetrum2=制造 §1三角仪§0
+
+alfheim.entry.corpSeq=多媒体序列器
+alfheim.tagline.corpSeq=制造所需的物品
+alfheim.page.corpSeq0=§1多媒体序列器§0旨在将物品在 容器之间按照有序地方式移 动,允许各种实用的操作和应 用.
+alfheim.page.corpSeq1=首先,必须先试用§1多媒体火花 §0将§1序列器§0链接到§1多媒体网络§0. 将配方模板放在§1序列器§0上方 的容器中,在§1序列器§0侧面放上 一个展示框并将想要制作的 物品放进里面.最后,配方模板 中的物品将会被输出到§1序列 器§0下方1-2格内的容器或机器里.
+alfheim.page.corpSeq2=为了更好的配合自动化试用, 可以通过左键点击,或潜行左 键点击§1序列器§0来更改每次合 成后输出的物品数量(例如,合 成木棍会输出4个木棍,而钻石 镐只会输出一个). 用森林法杖右键§1序列器§0会重 置当前的合成进程,而接受到 红石信号则会让§1序列器§0反复 从网络请求物品.
+alfheim.page.corpSeq3=保持秩序!
+
+alfheim.entry.corpInj=多媒体置入器
+alfheim.tagline.corpInj=将物品置入材料网络
+alfheim.page.corpInj0=§1多媒体置入器§0的设计目标很 简单 - 将物品输入§1多媒体网络§0的同 时,对输入的物品进行分类和 整理.在输入物品时,会优先尝 试将物品合并到未满一组的 格子里,随后优先将物品放到 已经存在该物品的容器内,若 网络里没有空余容量了,则物 品会被扔到置入器的下方
+alfheim.page.corpInj1=终于,我们可以好好分个类了!
+
+alfheim.entry.corpQuandex=多媒体量子索引
+alfheim.tagline.corpQuandex=多媒体无线传输
+alfheim.page.corpQuandex0=§1多媒体量子索引§0的工作方式 类似于§1多媒体索引§0,两者的区 别在于:§1量子索引§0允许跨纬度 远距离的传输你所需的物品. 当然,为了避免你像个沙雕一 样,在离着多媒体网络数千格 外对着空气喊话,最好还是先 用某种方法联系§1量子索引§0
+alfheim.page.corpQuandex1=§1多媒体应答器§0可以解决这个 问题,手持§1多媒体应答器§0并右 键§1量子索引§0即可建立连接.但 需要注意,跨纬度的长距离物 品传输会大量消耗玩家身上的 魔力.
+alfheim.page.corpQuandex2=比信鸽快不少
+alfheim.page.corpQuandex3=无接触式交付
+
+alfheim.entry.endAct=末影桥接器
+alfheim.tagline.endAct=拓展访问至末影箱
+alfheim.page.endAct0=§1末影桥接器§0允许§1多媒体网络 §0访问您的末影箱空间,通过触 摸§1末影桥接器§0即可完成绑定.
+alfheim.page.endAct1=固定的虫洞
+
+alfheim.entry.infuser=注魔
+alfheim.tagline.infuser=神秘时代躺枪
+alfheim.page.infuser0=用魔力灌注物品是植物魔法 师的必修课.但不会有人认为将 一块饼干扔进魔力池来灌满 它是一件多么困难的事情!无 论如何,精灵在这方面走得更 远.他们的目标是制造一种特 殊的装置,允许将物品的属性 和魔力注入其他物品中.就像 尘世中的那些神秘使一样.
+alfheim.page.infuser1=然而,这个装置需要一些珍贵 的材料--魔灵粉末. 它不仅象征着力量,它本身就 是能量的结晶形式.而精灵尘 则会是这个装置的核心.
+alfheim.page.infuser2=制造 §1魔元核心§0
+alfheim.page.infuser3=制造 §1魔力注入器核心§0
+alfheim.page.infuser4=这是个完美的杰作,但一个核 心还不足以运作.我们需要将 这个珍贵的核心放在理想的 位置,并以此为基础搭建一个 多方块结构,可以试试用不同 的艾尔夫海姆材料块来搭建 结构....<br>在这之后,搭建完成的魔力注入器将会帮助拓展植物魔法学的研究,也能在各种高级材料的制造上发挥作用.
+alfheim.page.infuser5=魔力注入器
+alfheim.page.infuser5u=§o模拟结构§r
+
+alfheim.entry.elvorium=魔灵钢
+alfheim.tagline.elvorium=比泰拉钢更好
+alfheim.page.elvorium0=早在魔法大师Mastray从Freyr 那里借来泰拉钢的制作配方 并将其传授给精灵们之前,精 灵们就已经知道一种类似合 金的制造方法,这种合金的原 料由艾尔夫海姆本地各种富 含能量的材料组成.它与泰拉 钢在性质上类似,但更强大... 源质钢锭,龙石,精灵尘和一些 魔力,构成了这珍贵的合金 ------魔灵钢
+alfheim.page.elvorium1=制造 §1魔灵钢§0
+alfheim.entry.trade=逆向交易
+alfheim.tagline.trade=不然还能咋整嘛
+alfheim.page.trade0=艾尔夫海姆的畸变令人闻之 色变,但也正是这些畸变让创 建传送门成为了可能.尘世中 的人用来进行贸易的传送门 因为畸变的缘故,无法在艾尔 夫海姆中正常运作.但Mastra y没有放弃.
+alfheim.page.trade1=尘世之门在设计上与精灵传 送门类似,但有些地方存在 不同:<br>搭建传送门的材料不是活木, 而是活石.用魔灵钢和魔灵粉 末所制作的水晶则能够稳定 链接两个世界.<br>荣耀归于伟大的Mastray -------世界的连接者!
+alfheim.page.trade2=制造 §1尘世水晶§0
+alfheim.page.trade3=制造 §1尘世之门核心§0
+alfheim.page.trade4=尘世之门
+
+alfheim.entry.essences=元素
+alfheim.tagline.essences=它看起来像珊瑚
+alfheim.page.essences0=作为曾到访下界的旅客,你也 许已经意识到,看似广袤无垠 的下界仅仅只是穆斯帕尔海 姆(炽热)的一部分.根据精灵传 说的记载,下界传送门之所以 能够运作,是因为穆斯帕尔海 姆已经接近了尘世.<br>但当你继续阅读有关宇宙的 传说时,你会注意到名为尼弗 尔海姆(极寒)的世界,和穆斯帕 尔海姆并列为两大"始源",那是 一个充斥着凛冬与冰雪的地 方.
+alfheim.page.essences2=想要获得它们不是一件简单 的事情.世界元素的唯一来源 是天翼族,他们在大战期间窃 取了大量的元素之力.
+alfheim.page.essences2u=§o但是该如何运用它们潜藏的 §o力量呢?§r
+alfheim.page.essences4=泰拉钢和魔灵钢是最理想的 合金,象征着尘世与艾尔夫海 姆材料的巅峰.但这还远远 不够,我们都知道,盖亚之魂和 泰拉钢的结合会制造出盖亚 魂锭,一种极为昂贵却用途寥 寥的收藏.看似是这样,但精灵 们对此却又不同的看法...
+alfheim.page.essences5=在阿斯加德的传说中:众神的 武器是有一种特殊的金属锻 造而成,汇聚了四个世界的力 量.精灵们听说了这些传说,并 决心得到神明的力量.他们将 魔灵钢和始源世界的元素融 合成两种类似盖亚魂锭的合 金:极寒魔灵钢和炽热魔灵 钢
+alfheim.page.essences6=制造 §1拥有世界之力的合金§1
+alfheim.page.essences7=但精灵们并未止步于此,他们 更进一步,利用注魔技术,将这 些合金与盖亚魂锭结合,创造 出了众神的合金 ------§6始源魂灵锭§0. 这种合金内潜藏着难以想象 的伟力.
+alfheim.page.essences8=制造 §6始源魂灵锭§0
+
+alfheim.entry.runes=符文
+alfheim.tagline.runes=比原来稍微多一点
+alfheim.page.runes0=似乎那些常见的,低级的符文 已经能够满足魔法师们了? 怎么可能,在研究元素潜藏的 本质时,你发现它们可以用来 改良现有的符文.
+alfheim.page.runes1=改良 §1新符文§0
+alfheim.page.runes2=经由"炽热"与"极寒"改造后的两 种符文含有部分始源的力量, 它们将会是强大的元素武器 中最关键的部分...<br>唤醒始源世界的伟力!
+alfheim.page.runes3=除了这两种符文之外,还有一 个符文,一个蕴含了风,火,水,地 以及魔力这五种力量的符文, 也被称为§5始源符文§0,这个符文 蕴含着最原初的始源之力,而 这种力量则存在于两大始源 世界出现之前的时间里.或许, 就连身为始源世界的穆斯帕 尔海姆和尼弗尔海姆,也不存 在于那遥远的过去吗?谁知道 呢.....
+alfheim.page.runes4=制造 §5始源符文§0
+alfheim.entry.elvenSet=魔灵铠甲
+alfheim.tagline.elvenSet=更强的铠甲!
+alfheim.page.elvenSet0=居住于尘世的法师们利用大 自然赋予的力量创造了泰拉 钢和符文,并用它们制作出了 源自自然的完美盔甲-泰拉钢 盔甲. 精灵们同样拥有着一套自己 的完美盔甲,利用魔灵钢制作 而成的盔甲,只有最精英的皇 家守卫才有权利佩戴.
+alfheim.page.elvenSet1=制造 §1魔灵头盔§0
+alfheim.page.elvenSet2=制造 §1魔灵盔甲§0
+alfheim.page.elvenSet3=制造 §1魔灵护腿§0
+alfheim.page.elvenSet4=制造 §1魔灵战靴§0
+
+alfheim.entry.elemSet=元素铠甲
+alfheim.tagline.elemSet=唯有神明的化身才能掌控四种元素...
+alfheim.page.elemSet0=魔灵粉末从来不会出现在精 灵们的出售列表上,不仅是因 为它是许多先进设备的核心 材料,更因为它可以用于制造 魔灵铠甲的强化版 ------元素铠甲 这套铠甲为穿戴者带来的力 量远远超过魔灵铠甲所能提 供的极限.
+alfheim.page.elemSet1=§1潮汐§0
+alfheim.page.elemSet2=§2浩土§0
+alfheim.page.elemSet3=§4炽焰§0
+alfheim.page.elemSet4=§e风暴§0
+
+alfheim.entry.elementalTuning=元素调谐
+alfheim.tagline.elementalTuning=赋予元素之力
+alfheim.page.elementalTuning0=在魔力调谐器问世后不久,元 素调谐法便已广泛传播.作为 传统附魔方法的替代方案.通 过使用一定数量的§1魔源布匹 §0和一些元素实体化的产物,可 以将不同的元素属性附着在 装备上.
+alfheim.page.elementalTuning1=一次完整的元素调谐需要经 历四个阶段,每个阶段需求的 §1魔源布匹§0和元素物品都比上 个阶段各多一个.元素之间不 能相互融合,一个调谐了某种 元素的装备无法调谐另一种 元素.
+alfheim.page.elementalTuning2=全新的元素装备让精灵们在 对抗元素生物的战斗中更强 大,也更高效,帮助精灵们更好 的保卫家园,开疆拓土.他们还 制造了带有元素敏感特性的 §1窥魔之镜§0来识别敌人的元素 属性.
+alfheim.page.elementalTuning3=窥魔之镜 调谐中
+alfheim.page.elementalTuning4=火元素 调谐中
+alfheim.page.elementalTuning5=水元素 调谐中
+alfheim.page.elementalTuning6=风元素 调谐中
+alfheim.page.elementalTuning7=地元素 调谐中
+alfheim.page.elementalTuning8=冰元素 调谐中
+alfheim.page.elementalTuning9=电元素 调谐中
+alfheim.page.elementalTuning10=自然元素 调谐中
+alfheim.page.elementalTuning11=光明元素 调谐中
+alfheim.page.elementalTuning12=黑暗元素 调谐中
+alfheim.page.elementalTuning13=精神元素 调谐中
+
+alfheim.entry.advMana=魔力宝石
+alfheim.tagline.advMana=魔力容器的新定义
+alfheim.page.advMana0=众所周知,制作任何魔力容器 都需要魔力钻石或者魔力珍 珠作为核心.精灵们没有这些 材料,他们有着自己的存储方 式.
+alfheim.page.advMana1=事实证明,虽然龙石可以吸收 魔力,但无法长时间保存.精灵 们用珍贵的魔灵粉末强化了 这块石头,创造出了一种全新 的魔力容器,其容量为魔力石 板的设备.随着对始源世界元 素研究的深入,精灵魔法师们 进一步强化了其魔力存储能 力.
+alfheim.page.advMana2=制造 §1魔力宝石§0
+alfheim.page.advMana3=§c强化 §1魔力宝石§0
+alfheim.page.advMana4=而如果使用魔灵钢和始源魂 灵锭这两种绝佳的魔力道题 作为材料会发生什么呢?答案 是几枚大容量的的魔力之戒, 便于携带,且兼具颜值与功能 性.
+alfheim.page.advMana5=简单的存储
+alfheim.page.advMana6=制造 §1魔灵魔力之戒§0
+alfheim.page.advMana7=制造 §1始源魂灵魔力之戒§0
+
+alfheim.entry.auraAlf=光环之戒
+alfheim.tagline.auraAlf=一切都可以变得更好
+alfheim.page.auraAlf0=诚然,一枚普通或由泰拉钢强 化过的§1光环之戒§0已经能 够满足许多植物魔法师的需 求.但除了傻子外,没人会拒绝 来自精灵们的奇妙魔法与始 源世界无与伦比的伟力. 此外,全新的光环之戒不仅非 常舒适,其外形也美丽的令人 惊叹.
+alfheim.page.auraAlf1=制造 §2精灵光环之戒§0
+alfheim.page.auraAlf2=升级至 §6魔灵光环之戒§0
+alfheim.page.auraAlf3=升级至 §1神灵光环之戒§0
+
+alfheim.entry.redstoneRelay=红石转接器
+alfheim.tagline.redstoneRelay=无线红石信号传输
+alfheim.page.redstoneRelay0=就如同§1力量传递器§0一样,将魔 力注入红石组件将会产生一 些意想不到的结果.那如果我 们将魔力注入红石快呢?答案 是:§1红石转接器§0-老工程师手 中的实用工具.
+alfheim.page.redstoneRelay1=当这个方块接收到红石信号, 它就会将完全相同的红石信 号传输到它绑定的方块上,无 论两者距离多远.<br>要将它绑定到一个方块上,先 手持§1森林之杖§0右键单击§1红石 §1转接器§0,随后在要绑定的方块 上潜行右击,即可完成绑定
+alfheim.page.redstoneRelay2=但是....接收器在哪里呢?
+
+alfheim.entry.resonator=空间共振器
+alfheim.tagline.resonator=生成一个摧毁方块或造成伤害的场
+alfheim.page.resonator0=连续损坏的第十把镐子成了 压垮骆驼最后一根稻草。 为了穿透无尽的§1活石§0层寻找 稀有矿藏，需要一种技术层 面完全不同的工具。经过漫 长的研究和大量资源消耗， §1空间共振器§0应运而生。
+alfheim.page.resonator1=这种便携装置能生成一种在 空间中共振的能量场，并在 一段时间后爆炸。共振场会 对爆炸时处于其中的一切造 成显著伤害，无论是方块还 是生物。如果爆炸时附近有 方块，场可能会“跳跃”到这些 方块上。
+alfheim.page.resonator2=场的起源和运作原理仍未完 全清晰，但它们以某种奇特的 方式……波动。尽管对空间共振器 结构的理解有限，这并未阻 止它被赋予多种操作模式 （通过右键切换）和扩散模式 （通过潜行右键切换）：
+alfheim.page.resonator3=自动引爆 - 共振场在生成后2秒爆炸<br>手动引爆 - 共振场会持续存在<br>共振矩阵 - 共振场在与某人（或某物）碰撞时爆炸
+alfheim.page.resonator4=自由扩散 - 共振场可扩散至附近任意方块<br>半扩散 - 共振场仅扩散至相似方块，忽略元数据<br>完全锁定 - 共振场仅扩散至完全相同的方块
+alfheim.page.resonator5=魔法，这绝对是魔法
+alfheim.page.resonator6=最后，和&1泰拉粉碎者&0类似, 它可以和&1源质钢镐&0合成从而 获得源质钢镐的能力。
+alfheim.page.resonator7=自动模式下激活共振场的时 间较短，手动模式下时间较长。
+alfheim.page.resonator8=更长的共振场持续时间
+alfheim.page.resonator9=解除共振场域限制
+
+alfheim.entry.ruling=始源世界之力
+alfheim.tagline.ruling=吾乃全知全能之神
+alfheim.page.ruling0=穆斯帕尔海姆和尼弗尔海姆... 两种始源之力的起源世界.我 们能从中得到什么呢?一切都 源于那些元素和符文,它们是 魔杖,护身符和力量的基础.<br>力量!更多的力量!无穷无尽的 力量!
+alfheim.page.ruling1=精灵们利用始源魂灵锭和烈 焰棒作为载体,利用符文集中 力量,创造出了蕴含两种始源 世界之力的法杖.这两种法杖 能够用各自蕴含的力量构建 保护罩-分别是来自穆斯帕尔 海姆的炼狱火焰和来自尼弗 尔海姆的剧毒寒冰.幸运,或者 说不幸的是,这些法杖耐久有 限,但可以自我修复.
+alfheim.page.ruling2=Feuer Frei!-开火!
+alfheim.page.ruling3=水晶之城!
+alfheim.page.ruling4=然而.能够召唤这些力量不意 味着能够使它们顺从 - 任何生物在始源之力面前都 显得尤为脆弱.为了保护使用 者不被自己的魔法干掉,精灵 们创造了一些护身符,可以将 那些失控的始源之力送回源 头.
+alfheim.page.ruling5=制造 §1始源之力护身符§0
+
+alfheim.entry.crescent=新月护符
+alfheim.tagline.crescent=独特的物品
+alfheim.page.crescent0=§1新月护身符§0可以利用§4魔力§0来 抵消穿戴者受到的所有§l非魔 §l法§r伤害的10%,同时,护符可以 为佩戴者抵挡10点魔法伤害 但是在抵挡了魔法伤害之后 护身符需要短暂的充能时间 来重新发挥作用.
+alfheim.page.crescent1=制造 §1新月护符§0
+
+alfheim.entry.reality=始源之剑-现实
+alfheim.tagline.reality=存在 即真实!!!
+alfheim.page.reality0=精灵们使用的元素盔甲固然 不错...但身披战甲的战士们也 需要一把趁手的武器,比方说... 一把剑.幸运的是,诸神们的合金, 始源魂灵可以完美解决这个 问题!这把剑可以单纯用自身 的锋利进行切割,也可以召唤 四大元素的力量.
+alfheim.page.reality1=但有一点需要注意,维持对任 何一种元素之力的召唤都会 持续花费魔力,所以要谨慎使 用!不过话说回来,能制造出这 么多始源魂灵锭的人,也不会 缺这点魔力,对吧.
+alfheim.page.reality2=制造 §6始源之剑-现实§0
+
+alfheim.entry.manaImba=超空间魔力传输器
+alfheim.tagline.manaImba=超级魔力手镜
+alfheim.page.manaImba0=众所周知,§4魔力§0是无所不能的, 甚至是扭曲空间,跨越维度的 传送门就是个很好的例子.但 其他方面的应用呢?比如说,如 果有人想将魔力在两个距离 遥远的存储容器之间相互传 输呢?
+alfheim.page.manaImba1=对于任何一个人类魔法师来 说,跨越维度的魔力传输的 说法完全是天方夜谭,只有 疯子才会有这种不切实际的 幻想. 但是精灵们不一样,他们所 居住的大地之下埋藏着珍贵 的§1魔灵粉末§0,这些蓝色的珍 宝会是解决问题的关键,其 赋予了魔法装置无与伦比的 空间扭曲能力,允许它们触 及整个世界树,乃至更遥远 的地方.
+alfheim.page.manaImba2=手持§1传输器§0潜行右键任意一 个魔力池,将其设为§1目标池§0, 记得将该魔力池设置为接收 模式. 随后将§1传输器§0放置在任意一 个魔力池上方的§1魔力加速器§0 中-此时这个魔力池将成为 源头池. 如果源头池设置为发送模式 且目标池设置为接收模式, 那么魔力将从源头池无损的 传输到目标池中. 通过翻转两个池子的模式 (接收和发送),也可以反向 传输魔力.
+alfheim.page.manaImba3=制造 §1超空间魔力传输器§0
+
+alfheim.entry.hyperBuk=超空间流体清理器
+alfheim.tagline.hyperBuk=赶紧把水排干净!
+alfheim.page.hyperBuk0=你是否觉得§1无底桶§0的效率仍 旧非常低下? 你想快速的抽干一片海洋吗? §1超空间流体清除器§0便是为此 而生的. 它的效率是无底桶的27倍, 能够一次性清除大量的流体. 只需要少量的始源魂灵和一 些魔灵粉末来强化你的粉色 小桶. 可以通过添加§1始源魂灵§0来进 一步增加清除范围.
+alfheim.page.hyperBuk1=超级-超级-超级无底桶
+
+alfheim.entry.uberSpreader=始源魔力发射器
+alfheim.tagline.uberSpreader=更难,更好,更快,更强
+alfheim.page.uberSpreader0=在始源魂灵材料的诸多优点中, 其极高的强度和出色的魔力 传导性令人无法忽视. 一位Mastray的学生注意到 了这一点,在帮助他的导师进 行研究的时候提出了一个想 法:如果一个盖亚之魂就可以 显著的提升魔力发射器的效 率,那么使用始源魂灵材料进 行二次强化会怎么样呢?
+alfheim.page.uberSpreader1=这位学生在与矮人族的工匠 大师进行了多次磋商和实验 后,成功创造出了设想中的设 备:§1始源魔力发射器§0,比普通版 本强大了数倍. 然而,Mastray并没有赞扬这 位学生的成果,只认为这个实 验显然是在浪费宝贵的资源. 自那之后,还有数个魔法师尝 试制造类似的魔力发射器,但 并未被广泛接受或使用.
+alfheim.page.uberSpreader2=制造 §1始源魔力发射器§0
+alfheim.page.uberSpreader2s=§o你可以走了,没什么卵用的平衡性§0
+alfheim.page.uberSpreader2t=想要制造一个§1始源魔力发射 §1器§0,你需要将§1盖亚魔力发射器§0 放入§4浇铸盆§0,然后倒入8份§6熔 §6融始源魂灵锭§0
+
+alfheim.entry.flugel=天翼族
+alfheim.tagline.flugel=神之兵器
+alfheim.page.flugel0=关于天翼族的信息较为有限. 他们被称为死亡天使,韧性,残 忍,如同不朽.他们撕开空间,瞬 间移动到曾经到过的地方的 能力让许多勇敢的冒险者们 趋之若鹜,但并不是每个人都 有勇气去挑战盖亚守护者,从 而获取那拥有强大力量的眼眸.
+alfheim.page.flugel1=天翼族极度仇视盖亚守护者, 因为守护者从他们死去同胞 的身上夺走了那些眼睛,每一 个天翼族都会竭尽全力去夺 回这些遗物.而这一点可以被 你利用.在空中建造的盖亚召 唤仪式里,将祭品替换为天翼 族之眼,就可以召唤出一位天 翼族.
+alfheim.page.flugel2=但需要注意的是--天翼族高 傲的性格让他们不屑于和那 些无法飞行的人战斗,因此, 一双和他们类似的翅膀是必 须的. 此外,坚固的护甲,锋利的利 剑,充足的药水,以及灵活的 思维也是必不可少的.
+
+alfheim.entry.soul=天翼族之魂
+alfheim.tagline.soul=弑神者
+alfheim.page.soul0=战胜天翼族的人将获得至高 无上的战利品--§1天翼族之魂 §0可以记录高达12个传送点,就 像天翼族之眼一样.更重要的 是,天翼族之魂可以用来召唤 更强大的天翼族,即弑神者,最 多可以召唤12次(以传送点空 位为代价).如果有幸击败他们, 则能够获得更多稀有的资源 和战利品.
+alfheim.page.soul1=最终,不可避免的,一些人彻 底污染了他们的天翼族之魂,这 意味着他们无法获取更多的 稀有资源,于是他们找到了贤 者Mastray,希望这位伟大的圣 人能够想到办法清理天翼族之 魂上的污染. 这位贤者在图书馆内查阅了 许多尘封的古老历史,并开始 研究天翼族之魂的结构. 最终,Mastray将天翼族之魂还给 了他们,并且向他们讲述了一 个古老的故事
+alfheim.page.soul2=§o千年前,一场被称为"Great-War" 的战争在无数个世界里燃起 了烽火,几乎无人能够独善其 身. 毫无疑问的,天翼族作为完美 的杀戮机器,在这场战斗中屠 杀了无数超出人类和精灵们 想象的强大生物. 但是,在战争即将结束,所有势 力都遭到重创的时候,一件可 怕的事情发生了-大崩裂§r
+alfheim.page.soul3=§o大崩裂的详情早已无可考究, 就目前拥有的资料来看,其发 生原因是因为某些来自宇宙 之外的"东西"穿透了人们所 认知的"现实"的边界,污染了 那些"看着"他们的人的思想 这些"东西"的来处被称为 §4§o"虚无"§0§o 即使是存在或者不存在的概 念在那里也是扭曲的,§4§o"虚无"§0§o 无法阻止宇宙的诞生,那么它 就想将一切毁灭,化为虚无§r
+alfheim.page.soul4=§o资料里并没有记载他们是如 何做到的,但是他们控制了不 朽们,以完成他们毁灭一切的 目标. 幸运的是,尽管§4虚无§0§o很强大, 但它并不属于这个宇宙,也不 了解这个宇宙的法则,这使得 神灵们组成的联盟在与和§4§o虚§0§o §4§o无§0§o控制的傀儡的战斗中占据 了上风§r
+alfheim.page.soul5=§o但是还有一个问题,由于§4虚无§0 §o的入侵扭曲了现世的法则,异 常开始出现在这个世界上,由 于即使连存在的概念都被扭 曲,宇宙的法则无法抹平这些 异常. 其中有一种异常,一团黑色的 混沌能量攻击着靠近它们的 一切,这些异常是被虚无控制 的天翼族们死后形成的.§r
+alfheim.page.soul6=§o直到前段时间,我才能确认那 些异常的本质-灵魂,那是些 被污染的天翼族灵魂,无法回到 虚无,也不被宇宙所接纳. 这些带有强烈怨恨和愤怒的 黑暗灵魂根本无法被任何人 所使用的,即使是靠近也是一 个愚蠢的主意§r
+alfheim.page.soul7=§o当你使用击败了使用天翼族之 魂召唤而来的天翼族之后,他们 被污染的灵魂将会永远保存 在你所使用的,纯净的天翼族之 魂里. 不过,我发现通过使用大自然 的力量,可以做到将这些被污 染的能量封闭起来,也许这可 以净化被污染的天翼族之魂§r
+alfheim.page.soul8=通过在盖亚仪式旁放上§4御灵 §4水晶§0,和盖亚水晶共同一个封 印环,然后将魔力注入器和植 物酿造台放在信标上面. 来自水晶的能量将会集中在 魔力注入器中,并将被污染的 力量封印起来.
+alfheim.page.soul9=灵魂净化装置
+alfheim.page.soul10=为了恢复天翼族之魂的纯净,你 需要将其放在酿造台的上方 并且召唤盖亚守护者即可,御 灵水晶会帮你压制盖亚守护 者的力量. 为了确保能量足以封印天翼族 之魂中的污染,召唤较为强大 的盖亚守护者将会比较稳妥. 如果你相信自己的运气,召唤 较弱的守护者也可以,就像掷 硬币一样. 但小心,如果能量不足以封印 污染,那么为防止产生严重的 后果,积累的能量将会以爆炸 的形式释放到空中.
+alfheim.page.soul11=净化并往复
+
+alfheim.entry.soulHorn=灵魂号角
+alfheim.tagline.soulHorn=天翼族:终极形态开启
+alfheim.page.soulHorn0=虽然仅仅由天翼族之魂十二 分之一的力量所召唤出的不 朽就已经如此强大,但你还是 忍不住胡思乱想,如果,如果 尝试一次性用天翼族之魂更多 的力量来召唤,会发生什么, 又或者一次性使用整个灵魂 的力量?
+alfheim.page.soulHorn1=通过使用§1始源魂灵§0和§1魔灵钢§0, 你创造出了一个§1灵魂号角§0.他 的原理非常简单,就像漏斗一 样,将天翼族之魂零散的力量合 并起来成为单个能量团,并用 它来召唤出一个难以理解的 强大生物,在使用了一次之后 号角会失去所有存储的能量, 但是仍然可以用于下一次能 量聚集
+alfheim.page.soulHorn2=制造 §1灵魂号角§0
+alfheim.page.soulHorn3=要将天翼族之魂的力量注入号 角,你只需要将它们都扔在地 上即可,逸散出的粒子会告诉 你这个过程是否顺利
+
+alfheim.entry.mask=诡秘之面
+alfheim.tagline.mask=我似乎见过它...
+alfheim.page.mask0=这个面具充斥着无尽的愤怒 和危险,散发着死亡的气息.无 论你用什么方法,都无法戴上,它 从你的脸上一次次的滑落,就 仿佛是在抗拒你的生命一般. 然而,在你生命垂危,奄奄一息 之际,这个诡异的面具会浮现 在你的脸上,赋予你无与伦比 的力量和体魄.但请谨慎使用, 因为它为你带来力量的同时, 也在不断侵蚀你的精神.
+
+alfheim.entry.excaliber=代表荣耀与胜利的圣剑
+alfheim.tagline.excaliber=我保证,这把绝对是真的!
+alfheim.page.excaliber0=失踪已久的§1Excalibur§0终于 被你找到.传说,这把剑坚不可 摧,每次挥动都会射出一道魔 力脉冲,自动追踪并击中附近 的敌人.在握住这把剑的时候, 你感觉身旁的风仿佛在配合 着你的行动,你的身躯变得轻 盈且奔跑速度变得更快.
+
+alfheim.entry.akashic=阿卡西纪录
+alfheim.tagline.akashic=集所有圣遗物于一体
+alfheim.page.akashic0=§1阿卡西记录§0允许使用者传送 到专属的私人维度空间,只需 要在这件圣遗物的启动状态 下右键任何方块即可.如果有 任何圣遗物存放在维度空间中 的§1物品托盘§0上,那么便可以通 过§1阿卡西记录§0将其随时取出.在 潜行状态下使用鼠标滚轮选 择圣遗物,左键将选中的圣遗 物取出,K键将其放回.
+
+alfheim.entry.stories=知识令牌
+alfheim.tagline.stories=是的,知识是可以购买的
+alfheim.page.stories0=几个世纪依赖,§4艾尔夫海姆§0和 §4尘世§0的居民建立了紧密的贸 易.尘世的冒险者,莫法学者与 贤者们,例如§6Mastrei§0,他试图 学习所有精灵的知识与秘密, 从而发展自己的科技,以此获 取财富与名望.而最热心的人 是炼金术师§6Tywin§0,他发明了 §1知识令牌§0-这是他毕生知识 的积累与象征.
+alfheim.page.stories1=他设法与精灵长老们达成了 互惠互利的知识交流协议: §6Tywin§0提供炼金术研究的一 部分,封存在硬币中,而精灵则 提供了他们的秘密与指导.但, 最智慧的精灵长老们为什么 会需要来自尘世炼金术师的 知识呢?
+alfheim.page.stories2=答案远比看上去要简单. 精灵们一直试图超越所有智 慧生物,打成这一目标的最直 接途径便是知识,不仅仅是他 们已有的丰富知识,还包括那 些对他们来说陌生的,闻所未 闻的知识.因此,数个世纪以来, 人类与精灵一直在相互交流 积累的知识.
+alfheim.page.stories3=直到某一天,发生了一件令人 难以置信的事情: 一位§6Tywin§0的学生背叛了他, 在整个§4尘世§0中散播了§1知识令 牌§0.由于这个愚蠢的行为,这些 令牌随着时间,逐渐消失在了 人们的视线中.
+
+alfheim.entry.winery=酿酒
+alfheim.tagline.winery=哪家地窖没点酒呢?
+alfheim.page.winery0=自古以来,酿造美酒便是尘世 的匠人们必备的技能,但并没 有多少人会因此而自豪,因为 与精灵们用辛勤劳作与奇妙 魔法共同制作而成的产物相 比,实属相形见绌
+alfheim.page.winery1=当然,作为狡猾与智慧并存的 种族,人类仍旧设法与精灵族 的酿酒师们达成了互惠协议, 并教导他们各自的门徒.但这 份协议的具体内容对大多数 种族来说仍旧是一个谜,只知 道在授课的第一天,匠人大师 们会告诉学生们一个故事...
+alfheim.page.winery2=正如学徒们在下课回家后所 说的那样,虽然只是一个故事, 却也足以让学徒们了解酿酒 的原理,并酿造出以尘世的 标准来说非常优质的葡萄酒.
+alfheim.page.winery3=Mastray听说过这个故事, 但由于并非第一手消息,所以 只有以下部分对人们比较有 用:
+alfheim.page.winery4=§o很久以前,有一位矮人酿酒师 在东部平原的广袤原野上徘 徊,寻找可以用于酿酒的新植 物.他早已厌倦了那些从草药 和花朵中酿造的蜜酒,原料中 难以去除的苦味只能勉强被 新鲜出炉的大块牛肉抵消一 些.矮人酿酒师决定尝试一些 全新的东西§0
+alfheim.page.winery5=§o他早就盯上了这附近生长的 葡萄藤 - 在古老的大树上与溪流的岸 旁边 - 在阳光下闪烁着红绿相间的 光芒.但无论矮人酿酒师怎么 尝试,酿造出的产物始终不尽 如人意§0
+alfheim.page.winery6=§o酿出的酒要么太酸,要么太淡. 他急需一种合适的材料来为 蜜酒增添风味与甜蜜.§0
+alfheim.page.winery7=§o直到有一天,他最热心的学生 带来了一滴花蜜,这滴珍贵的 花蜜是艾尔夫海姆中的蝴蝶, 在开满鲜花的广袤原野上采 集而来.这为它带来丰富滋 味的同时,也让它难以溶解在 水中.§0
+alfheim.page.winery8=§o因为他徒弟的发现,这位醉心 于酿造的矮人决定尝试一些 非传统的酿酒法.他用百年间 收集的古老橡木制作了发酵 桶,桶里装满了采集来的葡萄, 随后,酿酒师让他的徒弟将桶 中的葡萄踩碎,将汁液充分挤出.§0
+alfheim.page.winery9=§o随后,他在葡萄的汁液中添加 了那滴珍贵的花蜜,并将酒桶 在地下室存放了一段时间.令 人惊讶的是,这位屡屡失败的 酿酒师尝试的实验第一次就 成功了 - 最终的成果是兼具独特风味 与甜蜜滋味的葡萄饮品.§0
+alfheim.page.winery10=§o由于其酿造方式与传统的蜜 酒完全不同,矮人们为它取了 一个全新的名字,在那早已被 遗忘的语言中,意为"神圣之礼". 矮人们迫切的想要寻找一种 能够配得上这美妙饮品的容 器,但遗憾的是他们手头上除 了木头杯子外别无所有.§0
+alfheim.page.winery11=不过现在,尘世的工匠们掌握 着用烧制黏土来制作陶罐的 方式来储藏葡萄酒.
+alfheim.page.winery12=制造 §酒桶§0
+alfheim.page.winery13=制造 §1陶罐§0
+
+alfheim.entry.fracturedSpace=空间碎裂之杖
+alfheim.tagline.fracturedSpace=大容量传送法杖
+alfheim.page.fracturedSpace0=§1黑洞护符§0是种强大的魔法物品, 其核心由虚空中的微观粒子 所组成.不幸的是,护符中那源 源不断的能量对其余物品极 为排斥,任何未绑定的被吸 入物品会被立刻弹出.
+alfheim.page.fracturedSpace1=而幸运的是,这种恼人的特性 并没有让你放弃在空间移动 方面的研究.你成功得到了一 个相当稳定的空间碎裂法杖, 能够通过虚空传输散落在地 上的物品.尚未解决的小问题 是目标点-即物品从虚空中回 归的位置.
+alfheim.page.fracturedSpace2=很明显,当你传送的所有物品 都永远的留在了虚空的深渊 里,你大概率不会因此而感到 高兴.不过奇怪的是,看上去普 普通通的§1花格箱§0似乎是个很 合适的"锚点",只需要手持这个 法杖,右键花格箱以绑定该花 格箱,随后右键杂物周围的地 面即可.
+alfheim.page.fracturedSpace3=虚空精灵
+
+alfheim.entry.terraHarvester=泰拉采收者
+alfheim.tagline.terraHarvester=潜力巨大的农具
+alfheim.page.terraHarvester0=§1泰拉采收者§0被认为是一种终 极农具,其在内置了锄头功能 的同时,还有更大的耕作范围, 最高可达5x5.
+alfheim.page.terraHarvester1=另一项重要的功能是它特殊 的自然亲和力,允许使用者在 3x3的范围内进行一系列快 捷操作,包括自动种植背包中 的种子,快速催生,以及快速采 收成熟的作物.
+alfheim.page.terraHarvester2=简单快捷的田园工作
+
+alfheim.entry.deathSeed=死亡之种
+alfheim.tagline.deathSeed=帮助您取回掉落的财物
+alfheim.page.deathSeed0=死亡之种是一件奇怪的造物, 它渴望回到持有者最后一 次死去的地点,这种渴求甚至 可以跨越维度的壁垒.导致这 种现象的原因也很简单:在持 有者死亡的瞬间,死亡之种吸 收了持有者的一部分灵魂. <br>手持死亡之种并右键即可瞬 间回到死亡的地点,值得庆幸 的是,死亡之种会在传送后的 几秒内保护持有者的安全,当 然,仅限几秒钟.
+alfheim.page.deathSeed1=第二次机会?
+
+alfheim.entry.disguiseBelt=变身腰带
+alfheim.tagline.disguiseBelt=成为你所不能成为之人
+alfheim.page.disguiseBelt0=或许我们都曾不止一次思考 过，若能以不同的性别或种 族出生会怎样。但从我们来 到这个世界的那一刻起，我 们的本质便已注定，无论做 什么都无法改变。然而，人 的外貌却可以通过如 §1变身腰带§0这样的魔法装置来 改变。
+alfheim.page.disguiseBelt1=它能随心所欲地改变持有者 的外貌，通过操控光线的反射。 可用的外貌包括：人类、九种 精灵种族、艾尔夫及其女性变体。 右键单击腰带切换种族， 潜行右键切换性别。维持改变 后的外貌需要消耗少量§4魔力§0。
+alfheim.page.disguiseBelt2=不要以貌取人
+
+alfheim.entry.dumbDecor=功能性装饰
+alfheim.tagline.dumbDecor=内外皆美
+alfheim.page.dumbDecor0=§1木制家具§0有一个特点——它 可以模仿任何方块的材质。 为此，只需手持所需方块右键 单击家具的侧面或顶部。 当你决定好家具的纹理后， 潜行右键使用§1森林法杖§0可保 护其免受意外更改。
+alfheim.page.dumbDecor1=每件木制家具在下一次更改 前都会保持其外貌，因此你可 以定制一次后随意移动。 此外，你可以坐在任何家具上， 除了桌子（这是为了礼貌考虑）。 试试看，非常方便！
+alfheim.page.dumbDecor2=合成§1家具§0
+alfheim.page.dumbDecor3=§1幕布放置器§0可通过红石信号 升降。将其连成一排时尤为 壮观。幕布同样可以模仿任何 方块的材质，且也可被保护免 受更改。
+alfheim.page.dumbDecor4=合成&1幕布放置器&0
+alfheim.page.dumbDecor5=§1双重方块§0是终极装饰元素， 在巧妙运用下可化身为任何 形态。它能同时呈现两个方块 的外观。操作方式与木制家具 类似，但改变的是整个方块， 而不仅是纹理。当然，它也可 以以相同的形式被保护免受 更改。
+alfheim.page.dumbDecor6=合成&1双重方块&0
+alfheim.page.dumbDecor7=§1隐秘玻璃§0是偷偷观察他人或 用来装饰墙壁和窗户的绝佳 方式。它正面呈现一种纹理， 其余面呈现另一种，且两者 均可随意更改。它也可以被保 护免受更改。
+alfheim.page.dumbDecor8=合成&1隐秘玻璃&0
+alfheim.page.dumbDecor9=§1泛光灯§0与其他装饰方块相比 更为简单。只需将其放置在所 需高度并给予红石信号即可。 一道光束可为任何场景增色。 但请注意，其发出的光线无法 阻止怪物生成。
+alfheim.page.dumbDecor10=合成&1泛光灯&0
+
+alfheim.entry.legends=九大世界的传说
+alfheim.tagline.legends=这是真的吗?
+alfheim.page.legends0=§o世界树是整个宇宙的中心与 基础,它的枝干从赫尔海姆 (冥界)延伸至阿斯加德,将九大 世界合为一体,通常情况下,世 界树无法被这些世界里的人 看到,但由于大崩裂时期发生 的空间混乱与位移,世界树的 一部分镶嵌在了艾尔夫海姆 内,它的树干与顶部位于世界 的中心.
+alfheim.page.legends1=§o传说,在它的某处枝干上,生长 着世界树上唯一一株盛开的花 朵,结出了一种奇特的果实,据 说能净化一切诅咒与邪祟.
+alfheim.page.legends2=§o瓦夫苏鲁特尼尔是在世界树 的荫庇下生活的巨人当中最 聪明的那个.然而,他仍然因为 不够智慧而在争论中输给了 奥丁,为此付出了生命的代价.
+alfheim.page.legends3=§o相传他的灵魂被囚禁在冥界 中的极北之地深处,如果有人 能前往冥界并将他的灵魂安 全带回,也许便可以让这位充 满智慧的巨人为他服务.
+alfheim.page.legends4=§o冥界是绝大多数人死去之后 灵魂的归宿.唯一的例外是哪 些被赋予了永生的人,他们死 后能在特定地点再次重生,就 好像死亡只是一场噩梦.尽管 对于他们来说,情况并不乐观, 死后重生也伴随着那些愈发 靠近的黑暗势力的注视.
+alfheim.page.legends5=§o尽管女神赫尔会赐予她治下 的一些居民相似的恩惠,允许 他们踏着尸骨离开她的世界, 但他们每个人最终都会付出 代价.毕竟,又有谁知道蓝与白 的女神何时会收回她的恩赐 呢?
+
+alfheim.entry.rodRedstone=红石调试杖
+alfheim.tagline.rodRedstone=在线红石debug
+alfheim.page.rodRedstone0=§1红石调试杖§0是红石工程师们 无法拒绝的便捷工具.右键任 一方块即可对其施加§4弱红石 信号§0,只对这个方块产生信号 而不会影响周围.潜行并右键 即可对方块施加§4强红石信号§0, 为该方块和其周围的方块同 时施加红石信号.
+alfheim.page.rodRedstone1=如果持有者同时还佩戴了§1窥 §1魔之镜§0,则可以在潜行的时候 看到周围所有带有红石信号 的方块,包括被遮挡的方块.明 亮的边框意味着§4强红石信号§0, 较暗的边框表示§4弱红石信号§0, 红石信号的§4强度§0也将显示在 您目前所视的方块上.<br>译者注:本章节的的强/弱红石 信号意思是是否能够影响到 周围方块,而非实际信号强度.
+alfheim.page.rodRedstone2=展现自己!
+
+alfheim.entry.chakramEnder=末影轮刃
+alfheim.tagline.chakramEnder=具有路径记忆功能
+alfheim.page.chakramEnder0=&1末影轮刃&0是一种特殊的武器。 若潜行时投掷，它会记住飞行 路径的每一个细节，包括每 次反弹。这使得使用者能在 下一次投掷时使其精确遵循 之前的路径，即便原有的障 碍物已不存在，为玩家提 供了有趣的战术可能性。
+alfheim.page.chakramEnder1=曲曲折折
+
+alfheim.entry.chakramThunder=雷霆飞轮
+alfheim.tagline.chakramThunder=充了电的荆棘飞轮
+alfheim.page.chakramThunder0=这把武器是§1荆棘飞轮§0的变种. 通过添加一些§1雷霆碎片§0和§1精 §1灵尘§0来为其注入雷霆的力量. §1雷霆飞轮§0虽然造成的伤害较 少,但是射程很远,甚至拥有 穿透护甲的能力.
+alfheim.page.chakramThunder1=雷神之锤青春mini版
+
+alfheim.entry.bud=世界树的幼芽
+alfheim.tagline.bud=那些我们不存在的地方
+alfheim.page.bud0=有一些传言说,在那些没有人 类与精灵存在的地方,时间会 完全静止,世界的运行会被冻 结.这些难以理解的理论,如 "量子纠缠"或"观察者效应",毫 无疑问是那些癫狂的所谓科 学家提出的,在他们仍癫狂般 的痴迷于那些虚幻的理论时, 我们早已开始研究现实的应 用了.
+alfheim.page.bud1=§1世界树§0不仅仅是连接世界的 载体,它实际上是与混沌对立 的存在法则的具现化体现.这 些法则确保了特定区域内时 间的流动.§1世界树的幼芽§0继承 了世界树一部分的力量,能够 维持时间的流动.遗憾的是,这 株幼芽的力量仅能影响其所 在的区块,所以请让你的花园 尽量缩小一些.
+alfheim.page.bud2=这里不再需要Chicken了
+
+alfheim.entry.serenade=无忧夜曲
+alfheim.tagline.serenade=感受和谐的宁静旋律
+alfheim.page.serenade0=§1宁静夜曲§0是一把魔法手风琴, 奏响宁静的交响曲.令人陶醉 的音符在空气中飘扬,令所有 人感到宁静,用无忧的魔法抚 平他们的精神.
+alfheim.page.serenade1=离开无忧小径
+
+alfheim.entry.subshroom=亚空间菌菇
+alfheim.tagline.subshroom=爷爷,这是什么蘑菇呀
+alfheim.page.subshroom0=在魔法森林中,生长着一种散 发着天界辉光§1亚空间菌菇§0. 这种神秘的真菌掌握着时空 穿越的关键秘密,任何接触到 或是食用了这种菌菇的实体 都将被传送到未知的地方. 
+alfheim.page.subshroom1=这种接触带来了永远迷失在 世界之间的风险,只有拥有纯 净与无畏之心的人才敢于尝 试.这些真菌通常出现在时空 畸变附近,传说它们是那些仁 慈博爱的存在赐给人们的礼 物,令旅行者们感到振奋又敬 畏.
+
+alfheim.entry.warBanner=荣耀战旗
+alfheim.tagline.warBanner=展现你无畏的战魂
+alfheim.page.warBanner0=§1荣耀战旗§0是一种装饰性饰品, 不仅仅是你战斗意志的体现, 也可以帮助你站在敌人的尸 骨上,庆祝荣耀又辉煌的胜利.
+alfheim.page.warBanner1=预计出现大量伤亡
+
+alfheim.entry.nidhoggTooth=尼德霍格之牙
+alfheim.tagline.nidhoggTooth=世界之外的力量
+alfheim.page.nidhoggTooth0=在§1尼弗尔海姆§0的幽暗深处， 潜伏着一条巨龙—— §4尼德霍格§0，这条巨龙几个世 纪以来一直在啃噬§1世界树§0的 根部。树根上不时发现的牙 齿碎片见证着这一暴行。
+alfheim.page.nidhoggTooth1=这样的牙齿能够从世界树的根 部提取生命能量，足以从中 汲取一小部分精华。但破损 的牙齿已不复昔日的力量， 仅能勉强支撑数次使用。
+
+alfheim.entry.openChest=无底箱
+alfheim.tagline.openChest=它的底部就是空的,字面意义上
+alfheim.page.openChest0=§1无底箱§0是§1花格箱§0的升级版, 唯一的区别是它没有任何内部 存储能力或容量限制,所以它 将一次性丢掉所有的东西(甚 至是数百个物品), 然后,没了,就这样.
+alfheim.page.openChest1=你在逗我玩?
+
+alfheim.entry.rodSuperExchange=地壳权杖
+alfheim.tagline.rodSuperExchange=凡人版本的WorldEdit
+alfheim.page.rodSuperExchange0=§1地壳权杖§0是§1大地权杖§0的 增强版,允许持有者选中多种 方块进行随机放置,每种方块 的权重均等,多次选中某个方 块会增加其权重.<br>对着空中潜行右击即可清除 已选中的方块.
+alfheim.page.rodSuperExchange1=跟圆锯没有关系
+
+alfheim.entry.ivySave=抗溶之藤
+alfheim.tagline.ivySave=可以附着在物品上面并使它们抵御大部分威胁
+alfheim.page.ivySave0=如果您曾因手滑导致镐子掉 进了岩浆,失手将剑扔到了仙 人掌上,或是其他什么情况而 损失了您宝贵的财产,那么§1抗 §1溶之藤§0便是为您量身定做的. §1抗溶之藤§0会将物品和您深度 绑定,以防止失手将其丢出.即 使该物品因为某些原因而掉 在地上,它也能抵御大多数威 胁,但仍然会在一段时间后自 然消失.
+alfheim.page.ivySave1=并非由基岩制成
+
+alfheim.entry.chalk=符文粉笔
+alfheim.tagline.chalk=在方块上与空气中作画
+alfheim.page.chalk0=§1符文粉笔§0是九大世界古老的 艺术之灵赐予艺术家们的神 秘工具.借助这种来自异界的 工具,您可以将自己天马行空 的想象力绘制成现实,在方块 上与空气中绘制复杂的画作, 赋予那精彩的梦想以生命,超 越现实与虚幻的界限.
+alfheim.page.chalk1=装备§1染彩戒指§0可以控制粉笔 绘制的颜色.您绘制的一切都 可以被其他人看到,并在绘制 五分钟后自动消失.
+alfheim.page.chalk2=制造§1符文粉笔§0
+
+alfheim.entry.carver=雕刻小刀
+alfheim.tagline.carver=雕刻方块
+alfheim.page.carver0=§1雕刻小刀§0用于加工方块并调 整他们的形状.手持小刀,每次 左键点击一个方块都会将其 更加细分,潜行左键则会减少 细分程度.右键细分后的区域 会将其移除,潜行右键则会重 新填充.手持小刀对空气右键 既可以切换模式.通过手持别 的方块并右键已经被雕刻过 的方块,即可填充其他方块的 部分.
+alfheim.page.carver1=塑造我的心灵
+alfheim.page.carver2=§1刻印模板§0可用于复制形状并应用于其他方块：右键单击任意§1组合§0以保存图案。然后在合成网格中将模板置于其他方块之前，以将图案基础方块更换为新方块；置于其他方块之后，以将所有图案方块更换为新方块；置于其他任意位置，则保持图案不变。
+alfheim.page.carver3=&oglEnable(&5&oGL_STENCIL_TEST&0&o)
+
+alfheim.entry.gaiaButton=盖亚按钮
+alfheim.tagline.gaiaButton=可以自定义摁下时间的按钮
+alfheim.page.gaiaButton0=§1盖亚按钮§0允许你通过§1森林法 杖§0来调整摁下的持续时间,右 键增加持续时间,潜行右键减 少,调整幅度为10个游戏刻 (1秒20个游戏刻)
+alfheim.page.gaiaButton1=并不是很大
+
+################################################################ DIVINITY ################################################################
+
+alfheim.entry.divinity_intro=神圣信仰
+alfheim.tagline.divinity_intro=跪拜诸神
+alfheim.page.divinity_intro0=这世界上充满了各种神迹.比 如说,§4魔力§4,无处不在的魔力绝 不可能是由凡人所创造的.现 在的问题是,我们如何与神明 们建立连接.
+alfheim.page.divinity_intro1=任何试图与神明建立连接的 尝试,都不可能绕开§1圣印§0,它的 内部潜藏着难以想象的伟力. 尽管其原料非常简单,但§1圣印 §0对任何魔法都表现出了极大 的亲和与包容,这是通往"神性" 的门户.通过融合其他材料,可 以锻造出§1神印徽章§0,不同的徽 章将会赋予佩戴者更多深奥 的知识.
+alfheim.page.divinity_intro2=星座之钥
+alfheim.page.divinity_intro3=§1神印徽章§0固然能与神明建立 连接,但这远非所能利用的极 限.通过携带其他与神明相关 的物品,可以强化与神明们的 连接,包括§1神印祭礼袍§0,特殊法 杖,神明的戒指与各种遗物,携 带的越多,获得的神性就越趋 近于完整.
+alfheim.page.divinity_intro4=最后的最后,有一种方法可以 同时与所有神明建立连接,即 §1众神§0祭礼袍,徽章和戒指.但想 要最大化神性,仍然需要携带 各种法杖和遗物.
+
+alfheim.entry.thor=诸神信仰 - 托尔
+alfheim.tagline.thor=雷霆,力量与愤怒
+alfheim.page.thor0=§3托尔§0,§4亚萨神族§0中的雷霆之神. 他的§3神性§0能够为信仰者带来 更迅猛的体魄,类似于§1旅居者 腰带§0.当使用与锤子类似的武 器,即斧头时,雷霆神力会强化 攻击力,并减缓攻击目标的速 度.
+alfheim.page.thor1=怒击大地
+
+alfheim.entry.garb_thor=神印祭礼袍 - 托尔
+alfheim.tagline.garb_thor=愤怒!粉碎!
+alfheim.page.garb_thor0=没有哪个祭司会因为不穿祭 礼袍而被神明惩罚.<br>尽管你并不需要穿戴祭礼袍 以展现对神明的忠诚,但这些 设计时尚的祭礼袍实际上也 能为佩戴者提供增益.托尔祭 礼袍的穿戴者所受到的摔落 伤害会被转移到周围的物体 上.如果落地时穿戴者的生命 值低于50%,还会额外获得一 层雷霆护盾
+alfheim.page.garb_thor1=超级英雄闪亮登场!
+
+botania.page.thorRing0n=作为§4天界§0的六大神明之戒, §1托尔之戒§0可以赐予佩戴者雷神 §1托尔§0的力量.祂的神力极大的 增加了§1泰拉粉碎者§0的挖掘范 围. <br>这枚戒指可以与其他五个  --§4众神§0戒指合并成终极神戒.
+
+alfheim.entry.rod_thor=雷霆之怒法杖
+alfheim.tagline.rod_thor=让敌人感受雷霆之怒
+alfheim.page.rod_thor0=§1雷霆之怒法杖§0与§1召雷者§0一样, 可以召唤雷电轰击你的敌人, 雷电在敌人之间链式扩散,对 多个目标造成伤害.<br>§1活木枝化身§0也可以使用这个 法杖.
+alfheim.page.rod_thor1=令人震惊的结果
+alfheim.page.rod_thor2=似乎你与雷神§4托尔§0间的连接 可以强化你对雷霆之力的掌 控力.似乎魔源套装的"魔力风 箱"效果也有类似的效果.<br>法杖中似乎还蕴含着更深层 的力量,但若想释放它们,也许 还需要另一位神明的力量.
+
+alfheim.entry.mjolnir=雷神之锤
+alfheim.tagline.mjolnir=雷霆惩戒
+alfheim.page.mjolnir0=雷神托尔的锤子--§1Mjölnir§0, 被认为是最可怕的武器之一. 当持有这把强大武器时,你的 所有攻击都会产生连锁雷电, 而当雷神之锤重击地面时,产 生的冲击波会对附近的所有 生物造成伤害.而潜行时则可 以朝远处发射雷电,或者将雷 神之锤扔向敌人.
+
+alfheim.entry.sif=诸神信仰 - 希芙
+alfheim.tagline.sif=生命,春意与不朽
+alfheim.page.sif0=§3希芙§0,§4亚萨神族§0中的生命女神. 她的§3神性§0让你具有强大的自 然亲和力,你可以空手右键植 物以加快其生长,随着神性的 增长,你可以让周围的树苗以 更快的速度生长,甚至是空手 在草地上变出§1神秘花§0.
+alfheim.page.sif1=欢迎光临,请拿好您的水晶杯
+
+alfheim.entry.garb_sif=神印祭礼袍 - 希芙
+alfheim.tagline.garb_sif=正面对决/背后捅刀
+alfheim.page.garb_sif0=没有哪个祭司会因为不穿祭 礼袍而被神明惩罚.<br>尽管你并不需要穿戴祭礼袍 以展现对神明的忠诚,但这些 设计时尚的祭礼袍实际上也 能为佩戴者提供增益.希芙祭 礼袍可以保护穿戴者免受任 何来自侧面的攻击,确保每一 场战斗都是光明正大的正面 对决.
+alfheim.page.garb_sif1=来吧!我就是§o为此而生的§0!
+
+alfheim.entry.ring_sif=希芙之戒
+alfheim.tagline.ring_sif=活下去
+alfheim.page.ring_sif0=作为§4天界§0的六大神明之戒 --§1希芙之戒§0能够扩大§1泰拉断裂 者§0,§1大地权杖§0,§1青山权杖§0以及所 有§1虹彩种子§0的作用范围. 如果你拥有§1活木弹弓§0,它还会 在您的背包里保留一个藤蔓 球.最后,你身上闪烁着的生命 光辉能让枯萎灌木丛重获生 机,变回仙人掌.<br>这枚戒指可以与其他五个 --§4众神§0戒指合并成终极神戒.
+
+alfheim.entry.rod_sif=丰饶原野之杖
+alfheim.tagline.rod_sif=天空中的七彩大地
+alfheim.page.rod_sif0=§1丰饶原野之杖§0,和§1大地法杖§0类 似,可以消耗魔力在空中创造 §1虹彩泥土§0. 与§1大地法杖§0略显单一的色调 不同,对空气潜行右键可以切 换不同颜色的§4虹彩§0. <br>活木枝化身可以使用这根法 杖
+alfheim.page.rod_sif1=淹没在五彩斑斓之中
+alfheim.page.rod_sif2=随着灵魂与古老的女神§4希芙 §0之间的链接进一步加深,你在 使用§1丰饶原野之杖§0时感到愈 发顺手,其可触及的范围可以 突破常规的极限.佩戴§1触物指 环§0可以进一步增加范围.
+
+alfheim.entry.njord=诸神信仰 - 尼奥尔德
+alfheim.tagline.njord=风暴,大海与天空
+alfheim.page.njord0=§3尼奥尔德§0,§4瓦尼尔神族§0中的风 暴与海洋之神.他的§3神性§0会让 你的身体具有水体亲和力,可 以行走在任何流体之上,甚至 可以直接在水面上进行建造. 此外,你的攻击会获得风暴之 力的加持,可以将敌人击退.右 键空中会让狂风托举着你的 身体,让你向面朝的方向突进 一段距离.
+alfheim.page.njord1=当末日降临,祂亦会归来
+
+alfheim.entry.garb_njord=神印祭礼袍 - 尼奥尔德
+alfheim.tagline.garb_njord=羽落
+alfheim.page.garb_njord0=没有哪个祭司会因为不穿祭 礼袍而被神明惩罚.<br>尽管你并不需要穿戴祭礼袍 以展现对神明的忠诚,但这些 设计时尚的祭礼袍实际上也 能为佩戴者提供增益.尼奥尔 德的祭礼袍允许穿戴者以缓 慢的速度慢慢飘落到地上.
+alfheim.page.garb_njord1=贝尔卡觉得可以
+
+alfheim.entry.ring_njord=尼奥尔德之戒
+alfheim.tagline.ring_njord=专业引导
+alfheim.page.ring_njord0=作为§4天界§0的六大神明之戒 --§1尼奥尔德之戒§0的佩戴者可以 真正的融入水的领域.无论是 步行还是划船,你的移动速度 都会显著提升,且不会因碰撞 而损坏你的船舶.你在水中会 获得更快的生命恢复速度,也 会在你钓鱼时为你带来好运.<br>这枚戒指可以与其他五个 ---§4众神§0戒指合并成终极神戒.
+
+alfheim.entry.rod_njord=风暴之海权杖
+alfheim.tagline.rod_njord=将敌人赶出私人空间
+alfheim.page.rod_njord0=§1风暴之海权杖§0适合那些想要 独处,且不希望他人随意闯入 私人空间的人.该法杖会在使 用者周围创造一片立场,排斥 一切生物和投掷物.任何想要 突破封锁的侵入物都会被击 退,同时消耗一些§4魔力§0.
+alfheim.page.rod_njord1=现在真的不想动
+alfheim.page.rod_njord2=与风之古神§4尼奥尔德§0的连接 可以增强使用该法杖的能力. 似乎魔源套装的§4魔力风箱§0也 有对该法杖有一些增益,虽然 加成较弱.
+
+alfheim.entry.daolos=海神战斧
+alfheim.tagline.daolos=海洋古神的神圣战斧
+alfheim.page.daolos0=海神战斧 - 司掌风暴与海洋的古神,尼奥 尔德的神秘战斧.这把战斧的 真名是被掩盖在历史之下的 秘密之一.在精灵智者中流传 着这样一个小故事:
+alfheim.page.daolos1=§o很久很久以前,谎言与欺诈之 神洛基试图欺骗风暴与海洋 之神尼奥尔德,询问这把神秘 战斧真正的符文名称.但尼奥 尔德听说过洛基的狡诈本性, 他敏锐的察觉到了谎言之神 眼中狡诈的光芒,因而拒绝了 他.
+alfheim.page.daolos2=§o为了保护自己的造物,尼奥尔 德用符文语言悄悄地对其诉 说:"不要告诉任何人你的名字, 除了....除了那些孩子们之 外,没人能够理解.在群星归位 之际,心底善良的孩童们能够 聆听到你的名讳.但除此之外, 绝对不能告诉其他人,永远"
+alfheim.page.daolos3=许多追寻这把神奇的人都会 有同一个疑问:"这个故事到底 是真是假?".一位不老不死又十 分古怪的医生给出了答案:"所 有的故事都曾发生,但当它们 被遗忘之际,便是虚假的."
+alfheim.page.daolos4=当然,海神战斧不仅仅是一个 有趣的故事,它还拥有非常实 用的能力.尽管这是一把战斧, 但没人说它不能用来砍树,且 在下雨时效率会更高些.它能 够造成水属性伤害,甚至通过 潜行右键来扑灭火焰
+alfheim.page.daolos5=海神战斧对水流本身也有一 定掌控力;它的攻击能对小范 围内所有水中的生物造成伤 害.当你在水面行走时,摁下右 键,水流就会帮助你加快移动 速度.
+
+alfheim.entry.loki=诸神信仰 - 洛基
+alfheim.tagline.loki=欺诈,陷阱与火焰
+alfheim.page.loki0=§3洛基§0,§4巨人族§0的火焰之神, 似乎是一个§o不错§0的信仰.他的 §3神性§0能赋予你免疫并吸收火 焰的能力.你可以像恶魂一样 将§1火焰弹§0发射出去,你也可以 空手挥出一道火焰射流,虽然 威力较小,但是并不消耗资源.
+alfheim.page.loki1=他在欺诈中还蛮幸运的
+
+alfheim.entry.garb_loki=神印祭礼袍 - 洛基
+alfheim.tagline.garb_loki=躲避你的攻击
+alfheim.page.garb_loki0=没有哪个祭司会因为不穿祭 礼袍而被神明惩罚.<br>尽管你并不需要穿戴祭礼袍以 展现对神明的忠诚,但这些设 计时尚的祭礼袍实际上也能 为佩戴者提供增益.洛基的祭 礼袍会保护佩戴者免受那些 常见把戏的伤害,例如火焰和 爆炸. 佩戴者还将获得10%的灵巧加 成以躲避攻击.
+alfheim.page.garb_loki1=由矮人的优质岩石所制成
+
+botania.page.lokiRing0n=作为§4天界§0的六大神明之戒 --§1洛基之戒§0允许佩戴者在多个 位置同时放置或操纵物体,就 像变戏法一样.<br>当佩戴§1洛基之戒§0时,用空手对 方块潜行右键即可设定标定 区域.
+botania.page.lokiRing3n=当然,天下没有免费的午餐.使 用这种能力会从消耗使用者 携带的§4魔力§0,每个放置的方块 都会消耗一定数量,需要注意 的是,选择的放置区域越多,每 个放置的方块的消耗便会更 多.<br>这枚戒指可以与其他五个 ---§4众神§0戒指合并成终极神戒.
+alfheim.entry.rod_loki=虚幻星火之杖
+alfheim.tagline.rod_loki=精确焰击
+alfheim.page.rod_loki0=§1虚幻星火之杖§0会在使用者所 指向的方向召唤一颗烈焰之 星,点燃小范围内的所有生物 并造成火焰伤害.
+alfheim.page.rod_loki1=炽焰之击
+alfheim.page.rod_loki2=与火焰之神§4洛基§0的连接能够 有效增强使用火焰之力的熟 练度.似乎魔源套装的§4魔力风 箱§0也有有一些增益.
+
+alfheim.entry.gleipnir=格莱普尼尔
+alfheim.tagline.gleipnir=我不能呼吸!
+alfheim.page.gleipnir0=§1格莱普尼尔§0由六种不存于现 世之物制成,坚不可摧却又如 蚕丝般纤细,是世界上最坚韧 的绳索,能够束缚一切生物. 可以像栓绳一样绑住任何 生物并强行拖拽它们.也可以 右键任意方块,以其为基础召 唤魔法锁链并束缚范围内的 生物.此外,潜行右键可以令其 环绕自身,可以抵挡伤害但难 以移动.
+
+alfheim.entry.heimdall=诸神信仰 - 海姆达尔
+alfheim.tagline.heimdall=命运,旅途与色彩
+alfheim.page.heimdall0=守卫彩虹之桥的§4亚萨神§0,§3海姆 达尔§0,似乎是一个有趣的神灵, 他的§3神性§0为你的双眸带来光 明,即使是黑暗也无法剥夺你 的视觉.手持§1彩虹桥法杖§0时, §4彩虹之桥§0将会出现在你的脚 下,允许你踏空而行.他看破一 切的目光也将告诉你附近生 物的弱点所在.
+alfheim.page.heimdall1=天界的守护者
+
+alfheim.entry.garb_heimdall=神印祭礼袍 - 海姆达尔
+alfheim.tagline.garb_heimdall=不同寻常的跃动
+alfheim.page.garb_heimdall0=没有哪个祭司会因为不穿祭 礼袍而被神明惩罚.<br>尽管你并不需要穿戴祭礼袍 以展现对神明的忠诚,但这些 设计时尚的祭礼袍实际上也 能为佩戴者提供增益.海姆达 尔的祭礼袍赋予了穿戴者空 间跳跃的能力,在奔跑的状态 下跳跃会让穿戴者朝目视的 方向闪现一小段距离.
+alfheim.page.garb_heimdall1=这就是...逮虾户的感觉!
+
+alfheim.entry.ring_heimdall=海姆达尔之戒
+alfheim.tagline.ring_heimdall=彩虹桥的尽头
+alfheim.page.ring_heimdall0=作为§4天界§0的六大神明之戒 --§1海姆达尔之戒§0的佩戴者能够 感知到附近所有生物的位置, 即使在墙壁后或是洞穴里,也 不再有突然出现或消失的苦 力怕或末影人,佩戴者附近所 有的传送都将被禁锢.手持末 影之眼将揭示最近地牢的方 向.<br>这枚戒指可以与其他五个 ---§4众神§0戒指合并成终极神戒.
+
+alfheim.entry.odin=诸神信仰 - 奥丁
+alfheim.tagline.odin=智慧,力量与神术
+alfheim.page.odin0=§3奥丁§0,§4亚萨神族§0的至高神明,似 乎是最值得信仰的神明.他的 §3神性§0将使信仰者的食物消耗 减少4倍.且信仰者的生命 值越低,造成的伤害就越高.
+alfheim.page.odin1=回光返照
+
+alfheim.entry.garb_odin=神印祭礼袍 - 奥丁
+alfheim.tagline.garb_odin=目力所及之外
+alfheim.page.garb_odin0=没有哪个祭司会因为不穿祭 礼袍而被神明惩罚.<br>尽管你并不需要穿戴祭礼袍 以展现对神明的忠诚,但这些 设计时尚的祭礼袍实际上也 能为佩戴者提供增益.奥丁的 祭礼袍使佩戴者对大多数敌 对生物隐形,拥有击退抗性的 同时,分解所有敌人投掷的药 水.
+alfheim.page.garb_odin1=比隐身斗篷好用
+
+botania.page.odinRing0n=作为§4天界§0的六大神明之戒 --§1奥丁之戒§0的佩戴者会获得更 强的抗性与体能.除了多出10颗心的 血量,§1奥丁之戒§0将保护 佩戴者免于各种元素伤害,溺 水,窒息,火焰或者饥饿.<br>这枚戒指可以与其他五个 ---§4众神§0戒指合并成终极神戒.
+alfheim.entry.rod_odin=爱因斯坦-罗森桥权杖
+alfheim.tagline.rod_odin=维度穿梭之杖
+alfheim.page.rod_odin0=在不同世界间的穿梭大多较 为艰难...有时候你得花上个一小 时来寻找特殊的传送门,甚至 是和强大如神明般的生物战 斗.无论是哪种方式,费时费力 的同时甚至还极其危险
+alfheim.page.rod_odin1=§1爱因斯坦-罗森桥权杖§0专为跨 位面穿梭而生.只需要调谐到 特定维度的频率,即站在目标 世界最常见的方块上,准备足 够的魔力以免在位面之间卡 住.你已掌握操纵虫洞的伟力.
+alfheim.page.rod_odin2=实际上这是彩虹桥
+alfheim.page.rod_odin3=与至高神§4奥丁§0的连接可以增强 你掌控虫洞的能力,允许你打 开通往终末之地的虫洞,但注 意,你的能力仍不足以从那里 逃脱.
+
+alfheim.entry.gungnir=永恒之枪
+alfheim.tagline.gungnir=GAR5 - 枪骑兵
+alfheim.page.gungnir0=坚不可摧,无法阻挡,永不遗失 - 对奥丁的永恒之枪§1冈格尼尔 §0的最好描述.只需简单的摁下右键,无论多 么遥远的敌人都将在须臾间 被贯穿.也可以向前投掷,撕碎 所有眼前的敌人.
+
+alfheim.entry.soulSword=摄魂之剑
+alfheim.tagline.soulSword=媲美妖刀村正的锋刃
+alfheim.page.soulSword0=泰拉之刃毫无疑问是一把出 色的武器,锋利且耐用,但它有 一个巨大的缺陷...它自我进 化的天赋被抑制了.幸运的是, 神性能够转变泰拉钢的本源, 而一把潜力无穷的武器便由 此而诞生.
+alfheim.page.soulSword1=尘世的本源力量 - 泰拉钢,与大地之力的本源 - 盖亚魂锭, 二者之间的融合,造就了一把 依靠吸收剑下亡魂自我强化 的锋刃.
+alfheim.page.soulSword2=制造 §1摄魂之剑§0
+alfheim.page.soulSword3=若想修复它,只需要携带一些 §1盖亚之魂§0,并对着空气潜行右 键即可.
+
+alfheim.entry.gjallarhorn=加瓦尔之号
+alfheim.tagline.gjallarhorn=宣告胜利(或是结束?)
+alfheim.page.gjallarhorn0=这个号角属于海姆达尔,保护 着彩虹桥的守护者.传说,当诸 神黄昏降临的时候,加瓦尔之 号将被吹响,它的声音席卷九 大世界,昭告着末日将临,并号 召每一位战士保卫天界
+alfheim.page.gjallarhorn1=当凡人使用这个号角时,将会 召唤一位英灵战士,他曾是凡 人中的战士,因无畏的勇气与 非凡的功绩而被英灵神殿所 接纳.在困难时期,甚至可以一 次性召唤五位伟大的战士.
+
+alfheim.entry.aesir=众神徽章
+alfheim.entry.abyss=破誓者
+alfheim.tagline.abyss=转动漆黑之环
+alfheim.page.abyss0=§o转动那苏醒的§1§o天界之轮§0§o,如同 §3§o海姆达尔§0§o守护的彩虹之桥那 般绚丽多彩. 在那§3§o尼奥尔德§0§o的§1§o大海§0§o之中,如 海中深渊般湛蓝. 在那§3§o托尔§0§o的§1§o天穹§0§o之上,如凌空 烈日般闪耀.
+alfheim.page.abyss1=§o在那§3§o洛基§0§o的§1§o烈焰§0§o之中,如源头之血般鲜红.在那§3§o希芙§0§o的§1§o大地§0§之上,如同广袤原野般翠绿.在那§3§o奥丁§0§o的§1§o神殿§0§o之中,如同他的智慧般洁白,这,便是你的起点.
+alfheim.page.abyss2u=§o连接他们的灵魂,激活一枚令 牌,随后你也许会看到一个 ---§3§o全新的开始§0§o.
+alfheim.page.abyss2=§o献祭他们的灵魂,燃烧一枚令 牌,随后你也许会看到 ---§4§o终末之地§0§o.
+alfheim.page.abyss3u=§o这一页似乎是空的
+alfheim.page.abyss3=§o至世界树的北部,是那尼弗 尔海姆-永远充斥着寒冷与冰 雪的领域...<br>§o击败尼弗尔海姆之主,冰霜巨 人索列姆,向神明们证明你的 力量.
+alfheim.page.abyss4u=§o这一页似乎是空的
+alfheim.page.abyss4=§o由于尼弗尔海姆守护者的死 亡,无人控制的冰寒之力开始 蔓延至其他世界.但不比担心, 穆斯帕尔海姆之主-苏尔特正 积蓄他所有的力量,准备封印 时空的极寒之力.
+alfheim.page.abyss5u=§o这一页似乎是空的
+alfheim.page.abyss5=§o苏尔特与他的部落一直以恶 毒与狡诈闻名于世.愤怒是他 们的锋刃,烈焰是他们的铠甲. 正如火焰巨人所坚信,他们必 然同志整个宇宙.人类,精灵,亚 萨族,瓦尼尔族,矮人... 如果没人能阻止苏尔特的军 队,那么所有人都将遭到这些 火焰怪物的压迫与统治.
+alfheim.page.abyss6u=§o这一页似乎是空的
+alfheim.page.abyss6=§o六位伟大的存在会选择承载 他们力量的使者,以行使他 们的意志.被选中的使者将通 过战斗来考验你,从现在开始, 他们将是你的处刑者.只有通 过击败他们向伟大存在证明 你的力量,才能获得你应得的 赐福与奖励. 使用§1摄魂之剑§0,以证明 ---你的决心与意志!
+
+alfheim.entry.vafthrudnir=知识,智慧与传说
+alfheim.tagline.vafthrudnir=现在!停下来!
+alfheim.page.vafthrudnir0=研究原初深渊的魔法师们一 直人文,这是一片混乱与无序 的海洋,九大世界不过是拥有 秩序的岛屿.宇宙出现了裂缝, 无尽的深渊通过这些裂缝不 断地扩散与渗透
+alfheim.page.vafthrudnir1=§1现实之锚§0能在这种情况下提 供帮助,它将稳定半径300格内的 世界,但需要消耗大量的魔力. 彩虹之壁与现实之锚之间必 须有§4液体魔力§0,且不可以在魔 力池中,必须独立存在.但不幸 又无奈的是,它只能保护世界 的一部分,无法完全阻止末日 的降临.但我们真的束手无策 了吗?
+alfheim.page.vafthrudnir2=制造 §1现实之锚核心§0
+alfheim.page.vafthrudnir3=现实之锚
+alfheim.page.vafthrudnir4=我们都记得创世的传说:最初, 只有原初深渊的存在,§4穆斯帕 尔海姆§0与§4尼弗尔海姆§0是最先 出现的两个世界,一切的一切 都来自于它们,它们诞下了§4伊 米尔§0,在他被诸神杀死后,死去 的躯体中诞生了§4尘世§0.... 但这些知识在即将到来的黑 暗面前又有什么用呢?
+alfheim.page.vafthrudnir5=为了修补宇宙的裂缝,我们必 须先明确以下事实:原初深渊 是没有法则的,无序混乱的.伊 米尔的诞生也并非偶然,而是 两中始源之力的结合.随后发 生的谋杀为混沌宇宙中带来 了秩序,法则出现在了无序混 乱的深渊之中.
+alfheim.page.vafthrudnir6=因此,我们需要进入两个始源 世界,从中汲取所需的能量. 这个任务只能由§4现实之力汲 取器§0完成,它们会将力量聚集 到一处
+alfheim.page.vafthrudnir7=在力量汇聚之地,放置§4创生水 晶§0,它将两大始源之力合二为 一,产生的创生之力将引导至 两个§1沉睡尖塔§0,转换为§4秩序之 能§0.随后,沉睡尖塔将这些能量 引导至天穹之上,如同交错的 辐条般,修复现实的裂缝,编织 构成宇宙的基态物质
+alfheim.page.vafthrudnir8=§1空白裂缝碎片§0可以用于收集 构成世界的基态物质,但它也 因为现实裂缝的影响而变得 混乱.虽然这些物质仍然有序 且能稳定存在,但已经具备了 额原初深渊的属性,因此可以 被用来创造并操纵物体.
+alfheim.page.vafthrudnir9=基态物质可以通过三种方式 收集:直接从世界中出现的裂 缝处获取,通过吸收尼弗尔海 姆寒冷河流中的极寒之力,以 及吸收穆斯帕尔海姆深处熊 熊燃烧的湖泊中存在的炽热 之力.
+alfheim.page.vafthrudnir10=制造 §1空白裂缝碎片§0
+alfheim.page.vafthrudnir11=制造 §1现实之力汲取器核心§0
+alfheim.page.vafthrudnir12=制造 §1现实之力汲取器框架§0
+alfheim.page.vafthrudnir13=制造 §1沉睡尖塔§0
+alfheim.page.vafthrudnir14=制造 §1创生水晶§0
+alfheim.page.vafthrudnir15=开天辟地之举
+alfheim.page.vafthrudnir16=§o以海姆达尔之名,令你的灵魂 于彩虹桥前行千步,直至那天 界揭示你的罪行<br>§o以尼奥尔德之名,令你的灵魂 于极寒之河中荡涤,直至那源 水洗刷你的罪恶<br>§o以托尔之名,令你的灵魂被无 穷雷电所淬炼,直至那雷霆净 化你的罪恶
+alfheim.page.vafthrudnir17=§o以洛基之名,令你的灵魂于炽 热之湖中燃烧,直至那熔岩焚 尽你的罪恶<br>§o以希芙之名,令你的灵魂葬于 尘世沃土之下,直至那大地抚 平你的罪孽<br>§o以奥丁之名,令你的灵魂飞升 至世界树之巅,直至那烈阳赦 免你的罪责
+
+################################################################ BACKPORT ################################################################
+
+botania.page.cosmeticBaubles34=真正的思考
+
+botania.page.pool15=注魔 §1梦之木棍§0
+
+botania.page.lens38=§1信使透镜§0大大减少了每束§4魔 §4力射线§0携带的§4魔力§0,但大幅度 增加了射线的速度和最远射 程. <br>在和§1魔力检测器§0,§1浮动火把§0等 物品的交互之中非常实用
+botania.page.lens39=信使透镜
+
+botania.page.lens40=§1推力透镜§0使魔力脉冲可以将 第一个碰到的实体向后持续 推动.
+botania.page.lens41=推力透镜
+
+botania.page.lens42=§1熔炼透镜§0就像一个熔炉,使魔 力脉冲可以将碰到的方块进 行熔炼.
+botania.page.lens43=熔炼透镜
+
+botania.page.lens44=§1追踪透镜§0使魔力脉冲能够持 续追踪3米内遇到的第一个实 体,直到实体死亡或脉冲耗尽.
+botania.page.lens45=追踪透镜
+
+botania.page.elvenLenses11=§1拌线透镜§0可以检测前方是否 有生物经过,只有在发射器射 出的魔力射线的轨道里有生 物经过的时候才会发射§4魔力 §4射线§0
+botania.page.elvenLenses12=拌线透镜
+
+botania.page.elvenLenses13=§1超导透镜§0允许魔力脉冲携带 数量极其庞大的魔力,极大的 提升魔力传输效率.<br>但也会导致魔力脉冲对接触 的生物造成高额伤害.
+botania.page.elvenLenses14=超导透镜
+
+botania.page.elvenLenses15=§1净化透镜§0使魔力脉冲能够净 化接触到的方块,类似于白雏 菊,不过是瞬时的.<br>此外,还可以溶解注入到物品 中的魔力.
+botania.page.elvenLenses16=净化透镜
+
+botania.page.elvenLenses17=§1回链透镜§0允许魔力脉冲持续 恢复魔力,只要它仍在发射源 的范围内,发射源可以是§1魔力 发射器§0或§1魔力脉冲枪§0.<br>其最大的作用是与其他功能 性透镜进行配合使用
+botania.page.elvenLenses18=回链透镜
+
+botania.page.elvenLenses19=§1断链透镜§0会解除§4魔力脉冲§0与 §1魔力发射器§0的链接,从而获得 更高的发射频率,但如果因各 种原因发射失败,也可能会额 外的§4魔力§0损失.
+botania.page.elvenLenses20=断链透镜
+
+botania.page.luminizerTransport7=将一个§1拉杆§0和§1微光§0结合,可以 制作一个§1开关式微光§0,在接收 到§4红石信号§0时,§1开关式微光§0会 扔下所有经过的物体.在未接 收到的时候,会像往常一样工 作.
+botania.page.luminizerTransport8=信号接入
+botania.page.luminizerTransport9=将一个§1微光§0与一个§1浮动火炬 §0结合,可以制作一个§1分流微光§0, 它会根据上方或下方两格内 的动态火炬指向的方向,将经 过的物体传送到对应方向.
+botania.page.luminizerTransport10=分流微光仍然可以被正常的 绑定,但只有在缺少浮动火炬 的指向时(或在指向方向没有 微光时),才会使用绑定的设置.
+botania.page.luminizerTransport11=这条,或者另一条
+
+botania.page.arcanerose0a=§1经验§0也是一种特殊的魔力. §4阿卡纳蔷薇§0可以吸收附近玩 家的经验或地上的经验球,并 转换为§4魔力§0
+botania.page.overgrowthSeed2=同样可以用于浮空花朵,赋予 浮空土壤与§1蕴魔土§0类似的属 性
+
+alfheim.entry.amulCirs=触空护符
+alfheim.tagline.amulCirs=二 段 跳
+alfheim.page.amulCirs0=§1触空护符§0可以赋予佩戴者§4二 §4段跳§0的能力,在第二次跳跃的 时候所有累积的下落动能和 伤害都会被重置
+alfheim.page.amulCirs1=向云朵祈祷
+
+alfheim.entry.amulNimb=雷云护符
+alfheim.tagline.amulNimb=三 段 跳
+alfheim.page.amulNimb0=§1雷云护符§0是§1触空护符§0的升级 版,融合了§1盖亚之魂§0的力量 它能让佩戴者§4三段跳§0
+alfheim.page.amulNimb1=魔法 > 物理
+
+alfheim.entry.mitten=魔纹连指手套
+alfheim.tagline.mitten=法杖魔力大折扣
+alfheim.page.mitten0=对于那些魔力经常不足的人 来说,最好的解决办法便是使 用魔纹连指手套,它将提升你 的魔法水平,降低工具与法杖 的魔力消耗.
+alfheim.page.mitten1=仅限今天!5折魔力!法杖随便用!
+
+alfheim.entry.aniTorch=浮动火炬
+alfheim.tagline.aniTorch=紧凑式逻辑带浮动红石火把
+alfheim.page.aniTorch0=§1浮动火炬§0是一个利用魔力浮 起来的红石火把,放置的时候 将面对水平方向,向指向的方 向提供能量. 摁住Shift并右键可以让火 炬旋转90度从而将能量输出 更改为新的方向
+alfheim.page.aniTorch1=默认情况下,每次被激活的时 候,火炬会水平旋转180度 <br>想要激活火炬,可以使用魔力 脉冲或者悬浮沙漏来向其输 出信号.
+alfheim.page.aniTorch2=用森林法杖可以更改火炬的 模式,默认模式是§4翻转§0,已经 在上一页里进行了说明 <br>其他两种模式分别是§4旋转§0 (每次激活火炬旋转90度)和 §4随机§0(每次激活火炬会向随机 方向旋转)
+alfheim.page.aniTorch3=它跌倒了 而且没办法再立起来了
+
+alfheim.entry.astrolab=创世星盘
+alfheim.tagline.astrolab=一个用来制造平面的工具
+alfheim.page.astrolab0=§1创世星盘§0可以为使用者节省 非常多的时间,一次性可以放 下非常多的方块. <br>首先,手持创世星盘并潜行右 键目标方块.<br>将视角移到空中并潜行右键 以更改单次放置的方块数量.
+alfheim.page.astrolab1=当你设定好了要放置的方块 之后,星盘就会将虚拟影像投 影到你的瞳孔里,你可以看到 方块将会放置的位置. <br>要制造你看到的墙或者地板, 你需要使用§4魔力§0将方块从你 的背包,或者是一些可以提供 方块的物品中提取出来.
+alfheim.page.astrolab2=建造墙壁 创造世界
+
+alfheim.entry.armilla=创世星体仪
+alfheim.tagline.armilla=Minecraft里的球体?又来?
+alfheim.page.armilla0=§1创世星体仪§0与§1盖世六分仪§0类似, 除了一个较大的区别 - §1创世星体仪§0能够在三维工作, 可以创建一个三维的圆形,即 球体.
+alfheim.page.armilla1=打造你自己的拉普达
+
+alfheim.entry.cloakInv=隐形斗篷
+alfheim.tagline.cloakInv=物如其名
+alfheim.page.cloakInv0=§1隐形斗篷§0不需要太多的解释.<br>这个小道具会利用§4魔力§0来将 佩戴者和身上的饰品隐藏,只 要有足够的魔力
+alfheim.page.cloakInv1=大法师史蒂夫
+
+alfheim.entry.dodgRing=灵动之戒
+alfheim.tagline.dodgRing=向侧面翻滚以躲避攻击
+alfheim.page.dodgRing0=§1灵动之戒§0可以在佩戴者需要 的时候让他快速向左/右移动 一小段距离,可以躲避战斗中 的一些攻击. 通过快速摁下两次左移键或 者右移键来快速向一旁并闪 避袭来的攻击. 使用后将会有一小段的冷却 时间,并且会消耗一些饥饿值
+alfheim.page.dodgRing1=敏捷的奖励
+
+alfheim.entry.spider=蜘蛛戒指
+alfheim.tagline.spider=帮助你跨越任何障碍
+alfheim.page.spider0=§1蜘蛛戒指§0赋予佩戴者蜘蛛般 的抓地力,可以翻越悬崖峭壁, 并保护佩戴者免受任何高度 的摔落伤害.
+alfheim.page.spider1=快看!蜘蛛侠!
+
+alfheim.entry.manaDrive=魔力驱动戒指
+alfheim.tagline.manaDrive=为附近的花朵提供魔力
+alfheim.page.manaDrive0=也许你曾想短暂的为一些功 能花提供魔力,但不想使用或 没有携带魔力池,那么§1魔力驱 动戒指§0可以帮助你解决问题, 它能将你身上的魔力石板或 魔力戒指中的存储的魔力转 化为功能花朵能够吸收的魔 力流.
+alfheim.page.manaDrive1=有些时候会有所帮助
+
+alfheim.entry.iceberg=冰山吊坠
+alfheim.tagline.iceberg=冰冷刺骨的凝视
+alfheim.page.iceberg0=§1冰山吊坠§0是§1雪花吊坠§0的升级 版,注入了§1极寒之魂§0的力量,该 吊坠的佩戴者可以通过凝视 对任何生物造成伤害,刺骨的 致命霜寒也会使目标生物变 得迟缓且虚弱.
+alfheim.page.iceberg1=冰封
+
+alfheim.entry.ration=旅行者的速食腰带
+alfheim.tagline.ration=第二张嘴
+alfheim.page.ration0=在进行奇妙的魔法实验,或深 处激烈的战斗中时,很难有时 间填饱肚子.幸好.精灵的工匠 大师们早已发明了一种能自 动进食快捷栏中的食物,并为 主人提供营养的§1旅行者的速 食腰带§0
+alfheim.page.ration1=力量胜于虚弱
+
+botania.page.judgementCloaks1n=§1神圣斗篷§0可以完全抵挡佩戴 者受到的伤害<br>§1罪恶斗篷§0会让周围生物和佩 戴者承受一样的伤害.<br>§1均衡斗篷§0可以将佩戴者受到 伤害的一半返还给攻击者,同 时它也可以防止佩戴者死亡.
+botania.page.judgementCloaks4=共享苦痛
+
+alfheim.entry.aquapanthus=百水莲
+alfheim.tagline.aquapanthus=将容器灌满
+alfheim.page.aquapanthus0=§1百水莲§0可以利用少量的魔力 为附近的坩埚或花药台灌水. 它还可以填充一些大部分植 物魔法师未曾听说的液体容 器
+alfheim.page.aquapanthus1=要漏出来了
+
+alfheim.entry.aconite=凋灵菟葵
+alfheim.tagline.aconite=来自群星的魔力
+alfheim.page.aconite0=§1凋灵菟葵§0会从下界之星中提 取魔力.凋灵菟葵无法在消化 一个下界之星的同时吸收另 一个,也无法防止掉落的下界 之星在5分钟后消失.
+alfheim.page.aconite1=不是方块哦
+
+alfheim.entry.goddessCharm=仁慈女神的链饰
+alfheim.tagline.goddessCharm=防止爆炸破坏世界
+alfheim.page.goddessCharm0=仁慈女神的链饰是一种守护 性的饰品,可以佩戴在护符槽 位中.它会使用魔力,防止佩戴 者附近发生的爆炸毁坏任何 方块.
+alfheim.page.goddessCharm1=让炸弹离孩子们远点
+
+################################################################ EBT ################################################################
+
+alfheim.entry.subspear=亚空之矛
+alfheim.tagline.subspear=这不符合常规的认知
+alfheim.page.subspear0=§1亚空之矛§0可以撕裂现实的边 界,从亚空间召唤致命的能量 射线攻击敌人, 也可以向前投掷.
+
+alfheim.entry.moonbow=日耀灾变
+alfheim.tagline.moonbow=比烈阳更为纯净
+alfheim.page.moonbow0=§1日耀灾变§0使用§4魔力§0射出穿透 一切的魔法箭矢.拉弓的时间 越强,更多的魔力就会进入这 把长弓,射出的魔法箭矢就更 具威力(伤害有上限)
+#alfheim.page.moonbow1=一百次射击 一百次靶心
+
+alfheim.entry.dasGold=莱茵的黄金
+alfheim.tagline.dasGold=遗物解绑器
+alfheim.page.dasGold0=§1莱茵的黄金§0可以清除遗物的 灵魂绑定,只需要将它和遗物 进行合成即可. 如果你想让遗物灵魂绑定到 某人, 手持§1莱茵的黄金§0,右键目标 人 将完成绑定的§1莱茵的黄金§0和 遗物一起合成即可.
+alfheim.page.dasGold1=我们需要更多的黄金
+
+alfheim.entry.multbaub=精灵王之戒
+alfheim.tagline.multbaub=同时使用七种戒指
+alfheim.page.multbaub0=§1精灵王之戒§0可以将六个戒指 的效果融为一体,只需要携带 一个§1饰品盒子§0,然后将你想要 的戒指放在最上面那一行. 当然,并不是所有的戒指都可 以被使用,就像遗物一样
+alfheim.page.multbaub1=你无法欺骗我
+
+################################################################ ESM ################################################################
+
+alfheim.entry.es= 精灵传说
+alfheim.tagline.es=新的挑战!
+alfheim.page.es0=恭喜,你选择了§4精灵传说模式(ESM)§0! 现在你是一名出生在艾尔夫 海姆的精灵. 你首先需要做的是确保能够 活下来,接下来,你需要找到 通往尘世的门户. 所有需要的信息都在你的§1植 §1物魔法手册§0当中,愿众神的祝 福指引着你!
+
+alfheim.entry.races=种族
+alfheim.tagline.races=这并不是传统意义上的种族
+alfheim.page.races0=即使是§4赫尔§0本人页没能摧毁精灵 乡的美好生活. 这个世界是精灵族的家园,九 个种族居住在距离世界中心 距离相等的位置,他们分别是 §2Salamanders§0, §2Sylphes§0, §2Cait Sith§0, §2Pookas§0, §2Gnomes§0, §2Leprechauns§0, §2Spriggans§0, §2Undines§0, §2Imps§0.
+alfheim.page.races1=每个种族都有自己独特的翅 膀,翅膀的形状和颜色也各不 相同. 同时每个种族都有自己的图 腾,还有一些与生俱来的能力, 如果需要,可以摁下能力切换 键将其关闭(默认为"m")
+alfheim.page.races2=默认情况下,可以通过摁下 "F"键来激活飞行能力,如果 想要飞的更快,可以摁下加速 键以增加25%的飞行速度. 但是请记住,精灵的体能是有 限的,飞行的越快,可以飞行 的时间就越少
+alfheim.page.races3=能力:<br>火精灵: 在承受debuff的时候,有概 率可以将其削弱(例如中毒 等).<br>风精灵: 飞行和飞行时间的回复速度 提升20%.<br>自然精灵: 可以徒手驯服生物,并且赋予 被驯服的生物更强的生命力.
+alfheim.page.races4=妖精灵: 可以模仿猫的大叫声以吓跑 爬行者.还可以在站立不动的 时候回复生命力和饱腹度.<br>地精灵: 可以感知以自身为中心半径 八格范围内的矿石,但仅在 潜行的时候生效.<br>矮精灵: 近战造成的伤害增加10%.
+alfheim.page.races5=夜精灵: 完美的夜视能力,并且免疫失 明.<br>水精灵: 可以在水下进行呼吸,且可以 缓慢吸取水中的魔力.<br>魔精灵: 修理盔甲和工具以及使用魔 法时的法力消耗降低了20%, 在使用法杖的时候也仍然有 效.
+
+################################################################ MMO ################################################################
+
+alfheim.entry.parties= 盟约
+alfheim.tagline.parties=是时候来一场派对了!
+alfheim.page.parties0=游戏内有创建§4盟约§0的能力.默 认情况下,一份盟约最多容纳 五名成员.盟约可以阻止成员 间的伤害.可以自动感知视野 范围内盟友的§4生命值§0和§4魔力 值§0,并提示他们身上的效果
+alfheim.page.parties1=要邀请新成员,首先需要一只 §1和平烟斗§0.首先,由盟约§4领袖§0首 先使用烟斗,随后由想要加入 盟约的人使用烟斗,烟斗破碎, 即完成加盟.
+alfheim.page.parties2=制造 §1和平烟斗§0
+alfheim.page.parties3=如果出于某种原因你需要离 开盟约或者踢出某人-只需要 在§1盟约羊皮纸§0上写下他的名 字并且将其烧毁(右键即可). 唯一的条件是使用者必须是 该盟约的领袖(红色名称),并 且踢出的成员必须在使用者 的视线内.
+alfheim.page.parties4=制造 §1盟约羊皮纸§0
+
+alfheim.entry.spells=魔法
+alfheim.tagline.spells=霍格沃兹外禁止使用魔法!
+alfheim.page.spells0=每个精灵种族都有自己的专 属§1魔法§0,且和种族有一定关 联: §2Salamanders§0-§4火焰§0 §2Sylphs§0-§4风暴§0 §2Cait Sith§0-§4自然§0 §2Pookas§0-§4乐曲§0 §2Gnomes§0-§4浩土§0 §2Leprechauns§0-§4机械§0 §2Spriggans§0-§4幻象§0 §2Undines§0-§4坎水§0 §2Imps§0-§4黑暗§0
+alfheim.page.spells1=在使用§1魔法§0前,需要一段时间 进行吟唱.在释放完成后,需要 一段时间等待魔力平稳.
+alfheim.page.spells2=使用方向键更改要释放的§4法 §4术§0,然后摁下[C]进行释放. 另外,可以通过摁住Ctrl+Shift 的同时点按数字键以设置快 捷魔法,通过摁下Ctrl和 1 - =对应的按键即可释 放. 也可以通过[X]来取消释放
+alfheim.page.spells3=释放§1魔法§0所需的魔力和手册 中所记载的相同,但如果你的 种族对§1魔法§0所使用的元素具 备亲和力,释放魔法所需的法 力将会减少. 另外,某些种族具有§4禁忌魔法§0, 魔力消耗不会改变.
+alfheim.page.spells3u=释放§1魔法§0所需的魔力和手册 中所记载的相同,但如果你的 种族对§1魔法§0所使用的元素具 备亲和力,释放魔法所需的法 力将会减少. 另外,某些种族具有§4禁忌魔法§0, 魔力消耗不会改变,且无法在缺少某些知识的情况下使用.
+alfheim.page.acidmyst=释放毒液,对半径9格区域内的 生物造成轻度中毒.
+alfheim.page.aport=将位于施术者附近的宠物全 部召唤到施术者身边并攻击 目标。由于传送不做区分， 请让你的非战斗宠物远离战 场。
+alfheim.page.aquabind=将区域内所有生物束缚在一起, 并附带减速效果
+alfheim.page.aquastream=朝目视方向持续发射水流,造 成轻度水属性伤害.移动会打 断释放
+alfheim.page.battlehorn=鼓舞周围盟友的士气,增加他 们的速度力量和抗性
+alfheim.page.beastwithin=为目标施加速度提升,并使其 的攻击附带流血效果
+alfheim.page.blink=让您向前传送最多八格
+alfheim.page.bunnyhop=为目标施加跳跃提升的效果
+alfheim.page.butterflyshield=为目标增加魔法护盾,可以完 全吸收三次魔法伤害,并且吸 收50%其他类型的伤害
+alfheim.page.call=将目标传送到自己身边,如果 目标是玩家,则忽略维度强行 传送
+alfheim.page.confusion=对目标施加反胃效果
+alfheim.page.darkness=召唤一片完全黑暗的夜幕,所 有非夜精灵的生物都会失明, 同时极大的减缓速度.相反,夜 精灵会获得速度,生命恢复和 伤害的增益.
+alfheim.page.day=扭曲时间 强行变为白昼
+alfheim.page.deathmark=对目标施加印记,如果没有及 时移除,则对目标造成巨额咒 印伤害
+alfheim.page.decay=大大降低目标的自愈能力, 任何伤害都会使目标流血
+alfheim.page.dispel=去除盟友所有的负面效果和 敌人的正面效果; 目标会感到反胃如果身上并 没有任何buff
+alfheim.page.dragongrowl=恐吓以自身为中心16格半径 的范围内的所有敌人,使敌人 失明,虚弱并减速
+alfheim.page.driftingmine=发射(摁下[shift]则会在原地 留下)一颗炸弹,在撞到实体 或者方块的时候爆炸,造成范 围伤害
+alfheim.page.echo=寻找以自身为中心半径16格 范围内所有的物品和生物
+alfheim.page.edgeLife=给予施术者一段不死时间， 一旦死亡HP就会恢复到1。 发动时，瞬间消耗一半血量。
+alfheim.page.fenrirstorm=对目视方向以自身为半径最 多16格范围内的敌人造成高 额的雷电伤害
+alfheim.page.fireball=发射一枚火球,在撞到实体或 方块的时候爆炸,对以爆心周 围半径两格范围内的敌人造 成火焰伤害
+alfheim.page.firestar=制造一个新星,范围内的友军 将免疫火焰并缓慢恢复生命 值;范围内的敌人将被点燃并 受到伤害
+alfheim.page.firewall=在施法者面前制造一堵火墙, 用于阻挡敌人,点燃试图靠近 的实体并造成火焰伤害
+alfheim.page.goldrush=可以提高盟友在采矿时的速 度和运气
+alfheim.page.gravitytrap=创造一个重力奇点,该奇点会 将以自身为中心4格半径内的 范围内,以及上方16格内的所 有敌人拉入中心并持续造成 重力伤害
+alfheim.page.hammerfall=用魔力锤击地面,对以自身为 中心半径10格范围内所有所 站方块不够坚固的敌人造成 窒息伤害
+alfheim.page.harp=召唤仙琴,使以其为中心16格 范围内所有的盟友获得恢复 效果,同时清除debuff
+alfheim.page.healing=为所有盟友提供一定的回复 和饱腹度
+alfheim.page.hollowbody=对目标施加隐身buff
+alfheim.page.hystrix=为你的盟友提供短暂的被动 防护，每次受到攻击时， 该防护会对周围的所有人 （除队友外）进行反击。
+alfheim.page.icelens=在面前召唤一面冰镜,极大的 拓展视线
+alfheim.page.ignition=点燃任意16格范围内的方块
+alfheim.page.isaacstorm=发射大批魔法导弹,每个飞弹 都会选择一个与目标同类型 的生物进行攻击 (下蹲时则只会攻击选定的目 标),并在击中敌人的时候造 成高额的伤害.<br>要你命3000
+alfheim.page.join=将你传送到所选目标身边,甚 至允许跨越维度
+alfheim.page.leafstorm=召唤大量旋飞的树叶,为友军 提供速度提升并对敌人造成 伤害
+alfheim.page.liquification=在以自身为中心半径16格范 围内任意一个方块生成水源, 也可以用来补充炼药锅
+alfheim.page.mortar=发射一块土元素聚集而成的 岩石,对命中的目标造成坠落 伤害,破坏其护甲的同时对半 径2.5格范围内的生物造成地 属性伤害
+alfheim.page.night=扭曲时间 强行变为黑夜
+alfheim.page.nightvision=对选定的盟友施加夜视效果
+alfheim.page.ninelives=使目标免疫一次来自下列负 面效果造成的致命伤,并获得 短暂无敌.负面效果:坠落: 溺水,凋零(50%概率),燃烧,毒素
+alfheim.page.noclip=对目标施加可以穿过方块的 buff,但注意,目标需要能够 飞行并且处于空中.
+alfheim.page.noteshot=发射音符,对敌人造成伤害并 使其短暂晕厥
+alfheim.page.outdare=挑衅半径32格内的敌人,使施 法者成为其主要攻击目标
+alfheim.page.poisonroots=将己方的负面效果转移给半 径16格范围内的敌人,同时进 一步施加减速效果
+alfheim.page.priorityTarget=命令你的队伍攻击指定目标， 赋予吸血效果并提升攻击时 的伤害，但会降低对非指定 目标的伤害并对违抗命令的 队友造成伤害。
+alfheim.page.purifyingsurface=清除半径五格内的盟友身上 的中毒效果,并赋予火焰免疫.
+alfheim.page.rain=引发降雨/雷暴
+alfheim.page.repair=为手持物品恢复一定耐久
+alfheim.page.resurrect=在一个盟友死后一段时间内 在他阵亡的位置复活他,回复 10点生命值
+alfheim.page.sacrifice=施法者将自己献祭给黑暗,对 半径32格范围内的所有人 (包括盟友),造成巨大的伤害 同时施法者自身也会死亡 <br>EXPLOSION!!!!
+alfheim.page.shadowvortex=将周围的所有生物传送到随 机位置,并用暗能量造成伤害
+alfheim.page.smokescreen=制造一片烟雾,使半径16格范 围内的敌人失明
+alfheim.page.stoneskin=对目标施加防护buff,可以使 目标完全免疫并吸收一次伤 害,并将伤害转化为额外的生 命值
+alfheim.page.sun=停止下雨/雷暴
+alfheim.page.swap=交换施法者和其目标,如果是 敌对目标则施加伤害,如果是 盟友则治疗如果目标是玩家, 则忽略距离甚至是维度.
+alfheim.page.thor=在以自身为中心32格范围内 任意面朝的方块上召唤闪电
+alfheim.page.throw=将施法者向面朝的方向推出, 同时对路径上的敌人造成一 定伤害
+alfheim.page.thunder=制造雷暴/增加降雨级别
+alfheim.page.timeAnchor=一段时间后，将传送目标传 送至施法瞬间的位置，并将 盟友的生命值设置为之前和 当前状态的最大值，而敌人 的生命值则设置为最小值。
+alfheim.page.timeConquest=对该法术的目标发动攻击时， 每命中一次，施术者的所有 法术冷却时间将减少其最大 值的5%。
+alfheim.page.timestop=在半径16格范围内停止时间<br><br>砸,瓦鲁多! toki-wo-tomare!
+alfheim.page.titanhit=破坏前方3x3范围内的方块, 方块硬度越高,耗魔越高
+alfheim.page.truesight=使你可以大致知道目标所拥 有的魔力值,§1灵魂之火§0越高越 亮,则魔力值越高
+alfheim.page.uphealth=提升目标的生命上限
+alfheim.page.voodooDoll=巫毒法术的第一部分<br>将施术目标变为巫毒娃娃， 所有对目标的伤害也会传递 到被第二部分法术标记的目 标身上。
+alfheim.page.voodooTarget=巫毒法术的第二部分<br>用来标记承受伤害的目标。
+alfheim.page.wallwarp=允许施法者穿过不厚的墙壁
+alfheim.page.warhood=召唤所有盟约里的盟友到你 的身边,即使在不同维度
+alfheim.page.waterbreathing=为盟约里的盟友施加水下呼 吸效果
+alfheim.page.wellolife=对目标施加可以在水中回复 生命值的buff
+alfheim.page.whisper=使你和目标同时陷入昏迷状 态，使双方均无法移动、造 成伤害或施放法术。
+alfheim.page.windblades=向施法者面朝的方向发射空 气圆刃,对触碰到的敌人造成 一定风属性伤害
+
+alfheim.entry.targets= 标记目标
+alfheim.tagline.targets=你将无所遁形
+alfheim.page.targets0=为了更方便的使用§1魔法系统§0, 施法者还需要学会使用§1锁敌§0 系统,将视线对准目标并且摁 住锁定按钮(默认为R). 现在,你可以更好地施展魔法, 有些魔法也会多出一些效果.
+alfheim.page.targets1=要选择一个盟友,请摁下T键. 多次摁下将会循环选择盟友, 所选成员的名称将以绿色高 亮显示. 同时使用锁定键无法选择盟 友以避免误伤. boss的可锁定距离是128格, 其他所有生物的可追踪距离 是32格
+
+lexicon.time=消耗: %.2f
+lexicon.cd=冷却: %.2f
+lexicon.seconds=秒
+lexicon.mana=魔力:
+
+################################################################ IRI ################################################################
+
+alfheim.entry.rainbowFlora=彩虹生态
+alfheim.tagline.rainbowFlora=海姆达尔的礼物
+alfheim.entry.coloredDirt=虹彩泥土
+alfheim.tagline.coloredDirt=彩虹般的土壤,满足任何装饰需求
+alfheim.entry.aurora=极光土壤
+alfheim.tagline.aurora=一份土壤,多种颜色
+alfheim.entry.rodPrismatic=棱彩湖之杖
+alfheim.tagline.rodPrismatic=彩虹光芒
+alfheim.entry.irisSapling=虹彩树木
+alfheim.tagline.irisSapling=让大树染上风中的虹彩之色
+alfheim.entry.treeCrafting=树木繁茂化
+alfheim.tagline.treeCrafting=用魔力和材料注魔树木
+alfheim.entry.irisSeeds=虹彩草
+alfheim.tagline.irisSeeds=绝美风景中的彩虹草地
+alfheim.entry.coatOfArms=盾章
+alfheim.tagline.coatOfArms=宣誓你的效忠
+alfheim.entry.colorOverride=染彩戒指
+alfheim.tagline.colorOverride=多彩的魔法
+alfheim.entry.sealCreepers=魔源爬行者
+alfheim.tagline.sealCreepers=一场魔源风暴
+alfheim.entry.kindling=源火方块
+alfheim.tagline.kindling=野火燎原
+alfheim.entry.itemDisplay=物品托盘
+alfheim.tagline.itemDisplay=展示物品
+alfheim.entry.lightningSapling=雷击木
+alfheim.tagline.lightningSapling=可以吸收雷霆的木头
+alfheim.entry.infernalSapling=炎狱木
+alfheim.tagline.infernalSapling=不惧火焰
+alfheim.entry.circuitSapling=通量木
+alfheim.tagline.circuitSapling=红石信号出产地
+alfheim.entry.calicoSapling=防爆木
+alfheim.tagline.calicoSapling=爆炸吸收者
+alfheim.entry.barrierSapling=屏障木
+alfheim.tagline.barrierSapling=敌人退散
+alfheim.entry.treeBerry=魔法浆果
+alfheim.tagline.treeBerry=神奇树果
+alfheim.entry.livingwoodFunnel=活木漏斗
+alfheim.tagline.livingwoodFunnel=仅容纳一件物品的可过滤漏斗
+alfheim.entry.toolbelt=植物学家的工具腰带[IRI]
+alfheim.tagline.toolbelt=12个准备好的额外格子
+alfheim.entry.lamp=虹彩灯
+alfheim.tagline.lamp=信号强度测试仪
+aalfheim.entry.tctrees=神秘花园
+alfheim.tagline.tctrees=虚空来客
+alfheim.entry.silencer=寂静木
+alfheim.tagline.silencer=更柔和的声音
+alfheim.entry.amplifier=声波增强器
+alfheim.tagline.amplifier=更响的声音
+alfheim.entry.crysanthermum=双子水晶花
+alfheim.tagline.crysanthermum=温度带来的魔力
+alfheim.entry.andmyaxe=圣刃启示者
+alfheim.tagline.andmyaxe=第一位弑神者的武器
+alfheim.entry.starBlock=冰封之星
+alfheim.tagline.starBlock=末路的之光
+alfheim.entry.dagger=叛魂之匕
+alfheim.tagline.dagger=叛逆者的匕首
+alfheim.entry.shimmer=虹彩石英
+alfheim.tagline.shimmer=像彩虹一样的石英
+alfheim.entry.throwablePotions=可投掷药水
+alfheim.tagline.throwablePotions=支持远距离使用药水
+
+alfheim.category.dendrology=树木学
+
+alfheim.page.rainbowFlora0=在艾尔夫海姆,有一些独特的 §1虹彩之花§0和§1蘑菇§0,据说这些植 物只能在特定世界里存在,其 他维度里则不可存活. 他们和普通的神秘花没什么 不同,只是颜色会不停地变换 也可以像神秘花一样使用. 可以通过将§1虹彩之花粉末§0涂 抹在§1神秘花§0上获得新的虹彩 之花.
+alfheim.page.rainbowFlora1=采下花瓣
+alfheim.page.rainbowFlora2=磨制成粉
+alfheim.page.rainbowFlora3=打包成为方块使用
+
+alfheim.page.coloredDirt0=§1神秘花§0中所蕴含的潜能可以 改变土壤的颜色. 同时这种神秘的土壤可以在 没有水和锄头的情况下种植 树木和植物. 但是如果将其放在§1白雏菊§0旁, 它将恢复成原来的泥土
+alfheim.page.coloredDirt1=息壤之美
+
+alfheim.page.aurora0=通过将泥土和§魔力珍珠§0进行 混合,可以制造出一种能够捕 获空气中肉眼不可见的魔力 射线的土壤,根据位置的不同 土壤会显示不同的颜色,同时 这种土壤也可以在没有水和 锄头的情况下种植树木和植 物. 同样可以通过§1白雏菊§0将其转 化为普通的土壤
+alfheim.page.aurora1=在寂静的森林中寻找暮色之时
+alfheim.page.aurora2=木板
+alfheim.page.aurora3=楼梯
+alfheim.page.aurora4=半砖
+alfheim.page.aurora5=重新变为木板
+
+alfheim.page.rodPrismatic0=§1魔力透镜:闪光§0的一个令人沮 丧的特性,其制造出的§1魔力闪 光§0的颜色和透镜相同,而单个 透镜同时有一种颜色.但§1棱彩 湖之杖§0的力量,可以让你制造 出一个真正的彩虹§1魔力闪光§0.<br>和闪光透镜一样,也可以使用 幻影墨水进行染色.
+alfheim.page.rodPrismatic1=风之色彩
+
+alfheim.page.irisSapling0=感谢彩虹女神的祝福,这些树 苗来自于尘世树苗经过§1白雏 菊§0的净化.这些树苗只能在§1虹 彩土壤§0上生长,且会继承它们 扎根的土壤颜色.<br><br>它们真的只是§o超§0大的康乃馨
+alfheim.page.irisSapling1=树苗
+alfheim.page.irisSapling2=木板
+alfheim.page.irisSapling3=楼梯
+alfheim.page.irisSapling4=半砖
+alfheim.page.irisSapling5=变回木板
+alfheim.page.irisSapling6=磨碎
+
+alfheim.page.treeCrafting0=修改一个生命远比创造或毁 灭来的更加困难.§1虹彩木§0缺乏 正常的生命力,因此才可以被 制成各种美丽的木材.而§1命状 定序装置§0则可以使用魔力来 重新赋予这种生命力.这个由 §1黑曜石§0与§1虹彩§0材料制成的装 置可以将生命力注入到纯净 的树苗中,创造出各种有趣的 全新树种
+alfheim.page.treeCrafting1=在完成了结构搭建之后,用§1森 §1林法杖§0点击结构顶端的木板 装置将会进入预备状态. 要制作一个新的生命,使用者 必须将一个虹彩树苗放在结 构中心的虹彩土壤,然后将魔 力注入顶端的定序方块. 剩下所需的材料必须放在§1物 §1品托盘§0上. 如果一切正确,定序装置会自 行开始工作
+alfheim.page.treeCrafting2=命状定序装置
+
+alfheim.page.irisSeeds0=如果在§1虹彩土壤§0上使用§1骨粉§0, 将会长出§1虹彩草§0和§1虹彩高草§0. 可以通过将其放入§4魔力池§0的 方式得到§1虹彩之种§0,只需要右 键单击即可将泥土转化为§1虹 §1彩土壤§0
+alfheim.page.irisSeeds1=/etc/sudoers
+alfheim.page.irisSeeds2=如何增殖虎兰花
+
+alfheim.page.coatOfArms0=与§1饰品小件§0相似,§1纹章§0可以让 玩家在配戴饰品的时候更有 风格,它们可以戴在项链栏,也 可以和§1饰品§0一起合成.<br>§1纹章§0也可以充当§1染彩戒指§0, 改变你使用的魔法颜色
+alfheim.page.coatOfArms1=请出示你的证件
+
+alfheim.page.colorOverride0=§1染彩戒指§0,§1魔力透镜:染色§0的 §4戒指§0形态,甚至可以改变魔 法的颜色. 他们可以和另一个§1饰品§0一起 制作,就像是§1饰品小件§0一样, 同时他们也可以用花粉来染 色,要去除颜色只需要放在空 白的合成台即可.
+alfheim.page.colorOverride1=谨防黑暗牧师
+
+alfheim.page.sealCreepers0=§4魔源§0遍布于全世界,但是就像 河流一样,总有地方湍急或者 颠簸. §1魔源爬行者§0是§4魔力长河§0中的 一道裂痕. 如果你被它的爆炸波及到,你 会发现你被卷入了§4魔源风暴§0, 它将吞噬你身上的魔力,建议 尽可能的远离它们
+alfheim.page.sealCreepers1Drop=但是,它们有一个有趣的小特 性. 它们的身体内部会有一些魔 力凝聚物,偶尔可以在它们的 尸体上发现一些§1黑莲花§0. 当魔源风暴和成熟的黑莲花接 触的时候,它将破坏黑莲花 内部的平衡,并且将黑莲花 变得枯萎 §1枯萎的莲花§0也是一种珍惜的 魔法资源
+alfheim.page.sealCreepers1NoDrop=但是,它们有一个有趣的小特 性.他们制造的魔源风暴和成 熟的黑莲花接触时,会破坏黑 莲花内部的平衡,并且将黑莲 花变得枯萎§1枯萎的莲花§0也是 一种珍惜的魔法资源
+
+alfheim.page.kindling0=§1源火方块§0和地狱岩一样,不仅 可以防止火焰熄灭,还可以空 手右键切换熄灭和燃烧. <br>它也可以用红石来操作,但 相当难以操作
+alfheim.page.kindling1=赶紧把这火灭了
+
+alfheim.page.livingwoodFunnel0=对于某些人来说§1漏斗§0非常难 以控制,有时会让不该移动的 物品通过,有时速度太快. 相比之下§1活木漏斗§0要严谨的 多. 它一次只允许一种物品通过, 并且可以通过在旁边放置§1物 §1品展示框§0来进行过滤
+alfheim.page.livingwoodFunnel1=一次只能过一个
+
+alfheim.page.itemDisplay0=§1物品托盘§0是那些想要立体的 展示一个物品而不想将其丢 出或者放下的人的好帮手. 通过右击或者漏斗给它一个 物品,这个物品将会漂浮在托 盘上.<br>§m这是一个炫耀的好机会
+alfheim.page.itemDisplay1=用泰拉钢来炫富
+
+alfheim.page.lightningSapling0=§1雷击木§0就像一根天然的避雷 针,它会将周围的闪电吸引到 它的树冠以吸收闪电. 吸引闪电的过程中有时会导 致周围小范围内的生物和方 块被闪电波及. 不过,由于这种树木的存在, 这种情况应该会减弱一些.
+alfheim.page.lightningSapling1=托尔会恨你的
+alfheim.page.lightningSapling2=木板
+alfheim.page.lightningSapling3=楼梯
+alfheim.page.lightningSapling4=半砖
+alfheim.page.lightningSapling5=树枝
+alfheim.page.lightningSapling6=碎片
+
+alfheim.page.infernalSapling0=§1炎狱木§0就像是一个固态的熔 岩池,内部常年肆虐的地狱炎 火让它可以对常规的凡火视 若无睹. 也可以用于烹饪食物
+alfheim.page.infernalSapling1=无论火焰多么凶猛 它始终毫发无伤
+alfheim.page.infernalSapling2=木板
+alfheim.page.infernalSapling3=楼梯
+alfheim.page.infernalSapling4=半砖
+alfheim.page.infernalSapling5=树枝
+alfheim.page.infernalSapling6=煤炭
+alfheim.page.infernalSapling7=碎片
+
+alfheim.page.circuitSapling0=§1通量木§0可以发出的红石信号 强度等同于其上方所堆叠的 §1通量木§0方块数量,§1通量木§0中的 任何方块都可以被计算,包括 其树苗.
+alfheim.page.circuitSapling1=我对双关语表示抱歉
+alfheim.page.circuitSapling2=木板
+alfheim.page.circuitSapling3=楼梯
+alfheim.page.circuitSapling4=半砖
+
+alfheim.page.calicoSapling0=§1花猫木§0拥有非常像猫的花纹, 可以吓走苦力怕,也可以吸收一 切周围可能发生的爆炸的能 量,包括苦力怕. §1防爆木§0中的任何方块都可以 用于吸收爆炸
+alfheim.page.calicoSapling1=不是猫抓板
+alfheim.page.calicoSapling2=木板
+alfheim.page.calicoSapling3=楼梯
+alfheim.page.calicoSapling4=半砖
+
+alfheim.page.barrierSapling0=§1屏障木§0会在一定范围内阻止 一切生物的靠近. 但不会排斥在其生长阶段靠 近的人.
+alfheim.page.barrierSapling1=吼吼,居然还敢靠近我吗
+alfheim.page.barrierSapling2=木板
+alfheim.page.barrierSapling3=楼梯
+alfheim.page.barrierSapling4=半砖
+
+alfheim.page.treeBerry0=任何经由§1命状定序装置§0制造 出的人造树木都有概率在树 叶里长出一些§1魔法果实§0.虽然 其营养价值较低,但往往拥有 奇特的力量,食用后会产生一 些有趣的效果.
+alfheim.page.treeBerry1=§1雷鸣果实§0,赋予食用者反弹部 分伤害的能力.这令无数敌人 感到畏惧
+alfheim.page.treeBerry2=§1炼狱果实§0,赋予食用者抵御熔 岩与火焰的能力.勇敢的冒险 者们翻山越岭时的必备品
+alfheim.page.treeBerry3=§1通量果实§0,赋予食用者释放§4红 石信号§0的能力
+alfheim.page.treeBerry4=§1花猫果实§0,赋予食用者随机的 效果.
+alfheim.page.treeBerry5=§1寂静果实§0,赋予食用者不受敌 对生物攻击的能力
+alfheim.page.treeBerry6=§1屏障果实§0,赋予食用者免除伤 害的能力.
+
+alfheim.page.toolbelt0=§1植物学家的工具腰带§0可以让 玩家获取额外的存储空间. 在潜行的时候玩家会多出12 个存储格以供交互. 其中任何的方块和物品都可 以被移壳杆使用.
+alfheim.page.toolbelt1=空间不大,但用处不小
+
+alfheim.page.lamp0=§1虹彩灯笼§0会发出像彩虹一样 的颜色. 在未被激活的时候外观是黑 色的,但是一个红石信号将会 让其的颜色改变. 信号的强度决定了颜色<br>如果接收到了最强的信号,它 将会像彩虹桥一样闪烁
+alfheim.page.lamp1=一只猪留下的
+
+alfheim.page.tctrees0=§1水晶花园§0中的确是空空如也 的. 缺少神秘学所需的一切自然 生命. 但是,§1凝矿兰§0偶尔产生的魔法 碎片可能可以帮助你制造出 这些所需的植物.
+alfheim.page.tctrees1=这就是她所说的
+alfheim.page.tctrees2=一些独特的树木
+alfheim.page.tctrees3=用§1精灵尘§0替代那些锭,树叶和 催化剂,似乎可以"腐蚀"一个§1虹 彩树苗§0. 这个过程去除了树木和其自 然的本源,并替换成了一些完 全不同的东西.
+alfheim.page.tctrees4=可控制的神圣能量
+alfheim.page.tctrees5=我猜你不想烧起来
+alfheim.page.tctrees6=孩子们,不要吸毒
+
+alfheim.page.silencer0=§1寂静木§0是一种天然的阻尼器, 任何寂静木块八格以内的任 何声音听起来都是正常的一 半
+alfheim.page.silencer1=更多实用工具:)
+alfheim.page.silencer2=木板
+alfheim.page.silencer3=楼梯
+alfheim.page.silencer4=半砖
+
+alfheim.page.amplifier0=通过减少§1音符盒§0内的空气,§1声 §1音波放大器§0,可以让一到两格 内的声音变响得多,并且这个 效果可以相互叠加
+alfheim.page.amplifier1=声音+增幅器+号角=愤怒
+
+alfheim.page.crysanthermum0=§1双子水晶花§0是能够在任何极 端环境下生存的花朵,通过让 其吞噬§1变质岩§0来改变它的温 度,它的温度与所处的生物群 系常温差距越大,魔力产出就 越多
+alfheim.page.crysanthermum1=石头的温度取决于它们所处 的生物群系,使双子水晶花温 度变动的程度也不同,但是还 是要注意,吞噬变质菌丝石头 后水晶花受到的影响是随机 的,可能变冷也可能变热
+alfheim.page.crysanthermum2=如果花变得太冷或者太热,它 将停止工作直到温度不再极 端. 需要注意的是最好不要一直 喂食重复的方块,如果喂食的 方块在前四次喂食中出现过, 则收益会逐步递减.
+alfheim.page.crysanthermum3=Fortanono留下的
+
+alfheim.page.andmyaxe0=虽然§1源质钢§0锻造出的武器和 装备并不是最顶尖的,但是它 拥有极强的可塑性. 似乎可以进一步强化它的力 量,用不同寻常的方式. 通过使用六种不同的力量,你 成功锻造出了一把传奇级别 的武器§1圣刃启示者§0. 它攻击的不是身体,而是灵魂 当它击中那些不朽的存在的 时候会非常有趣.
+alfheim.page.andmyaxe1=§1圣刃启示者§0具有两个主要功 能. 它可以像剑一样挥击,也可以 像常规斧头一样砍树. 不过要注意的是它无法获得 任何工具类的附魔. 另一个能力则是吸取敌人的 魔力值,吸取那些进入范围内 的敌人身上的魔力. 范围随着使用时间的延长而 变长.
+
+alfheim.page.starBlock0=§1冰封之星§0是被困在大地上恒 星之光. 它们是相对便宜的稳定光源, 并且可以发出和§1萤石§0强度一 样的光. 由于本身不稳定的特性,它们 只能由玩家收集.
+alfheim.page.starBlock1=北极星将指引你的道路
+alfheim.page.starBlock2=§1裂纹星§0是被困在大地上虹彩 一般的星光. 它们看起来像一个光球,可 以通过森林法杖调节多个裂 纹星之间的质量. 它们可以发出与§1萤石§0相同强 度的光,并且可以制作成虹彩 中包含的所有颜色.
+alfheim.page.starBlock3=裂网框架
+
+alfheim.page.dagger0=§1叛魂之匕§0是一个极为矛盾的 武器,在防守的时候远比进攻 要强. 作为武器,它甚至比一把木剑 还要弱. 但是在防守的时候它绝对是 最顶尖的盾牌,在匕首变暗之前命 中的所有攻击都将被完全反 弹.
+
+alfheim.page.shimmer0=将§1下界之星§0和§1虹彩§0的能量结 合在一起,将会制造出§1虹彩石 §1英§0,一种石英的变种. 和普通的石英一样,§1虹彩石英§0 可以制造成块以供装饰. 但是因为某些原因,它无法和 天翼族之冠相结合
+alfheim.page.shimmer1=用钢丝刮擦桶底
+
+alfheim.page.throwablePotions0=将任意一个§1精灵之酿§0和火药 一起合成就可以让其变成投 掷型药水,在与地面或是实体 接触的时候爆炸,通过减少使 用次数可以提高爆炸范围和 持续时间.
+alfheim.page.throwablePotions1=要来了!
+alfheim.page.throwablePotions2=将任意§1精灵之酿§0与一个§1烈焰 弹§1和一个§1火药§0结合,可以制作 出在接触到地面或生物时发 生爆炸的烈焰弹. 由于只使用的火药和烈焰弹 来制作,因此能比药水飞的更 远.
+alfheim.page.throwablePotions3=我喜欢清晨的汽油味
+
+alfheim.entry.fenrir=芬里尔
+alfheim.tagline.fenrir=打破束缚
+alfheim.page.fenrir0=传说,洛基的长子被诸神所缚, 并被深埋于世界树根部附近的 隐蔽洞穴中.没有哪个愚蠢的 凡人会妄图挑战这头可怖的 野兽.直到现在...?
+alfheim.page.fenrir1=由§4巨狼芬里尔§0的皮毛之称的 装备驱使你挑战那些旁人所 不敢踏足之地,超越自身的极 限,从而打破§1格莱普尼尔§0的束 缚.§1群狼之王§0 -这套装备的特殊能力赋予你 巨狼的力. §4芬里尔的利爪§0与§4夜蚀蹂躏者 §0允许你的攻击穿透敌人的护 甲,也可以像护盾一样抵挡敌 人的攻击.
+alfheim.page.fenrir2=§1芬里尔头盔§0
+alfheim.page.fenrir3=§1芬里尔胸甲§0
+alfheim.page.fenrir4=§1芬里尔护腿§0
+alfheim.page.fenrir5=§1芬里尔护胫§0
+
+alfheim.entry.fenrirCloak=芬里尔披风
+alfheim.tagline.fenrirCloak=在暴风雨中拯救你
+alfheim.page.fenrirCloak0=神秘的§1芬里尔披风§0可以抵御 冰寒领域的刺骨寒冷,不仅能 带来温暖,还能是佩戴者在暴 风雪中拥有风一样的迅捷.当 披上这件披风时,佩戴者将获 得野狼般的敏捷,能够优雅的 闪避袭来的攻击.
+alfheim.page.fenrirCloak1=The §1芬里尔披风§0
+
+alfheim.entry.fenrirDrop=芬里尔的礼物
+alfheim.tagline.fenrirDrop=胜利者的奖励
+alfheim.page.fenrirDrop0=强大的巨狼将赐予英雄们他 的礼物... 这些遗物都是芬里尔巨狼强 大力量与古老本源的证明,它 们象征着力量与不败.无论是 谁,获得了这些遗物的人都会 化身为大自然的怒火,在战斗 中拥有无与伦比的技巧与力 量.
+alfheim.page.fenrirDrop1=§1哈提之眼§0:这个遗物发出的月 光刺破了黑夜的黑暗,照亮了 每一处阴暗的角落与秘密的 小径.它的光芒照射在敌人的 双目之上,剥夺了他们的视觉, 使他们注定在黑暗中绝望的 挣扎.拥有这个遗物的人会成 为月光化身,不受阴影的影响, 是黑暗中的寂静猎人.
+alfheim.page.fenrirDrop2=§1斯库尔之噬§0:这件遗物充满了 太阳之力.来自它本源的致命 烈焰可以增强对亡灵的伤害. 它燃烧的火焰吞噬了敌人,吸 取他们的生命力.拥有斯库尔 之噬的人成为了不可战胜的 光明圣骑士,能用神圣的光辉 毁灭罪恶之人.
+alfheim.page.fenrirDrop3=§1咆哮护符§0:佩戴者会获得狼群 领袖的能力.当其被激活时,巨 狼的咆哮会震慑每一个敌人, 咆哮护符的魔力将从内部击 溃敌人的身体与心灵.
+alfheim.page.fenrirDrop4=§1狼血魔药§0:由最强大的萨满制 造的药水.使用着将化身最致 命的猎人,像狼一般的优雅与 灵敏.他的攻击会被野兽般的 愤怒强化,变得强大且致命,他 的跳跃无比轻盈,就如同最为 狡猾与敏捷的野狼一般.
+alfheim.page.fenrirDrop5=§1芬里尔的心脏§0:蕴含了巨狼神 圣力量的遗物.其富有节奏的 搏动让佩戴者拥有强大的力 量与恢复能力.不仅为佩戴者 提供抗性与再生效果,还会让 佩戴者的攻击伤害提升到前 所未有的程度.拥有这颗心脏 的人将成为不可阻挡的移动 堡垒.
+
+alfheim.entry.fenrirGlove=芬里尔护腕
+alfheim.tagline.fenrirGlove=强化你的战斗技巧
+alfheim.page.fenrirGlove0=传说,芬里尔护腕是一件充满 了异界力量的战斗饰品.无论 是赤手空拳还是挥舞§1夜蚀蹂 躏着§0,这个护腕都将强化你的 攻击力.你的任何近战攻击都 具有穿透护甲的神奇能力.
+alfheim.page.fenrirGlove1=奥丁之蚀
+
+alfheim.entry.tunedSaplings=魔法育种
+alfheim.tagline.tunedSaplings=培育稀有树木
+alfheim.page.tunedSaplings0=你是否曾好奇为何自然界中 能生长出那些奇异的树木， 而你的花园却从未成功？ 是否曾想让这些树木装点你 的家园？借助§1魔力调谐§0的力 量，你现在可以从普通树 苗中培育出各种奇形怪状的 树木。只需稍加§4魔法§0的滋养， 它们就能长得非常茁壮。

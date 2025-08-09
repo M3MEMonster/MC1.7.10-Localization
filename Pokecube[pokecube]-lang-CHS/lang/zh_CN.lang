@@ -1276,7 +1276,7 @@ pokemob.stance.stand=站立
 achievement.catch=捉到一只%1$s
 achievement.get1stPokemob=抓到第一只宝可梦
 achievement.get1stPokemob.desc=ポケモン、ゲットだぜ
-gui.pokemob.choose1st=请选择你的御三家
+gui.pokemob.choose1st=请选择你最初的伙伴
 gui.pokemob.select=选择
 gui.pokedex.village=最近的城镇
 

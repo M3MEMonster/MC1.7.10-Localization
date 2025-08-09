@@ -1,0 +1,272 @@
+<?xml version="1.0"?>
+<book>
+    <page>
+        <text x="92" y="-13" bold="true">简介</text>
+        <text>海洋物语工厂指南介绍了一些不同的机器和物品，以帮助应对各种不同的情况，本书将帮助您描述它们的功能。</text>
+        <text bold="true" y="40">配置</text>
+        <text y="62">整个海洋物语中的许多机器都可以让您调整其自动弹出设置或界面中的红石模式。下面是关于每种模式的一些信息。</text>
+        <text y="90" bold="true">红石模式设置</text>
+        <text y="170" size="0.65" wrap="300">禁用 - 此机器不会对红石信号做出反应</text>
+        <text y="180" size="0.65" wrap="300">低 - 有红石信号时不工作</text>
+        <text y="190" size="0.65" wrap="300">高 - 收到红石信号时工作</text>
+        <text y="125" bold="true">自动输出设置</text>
+        <text y="225" size="0.65" wrap="300">禁用 - 此机器不会自动输出任何物品</text>
+        <text y="235" size="0.65" wrap="300">物品 - 此机器将自动输出物品</text>
+        <text y="245" size="0.65" wrap="300">流体 - 此机器将自动输出流体</text>
+        <text y="255" size="0.65" wrap="300">物品&amp;流体 - 机器将自动输出物品和流体</text>
+    </page>
+     <page>
+        <text x="0" y="-13" bold="true">自动矿物辞典转换设备</text>
+        <text y="8" wrap="268" size="0.7">此方块可以将矿物词典的等效项从一个转换为另一个。您只需要一个要转换的物品。只需在转换器界面中，将要转换的物品放在机器左侧的插槽中，它将生成一个虚拟物品。然后，您可以左键单击此物品，它将循环浏览所有与矿物字典等效的物品！然后，只需将要转换的物品放在右侧的输入槽中，它将快速为您转换物品。（右键单击可从顶部插槽中删除物品）。如果一个物品有多个矿物词典条目，也可以用鼠标中键单击这些项目，以更改循环关联的矿物字典名称。
+如果24个槽的空间不足，则可以在槽中放置物品过滤器（右键单击它们以编辑其内容），最多可以放置216个过滤器。</text>
+        <crafting x="5" y="119" size="1">
+            <craft1>|writable_book|</craft1>
+            <craft2>feather|pearl|feather</craft2>
+            <craft3>ingotCopper|baseWood|ingotCopper</craft3>
+            <craftResult>autodictionary</craftResult>
+        </crafting>
+        <crafting x="100" y="119" size="1">
+            <craft1>wicker||wicker</craft1>
+            <craft2>wicker|net|wicker</craft2>
+            <craft3>|wicker|blank</craft3>
+            <craftResult>filter</craftResult>
+        </crafting>
+    </page>
+    <page>
+        <text x="72" y="-13" bold="true">锯木机&amp;图纸</text>
+        <text y="2">锯木厂可用于创建各种不同的自定义方块，使个面上有不同的纹理。你可以按照图纸来制作方块。你需要图纸操作锯木厂。</text>
+        <text y="100" bold="true">图纸</text>
+        <text y="135">制定图纸的方法是：拿一个空白图纸和一些图纸粉笔，并确保它们都在你的物品栏中，然后用粉笔右键单击一个与你想要制定图纸的属性相似的方块。例如，如果需要自定义照明灯图纸，请在灯具上单击鼠标右键，或者在楼梯上单击右键来制作楼梯图纸。</text>
+        <crafting x="5" y="42" size="1">
+            <craft1>dyeBlue|dyeBlack|</craft1>
+            <craft2>paper|dyeBlue|</craft2>
+            <craft3>||</craft3>
+            <craftResult>plan_blank</craftResult>
+        </crafting>
+        <crafting x="100" y="42" size="1">
+            <craft1>limestoneraw||</craft1>
+            <craft2>limestoneraw||</craft2>
+            <craft3>dyeWhite||</craft3>
+            <craftResult>chalk</craftResult>
+        </crafting>
+    </page>
+    <page>
+        <text x="22" y="-13" bold="true">使用锯木机</text>
+        <text y="2">首先，将您的图纸放在左侧三个插槽之一。（右键单击插槽以更改选定的插槽）。然后将要用作边的方块放置在左侧的其他6个插槽中。中间的4排是东南西北四面，而另一排是顶部/底部面。你可以用羽毛代替任何一个方块面，那面将会是完全看不见的。如果你想加快锯木机的速度，可以使用亢奋升级。请注意，如果您感到困惑，可以将漏斗放在锯木厂的侧面，方块将进入相应的槽中。如果使用铁匠锤右键单击方块，也可以在世界上旋转方块。</text>
+        <crafting x="45" y="110" size="1.1">
+            <craft1>blank|iron_axe|blank</craft1>
+            <craft2>slabWood|logWood|slabWood</craft2>
+            <craft3>ingotCopper|baseWood|ingotCopper</craft3>
+            <craftResult>sawmill</craftResult>
+        </crafting>
+    </page>
+    <page>
+        <text x="92" y="-13" bold="true">图纸类型</text>
+        <text>这是所有图纸的清单以及您需要右击什么方块来获得他们</text>
+        <stack y="15" item="plan_floor"></stack>
+        <text x="20" y="21" size="0.9" bold="true">地板图纸</text>
+        <text x="20" y="33">任意地毯</text>
+        
+        <stack y="32" item="plan_block"></stack>
+        <text x="20" y="40" size="0.9" bold="true">方块图纸</text>
+        <text x="20" y="53">任何不会发光的普通方块</text>
+        
+        <stack y="49" item="plan_stairs"></stack>
+        <text x="20" y="59" size="0.9" bold="true">楼梯图纸</text>
+        <text x="20" y="73">任意楼梯</text>
+        
+        <stack y="66" item="plan_slabs"></stack>
+        <text x="20" y="78" size="0.9" bold="true">台阶图纸</text>
+        <text x="20" y="93">任意台阶</text>
+        
+        <stack y="83" item="plan_fence"></stack>
+        <text x="20" y="97" size="0.9" bold="true">栅栏图纸</text>
+        <text x="20" y="113">任意栅栏</text>
+        
+        <stack y="100" item="plan_gate"></stack>
+        <text x="20" y="116" size="0.9" bold="true">栅栏门图纸</text>
+        <text x="20" y="133">任意栅栏门</text>
+        
+        <stack y="117" item="plan_wall"></stack>
+        <text x="20" y="135" size="0.9" bold="true">墙 图纸</text>
+        <text x="20" y="153">任意墙</text>
+        
+        <stack y="134" item="plan_light"></stack>
+        <text x="20" y="154" size="0.9" bold="true">灯具图纸</text>
+        <text x="20" y="173">任意发光的方块</text>
+        
+        <stack y="150" item="plan_redstone"></stack>
+        <text x="20" y="173" size="0.9" bold="true">RF供能方块图纸</text>
+        <text x="20" y="193">任何具有红石能量的方块</text>
+    </page>
+    <page>
+        <text x="22" y="-13" bold="true">漆刷</text>
+        <text y="2">漆刷允许您绘制世界上任何现有的自定义方块。为了做到这一点，您需要按住shift键并右键单击要从中获取纹理的块，这将被指定给漆刷。然后，您可以简单地右键单击（或者shift+右键单击的情况下），来绘制纹理的一侧。这是最简单的装饰方式。如果你想绘制一个不可见的边，只需按住shift键并右键单击任何自定义方块，它就会将纹理设置为空气。（对栅栏门不起作用）</text>
+        <crafting x="35" y="56" size="1.5">
+            <craft1>|wool|wool</craft1>
+            <craft2>|aluminumBlock|wool</craft2>
+            <craft3>sawmill||</craft3>
+            <craftResult>paintbrush</craftResult>
+        </crafting>
+    </page>
+    <page>
+        <text x="82" y="-13" bold="true">发电机</text>
+        <text y="2">海洋物语中有一些机器使用红石通量，这是由热力膨胀团队COFH创建的电力系统。到目前为止，海洋物语引入了一种生产红石通量的新方法。这是通过创建水轮机实现的。要创建它，您需要制作一个转子、一个水闸、铁结构方块和一个发电机。</text>
+        <crafting x="5" y="96" size="1">
+            <craft1>ingotIron|glass_pane|ingotIron</craft1>
+            <craft2>glass_pane||glass_pane</craft2>
+            <craft3>ingotIron|glass_pane|ingotIron</craft3>
+            <craftResult>baseIron</craftResult>
+        </crafting>
+        <crafting x="95" y="96" size="1">
+            <craft1>|battery.copper|</craft1>
+            <craft2>comparator|ingotMagnesium|comparator</craft2>
+            <craft3>dustRedstone|baseIron|dustRedstone</craft3>
+            <craftResult>generator</craftResult>
+        </crafting>
+    </page>
+    <page>
+        <text x="22" y="-13" bold="true">转子类型</text>
+        <text y="2">有三种不同的转子。铜质、铝质和钛质。每一种都比前一种更好，能够产生更多的能量。要安装这些转子，只需在铁结构方块上单击鼠标右键，它就会变成在世界中的旋转转子。</text>
+        <crafting x="5" y="55" size="1">
+            <craft1>|ingotCopper|</craft1>
+            <craft2>ingotCopper|slabWood|ingotCopper</craft2>
+            <craft3>|ingotCopper|</craft3>
+            <craftResult>turbine.copper</craftResult>
+        </crafting>
+        <crafting x="95" y="55" size="1">
+            <craft1>|ingotAluminum|</craft1>
+            <craft2>ingotAluminum|stone_slab|ingotAluminum</craft2>
+            <craft3>|ingotAluminum|</craft3>
+            <craftResult>turbine.aluminum</craftResult>
+        </crafting>
+        <crafting x="45" y="75" size="1.3">
+            <craft1>|ingotTitanium|</craft1>
+            <craft2>ingotTitanium|stone_slab 7|ingotTitanium</craft2>
+            <craft3>|ingotTitanium|</craft3>
+            <craftResult>turbine.titanium</craftResult>
+        </crafting>
+    </page>
+    <page>
+        <text x="82" y="-13" bold="true">水轮机</text>
+        <text y="10" size="0.7" wrap="265">为了建造一台水轮机，只需在加压水旁边放置一个转子即可。确保您的转子与发电机相连，它将从发电机发电。请参见下图。</text>
+        <img mod="mariculture" x="20" y="83" src="factory/water_turbine" size="0.55" stretch="0.9"></img>
+    </page>
+    <page>
+        <text x="52" y="-13" bold="true">水闸</text>
+        <text y="2" size="0.8" wrap="230">水闸有两个功能。它可以将液体从水槽中抽出，或将其导入。较大的一侧是输出面，而较窄的一侧是输入面。然而，水闸的主要功能是产生加压水，用于水轮机。你需要在水闸身后建一座水塔，水塔越高，他们生产的水就越多。水闸每10秒仅产生一次水，所以你可能需要很多水闸来驱动你的涡轮机。
+（高压水会损坏地形）</text>
+        <img mod="mariculture" y="260" src="factory/sluice" size="0.4" stretch="0.8"></img>
+        <crafting x="90" y="74" size="1.2">
+            <craft1>|minecraft:hopper|</craft1>
+            <craft2>wheel|iron_bars|wheel</craft2>
+            <craft3>ingotAluminum|baseIron|ingotAluminum</craft3>
+            <craftResult num="4">sluice</craftResult>
+        </crafting>
+    </page>
+    <page>
+        <text x="82" y="-13" bold="true">高级水闸</text>
+        <text y="2">工作原理与普通水闸几乎相同，但能产生更多的水。它也可以用来填充大面积的液体，而非仅填充一格方块。</text>
+        <crafting x="5" y="46" size="1">
+            <craft1>ingotTitanium|hpwater|ingotTitanium</craft1>
+            <craft2>ingotTitanium|Mariculture:upgrade 12|ingotTitanium</craft2>
+            <craft3>ingotTitanium|sluice|ingotTitanium</craft3>
+            <craftResult>sluiceAdvanced</craftResult>
+        </crafting>
+        <crafting x="95" y="46" size="1">
+            <craft1>logWood|logWood|logWood</craft1>
+            <craft2>logWood|crafting_table|logWood</craft2>
+            <craft3>logWood|baseWood|logWood</craft3>
+            <craftResult>unpacker</craftResult>
+        </crafting>
+        <text x="0" y="120" bold="true">拆包机</text>
+        <text y="160">此机器执行1x1的制作配方。通过漏斗将物品从顶部输入，产物可以从机器的底部抽出。</text>
+    </page>
+    <page>
+        <text x="32" y="-13" bold="true">鱼种分类机</text>
+        <text y="2">鱼种分类机，允许您根据鱼的种类对鱼进行分类。它还可以对其他项目进行排序。为了设置它，您需要将要排序的物品放在右侧的一个插槽中。然后，您可以单击插槽，它将在所有不同的颜色之间循环，一种颜色代表方块的一侧。然后，其他mod或管道仅允许从该侧拉出对应物品。你也可以单击左侧的方框以更改默认面。</text>
+        <crafting x="40" y="75" size="1.3">
+            <craft1>dyeBlack|pearl|dyeYellow</craft1>
+            <craft2>dyeGreen|fish|dyeCyan</craft2>
+            <craft3>dyeRed|baseWood|dyeWhite</craft3>
+            <craftResult>fishSorter</craftResult>
+        </crafting>
+    </page>
+    <page>
+        <text x="62" y="-13" bold="true">机械化海绵</text>
+        <text y="5" size="0.75" wrap="250">你有没有清理过大面积的液体？机械化海绵可以为你做这件事，它只需要一点点RF能量能完成这项工作。它最多可以清理97x97区域。除了机械化海绵，你还需要5个额外的海绵块。（如果禁用了世界模块，请使用黄色羊毛）。只需将海绵放在远离中央机械海绵的5个方向上，这将决定它将清理该区域的距离。然后，您需要为海绵提供足够的RF能量以清除该区域。您可以通过右键单击机械化海绵来检查需要多少RF。</text>
+        <crafting x="40" y="50" size="1.5">
+            <craft1>blank|fish|blank</craft1>
+            <craft2>dropletWater|ingotAluminum|dropletWater</craft2>
+            <craft3>minecraft:sponge|baseIron|minecraft:sponge</craft3>
+            <craftResult>sponge</craftResult>
+        </crafting>
+    </page>
+    <page>
+        <img y="50" mod="mariculture" src="factory/sponge1" size="0.28" stretch="1.22"></img>
+        <text x="2" y="160" size="0.5" bold="true">像这样放置海绵</text>
+        <img x="95" y="50" mod="mariculture" src="factory/sponge2" size="0.28" stretch="1.22"></img>
+        <text x="97" y="160" size="0.5" bold="true">但是要在水里</text>
+        <hr y="80"></hr>
+        <img y="450" mod="mariculture" src="factory/sponge3" size="0.28" stretch="1.22"></img>
+        <text x="2" y="225" size="0.5" bold="true">给它提供RF能量</text>
+        <img x="95" y="450" mod="mariculture" src="factory/sponge4" size="0.28" stretch="1.22"></img>
+        <text x="97" y="225" size="0.5" bold="true">大功告成!</text>
+    </page>
+    <page>
+        <text x="62" y="-13" bold="true">增压容器</text>
+        <text y="5">增压容器是一种简单的流体储存设备，可以储存大量的流体，特别是当它们加装了大量的存储升级时。它们可以方便地将物品保持在一个位置，也可以自动输出，因此对于将水从水闸扩散到水轮机非常有用。它们可以是任意形状或大小，并且相互连接（如果放置正确，将形成一个巨大的储罐，当你摆好后，可能需退出存档1次，这样才能使容量真正叠加）。</text>
+        <crafting x="25" y="47" size="1.5">
+            <craft1>wheel|blockLapis|wheel</craft1>
+            <craft2>titaniumSheet|normalTank|titaniumSheet</craft2>
+            <craft3>titaniumSheet|sluice|titaniumSheet</craft3>
+            <craftResult>pressureVessel</craftResult>
+        </crafting>
+    </page>
+    <page>
+        <text x="62" y="-13" bold="true">水柱喷泉</text>
+        <text y="5" size="0.8" wrap="225">水柱喷泉是推动实体前进的简单装置。它们需要提供水或加压水。有了水，他们将把实体推到8格方块高，而有了加压水，他们会推到16格方块高。它们可以用红石信号进行控制。它们可用于渔网来将捕获的鱼推入漏斗。若你们在他们身后放置一个水箱，他们会把水箱里的水装满。如果你在它们后面放置一个存储装置，它们会把存储的物品从装置中喷出。</text>
+        <crafting x="25" y="48" size="1.55">
+            <craft1>|water_bucket|</craft1>
+            <craft2>|glass|</craft2>
+            <craft3>redstone|baseIron|redstone</craft3>
+            <craftResult num="16">geyser</craftResult>
+        </crafting>
+    </page>
+    <page>
+        <text x="102" y="-13" bold="true">F.L.U.D.D.</text>
+        <text y="5">Flash Liquidizer Ultra Doussing Device
+        超高压喷射背包可用于方块或物品形式。在物品形式中，它有四种模式：悬停飞行、火箭跳跃、涡轮加速和水枪喷射。您可以通过按流体键（默认V）+切换键（默认Y）在这些模式之间切换。为了正常工作，它需要填充加压水，您可以将其放下并填充，或者将其放入增压容器的填充槽中。</text>
+        <crafting x="25" y="47" size="1.5">
+            <craft1>|scubaLens|</craft1>
+            <craft2>plasticYellow|transparent_plastic|plasticYellow</craft2>
+            <craft3>scuba.tank|lifeCore|scuba.tank</craft3>
+            <craftResult>fludd</craftResult>
+        </crafting>
+    </page>
+     <page>
+        <text x="22" y="-13" bold="true">高压喷射背包 模式列表</text>
+        <text y="-4" bold="true">悬停 模式</text>
+        <text y="10">按住空格键和fludd键将使您的玩家缓慢向上上升，您可以使用该键在空中“悬停”。</text>
+        <text y="38" bold="true">火箭 模式</text>
+        <text y="60">按下fludd键，将使玩家快速爬升，帮助你登上高处。</text>
+        <text y="72" bold="true">涡轮 模式</text>
+        <text y="100">按下fludd键将使玩家开始以极高的速度移动。</text>
+        <text y="106" bold="true">喷射 模式</text>
+        <text y="140">在喷射模式下按下fludd键将喷出高压水，水很热并且会伤害实体和方块。</text>
+    </page>
+    <page>
+        <text x="62" y="-13" bold="true">高压喷射背包 机器形式</text>
+        <text>在方块形式中，喷射背包非常像一个高级的喷泉，你可以控制其喷出多远之类的属性。主要区别是它只接受高压水。下面列出了每次升级在喷射背包中的作用。</text>
+        <text y="44" bold="true">容量升级</text>
+        <text y="66">增加其储罐的储存容量。</text>
+        <text y="60" bold="true">亢奋升级</text>
+        <text y="85">增加水的喷射速度，同时增加加速模式的速度。</text>
+        <text y="83" bold="true">加热升级</text>
+        <text y="112">这会使水变得更滚烫，水越热，造成的伤害就高。</text>
+        <text y="114" bold="true">冷却升级</text>
+        <text y="149">这会使水变冷，并使喷射的水破坏方块，越冷，破坏的方块就越多。</text>
+        <text y="145" bold="true">天域升级</text>
+        <text y="185">这会导致喷射水的推动效应变成拉力，将物品拉向它，然后吸进箱子。</text>
+    </page>
+</book>

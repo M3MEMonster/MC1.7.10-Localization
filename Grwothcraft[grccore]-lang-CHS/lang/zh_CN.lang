@@ -1,0 +1,134 @@
+# Creative Tabs
+itemGroup.creative_tab_grccore=Growthcraft|核心
+
+# Blocks
+tile.grc.etfuturum_fence_rope_acacia.name=围栏绳 (Acacia)
+tile.grc.etfuturum_fence_rope_birch.name=围栏绳 (Birch)
+tile.grc.etfuturum_fence_rope_dark_oak.name=围栏绳 (Dark Oak)
+tile.grc.etfuturum_fence_rope_jungle.name=围栏绳 (Jungle)
+tile.grc.etfuturum_fence_rope_oak.name=围栏绳 (Oak)
+tile.grc.etfuturum_fence_rope_spruce.name=围栏绳 (Spruce)
+tile.grc.fenceRope.name=围栏绳
+tile.grc.netherBrickFenceRope.name=带有绳子的地狱砖栅栏
+tile.grc.naturaFenceRope.name=围栏绳 (%s)
+tile.grc.ropeBlock.name=绳子
+
+
+# Items
+item.grc.rope.name=绳子
+item.grccore.salt.name=盐
+item.grccore.bucketSalt.name=盐水桶
+item.grccore.bottleSalt.name=盐水瓶
+item.grccore.crowbar.black.name=黑色撬棍
+item.grccore.crowbar.red.name=红色撬棍
+item.grccore.crowbar.green.name=绿色撬棍
+item.grccore.crowbar.brown.name=棕色撬棍
+item.grccore.crowbar.blue.name=蓝色撬棍
+item.grccore.crowbar.purple.name=紫色撬棍
+item.grccore.crowbar.cyan.name=青色撬棍
+item.grccore.crowbar.light_gray.name=淡灰色撬棍
+item.grccore.crowbar.gray.name=灰色撬棍
+item.grccore.crowbar.pink.name=粉色撬棍
+item.grccore.crowbar.lime.name=黄绿色撬棍
+item.grccore.crowbar.yellow.name=黄色撬棍
+item.grccore.crowbar.light_blue.name=淡蓝色撬棍
+item.grccore.crowbar.magenta.name=品红色撬棍
+item.grccore.crowbar.orange.name=橙色撬棍
+item.grccore.crowbar.white.name=白色撬棍
+
+# Fluids
+fluid.tile.water=水
+fluid.tile.lava=岩浆
+
+## Salt Water
+fluid.grccore.SaltWater=盐水
+tile.grccore.BlockFluidSaltWater.name=盐水
+item.grccore.BottleFluidSaltWater.name=盐水瓶
+item.bucket.fluid.grccore.SaltWater.name=盐水桶
+
+# Other
+achievementPage.pageGrowthCraft=Growthcraft
+
+# Colors
+grc.color.Black=黑
+grc.color.Blue=蓝
+grc.color.Brown=棕
+grc.color.Cyan=青
+grc.color.Gray=灰
+grc.color.Green=绿
+grc.color.LightBlue=淡蓝
+grc.color.LightGray=淡灰
+grc.color.Lime=黄绿
+grc.color.Magenta=品红
+grc.color.Orange=橙
+grc.color.Pink=粉
+grc.color.Purple=紫
+grc.color.Red=红
+grc.color.Transparent=透明
+grc.color.White=白
+grc.color.Yellow=黄
+
+# Formats and Units
+grc.format.value.true=是
+grc.format.value.false=否
+grc.format.state.true=开
+grc.format.state.false=关
+grc.format.invalid_fluid=<无效液体>
+# Displayed for items
+grc.format.itemslot.empty=<空>
+grc.format.itemslot.invalid=<无效物品>
+
+# Modifier name
+grc.format.booze.name=%2$s%1$s
+
+# When a fluid is not a booze
+grc.format.fluid.name=%1$s
+
+# Name (stack_size)
+grc.format.itemslot.item=%s(x%d)
+# Displayed for tile entities with multiple tanks, %d is the tank index + 1
+grc.format.tank_id=储罐%d：
+# When the tank is empty
+grc.format.tank.empty=<空>
+# %s is the fluid name
+grc.format.tank.content_suffix=mB的%s
+
+# Waila Tooltips
+grc.format.crop.growth_prefix=生长进度：
+grc.format.crop.mature=成熟
+grc.format.crop.progress_format=%d%%
+grc.format.paddy.hasFluid=内有液体：
+grccore.device.heated.multiplier.format=%d%%
+grccore.device.heated.prefix=热量：
+grccore.device.heated.state.false= <冷却>
+grccore.device.progress.format= %d%%
+grccore.device.progress.prefix=进度：
+grccore.waila.option.DisplayFluidContent=液体储存：
+grccore.waila.option.DisplayHeated=加热的设备
+
+# Effects
+grc.effect.chance.format=有%d%%概率
+grc.effect.extinguish.desc=熄灭火焰
+grc.effect.ignite.desc=引燃%ds
+grc.effect.list.head=附加以下效果：
+grc.effect.null.desc=无效果
+grc.effect.random_list.head=附加以下任意一个效果：
+grc.effect.remove_potion_effect.format=移除%s
+grc.effect.weighted_random_list.format=有%d%%概率附加：
+
+# GUI
+gui.grc.progress.format=%s：%d / %d
+
+# Inventory
+grc.inventory.internal.name=物品栏
+
+# Tooltips
+grc.tooltip.detailed_information=按住 %s 显示详细信息
+
+# Achievements
+achievement.trusty_hardware=可靠的硬件
+achievement.trusty_hardware.desc=末影人不得近身
+achievement.half_life_confirmed=确认了，这里是《半条命》
+achievement.half_life_confirmed.desc=用撬棍击败一只僵尸
+achievement.salty_situation=咸嘴淡舌
+achievement.salty_situation.desc=装满一桶盐水

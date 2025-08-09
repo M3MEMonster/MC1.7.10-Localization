@@ -1,0 +1,2 @@
+将其放入assets\mariculture\books中
+#此文件来自MC百科用户@NewDeal

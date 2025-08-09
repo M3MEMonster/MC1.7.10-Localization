@@ -95,7 +95,7 @@ description.enchantment.lootBonus=该附魔使生物掉落更多物品.最多掉
 description.enchantment.digging=该附魔使方块被破坏的速度增加30%/69%/120%/186%/271%.加速效果只有在采集正确的方块时才有效.可用于镐,铲,斧和剪刀.
 description.enchantment.untouching=该附魔使原本不能获取的方块变得可以获取,如冰,草方块和原矿.可用于镐,铲,斧和剪刀.
 description.enchantment.durability=该附魔会增加工具或护甲的平均耐久.可用于游戏中几乎所有拥有耐久度的物品.如打火石,鱼竿,所有的护甲和工具.
-description.enchantment.lootBonusDigger=该附魔使特定方块有几率成倍掉落物品.成功率会降低而掉落量会增加.成功率33%/25%/20%同时掉落倍数2/3/4.对于掉落多物品的方块,如西瓜,最大掉落量每级增加1.砂砾掉落燧石的几率依次为14%/25/100%.可用于镐,铲和斧.
+description.enchantment.lootBonusDigger=该附魔使特定方块有几率成倍掉落物品。 随着附魔等级的提高，成功率会降低而掉落量会增加。成功率33%/25%/20%同时掉落倍数2/3/4。 对于掉落多物品的方块, 如西瓜，最大掉落量每级增加1。砂砾掉落燧石的几率依次为14%/25/100%。可用于镐，铲和斧。
 description.enchantment.arrowDamage=该附魔每级会提升25%弓箭造成的伤害.数值精度为半颗心.仅对弓有效.
 description.enchantment.arrowKnockback=该附魔会使怪物在被射中时击退一段距离.仅对弓有效.
 description.enchantment.arrowFire=该附魔会在箭发射时点燃它,同时引燃击中的目标.火箭只会影响到生物,玩家和tnt方块.仅对弓有效.
@@ -271,9 +271,9 @@ option.wawla.thaumcraft.pedestalItem=是否显示基座物品?
 option.wawla.thaumcraft.deconAspect=是否显示解构源质?
 
 #Artifice Enchantment Descriptions
-description.enchantment.artifice.invisible=An armour enchantment which makes the equipped piece of armour look invisible.
-description.enchantment.artifice.soulstealing=A weapon enchantment that causes mobs to drop additional experience points. Higher levels causes the amount of exp to increase.
-description.enchantment.artifice.resistance=An armour enchantment which provides protection from magical damage and wither damage. Higher levels offer better resistance.
+description.enchantment.artifice.invisible=持有该附魔的盔甲在穿戴时是隐形的。
+description.enchantment.artifice.soulstealing=用持有该附魔的武器攻击生物时会获得额外的经验，等级越高获得的经验越多。
+description.enchantment.artifice.resistance=削减魔法伤害和凋零伤害，等级越高削减越多。
 
 #Thaumcraft Enchantment Descriptions
 description.enchantment.repair=使物品随着时间的推移修复耐久. 此附魔有两个等级, 第二级以更快的速度恢复耐久. 此附魔可用于武器, 法杖核心和别的工具, 但不包括剪刀.
@@ -299,8 +299,8 @@ description.enchantment.ttinkerer:valiance=此附魔仅能用于武器. 附魔�
 description.enchantment.ttinkerer:quickDraw=此附魔仅能用于弓, 附魔后的弓拉弓速度将会加快.
 
 #Ars Magica 2 Enchantment Descriptions
-description.enchantment.magicresist=Reduces amount of damage received from magical sources.
-description.enchantment.soulbound=When the player dies, this item will be kept in the inventory on respawn, and will not drop on the ground.
+description.enchantment.magicresist=削减法术攻击造成的伤害
+description.enchantment.soulbound=当玩家死亡时物品会留在物品栏里。
 
 #Red Power 2 Enchantment Descriptions
 description.enchantment.vorpal=Increases the chance that a mob will drop its head on death.
@@ -315,7 +315,7 @@ description.enchantment.SpecialMobs.poisonBow=A bow based enchantment which give
 description.enchantment.SpecialMobs.poisonSword=A sword based enchantment which gives the damaged mob poison. Each level increases the power of the poison effect applied.
 
 #Natural Absorption Enchantment Descriptions
-description.enchantment.NaturalAbsorption.absorb=An enchantment for armour. The equipped piece of armour will increase the players maximum absorption amount.
+description.enchantment.NaturalAbsorption.absorb=当穿戴持有该附魔的盔甲时，玩家能够吸收更多的伤害
 
 #Simple Flight Enchantment Descriptions
 description.enchantment.fly_longer=Increases the total amount of flaps on Simple Flight devices.
@@ -355,9 +355,9 @@ description.enchantment.openblocks.flimflam=攻击玩家者将遭遇"厄运".
 description.enchantment.openblocks.laststand=当玩家只有一点生命值(半心)时,将消耗XP等级吸收下次伤害.
 
 #Forbidden Magic Enchantments
-description.enchantment.cluster=拥有炽心附魔的避役镐采掘特定矿石时有一定几率掉落矿簇.矿簇比原矿纯净得多,可以像矿石一样被熔炼.炽心附魔等级越高,掉落矿簇的几率越高.
+description.enchantment.cluster=拥有炽心附魔的避役镐采掘特定矿石时有一定几率掉落矿簇.矿簇比原矿纯净得多, 可以像矿石一样被熔炼.炽心附魔等级越高,掉落矿簇的几率越高.
 description.enchantment.consuming=使用挥霍附魔的工具采掘圆石、泥土、沙砾或地狱岩时,不会产生掉落.
-description.enchantment.corrupting=堕落附魔可以让你无需前往下界即可获得七宗罪碎片.有堕落附魔的镐开采蕴魔石时,有一定几率掉落七宗罪碎片.注意只有开采蕴魔石有效,直接采掘晶簇不会触发堕落.
+description.enchantment.corrupting=堕落附魔可以让你无需前往下界即可获得七宗罪碎片. 有堕落附魔的镐开采蕴魔石时,有一定几率掉落七宗罪碎片. 注意只有开采蕴魔石有效,直接采掘晶簇不会触发堕落.
 description.enchantment.educational=将知识注入武器中后,你创造了一种附魔.使用带有教育附魔的武器猛力捶击怪物头部,以使它们掉落更多的经验,增益取决于附魔等级.
 description.enchantment.greedy=使用有剥削附魔的武器杀死敌对生物时,有几率掉落绿宝石碎片.而杀害村民可以掉落整块绿宝石.
 description.enchantment.impact=避役工具附魔冲击后,可一次开采3x3范围的方块,使探矿更快,平地更容易.
